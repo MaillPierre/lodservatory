@@ -3,6 +3,3132 @@
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 
+[ a                    sd:Service ;
+  sd:endpoint          <http://datos-abertos.galiciana.gal/pt/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:21.665+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocabs.ardc.edu.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_geologic-time-scale-2020> ;
+  schema:dateModified  "2023-12-12T15:07:32.694+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.nobelprize.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:13.897+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ja.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:40.432+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://geo.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:07.482+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/pm20/query> ;
+  schema:dateModified  "2023-12-12T15:08:42.115+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.epo.org/linked-data/query> ;
+  schema:dateModified  "2023-12-12T15:10:05.720+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://virtuoso.plateforme.dipso.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:35.636+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://alaska.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:50.323+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://datos-abertos.galiciana.gal/pt/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:41.156+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.nationallibrary.fi/bib/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:39.308+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:49.043+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://d2kab.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:55.462+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://semanticweb.cs.vu.nl/dss/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:28.465+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://utep.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:05.625+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ldf.fi/mufi/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:29.757+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:14.098+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://opendata.aragon.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:37.356+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://el.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:37.914+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://clara.univ-nantes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:16.395+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://jsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:58.365+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.lotico.com:3030/lotico/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:52.403+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://upr.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:32.480+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ct-linkdata.aegean.gr/gcam/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:12.810+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ldf.fi/folklore/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:51.228+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://psm.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:37.694+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.hegroup.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:18.825+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://hawaii.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:32.976+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.southgreen.fr/> ;
+  schema:dateModified  "2023-12-12T15:08:06.136+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.muninn-project.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:12.930+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbtune.org/bbc/peel/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:38.536+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://libris.kb.se/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:09.518+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://wasabi.inria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:42.439+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://xn--slovnk-7va.gov.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:15.491+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.wikipathways.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:24.406+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://bio2rdf.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:04.669+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://jpsearch.go.jp/rdf/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:35.053+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
+  schema:dateModified  "2023-12-12T15:09:54.126+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ico.iate.inra.fr/fuseki/ontology/query> ;
+  schema:dateModified  "2023-12-12T15:10:21.901+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://libris.kb.se/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:26.121+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://taxref-graphdb.i3s.unice.fr/repositories/geco> ;
+  schema:dateModified  "2023-12-12T15:07:30.194+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vulcan.cs.uga.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:02.232+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.orpha.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:13.387+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.logainm.ie/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:51.663+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.sztaki.hu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:51.731+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/bsv/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:37.205+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://caligraph.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:28.889+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkedgeodata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:37.574+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.openlinksw.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:03.232+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://colinda.org/endpoint.php> ;
+  schema:dateModified  "2023-12-12T15:08:28.357+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sophox.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:40.581+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://taxref/mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:41.052+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.nobelprize.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:06.682+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://bio2rdf.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:52.596+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://howard.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:56.127+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://virtuoso.plateforme.dipso.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:31.597+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://xula.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:47.877+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:04.303+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ldf.fi/warsa/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:50.542+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://wasabi.inria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:16.735+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cedropendata.mfcr.cz/c3lod/cedr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:44.375+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.foodie-cloud.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:47.668+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/query> ;
+  schema:dateModified  "2023-12-12T15:08:40.752+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://opendata.aragon.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:48.525+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.insee.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:11.140+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://hunter-cuny.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:53.788+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://digital-agenda-data.eu/data/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:54.301+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.archives-ouvertes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:16.553+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://publications.europa.eu/webapi/rdf/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:57.786+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://tuskegee.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:53.768+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot> ;
+  schema:dateModified  "2023-12-12T15:10:08.456+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.abes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:22.746+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:35.659+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:09.856+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.idref.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:01.334+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.pathwaycommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:22.618+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linked.opendata.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:52.365+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkeddata1.calcul.u-psud.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:17.172+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.metanetx.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:53.286+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:19.689+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ideal-rdf.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:00.752+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:23.590+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://fuseki.gwascentral.org/gc/query> ;
+  schema:dateModified  "2023-12-12T15:07:09.480+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://eu.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:15.371+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.openaire.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:14.608+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:50.683+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/query> ;
+  schema:dateModified  "2023-12-12T15:10:26.720+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:03.848+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkeddata.finki.ukim.mk/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:25.818+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.rhea-db.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:42.108+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://quantum.agroparistech.fr/graphdb/repositories/Composite_making_process> ;
+  schema:dateModified  "2023-12-12T15:06:37.021+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://upr.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:53.419+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.irstea.fr/weather/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:39.225+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:24.334+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
+  schema:dateModified  "2023-12-12T15:09:05.171+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://clara.univ-nantes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:43.606+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ldf.fi/mufi/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:39.773+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.cssz.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:44.352+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ja.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:08.910+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.omabrowser.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:34.164+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://isidore.science/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:01.298+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/stwv/query> ;
+  schema:dateModified  "2023-12-12T15:10:19.193+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cdrewu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:03.892+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://semanticweb.cs.vu.nl/iati/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:49.929+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/weather/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:42.569+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkedlifedata.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:26.077+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://edan.si.edu/saam/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:21.999+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/bsv_test/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:33.380+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://utep.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:51.629+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://psm.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:36.474+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:40.774+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ruian.linked.opendata.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:15.318+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://taxref/mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:26.110+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.escr.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:51.939+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rdf.insee.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:36.590+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbtune.org/musicbrainz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:30.414+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://api.finto.fi/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:52.555+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://db.artsdata.ca/repositories/artsdata> ;
+  schema:dateModified  "2023-12-12T15:07:53.576+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.proconsortium.org/virtuoso/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:59.814+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://193.190.127.165:7200/repositories/ERA-KG-latest> ;
+  schema:dateModified  "2023-12-12T15:06:57.362+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lingualibre.org/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:38.918+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://bgee.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:35.333+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://datos.bcn.cl/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:50.481+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.nextprot.org/> ;
+  schema:dateModified  "2023-12-12T15:10:06.221+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:33.476+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ts.opendata.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:47.435+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://colil.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:10.163+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbkwik.webdatacommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:59.741+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.ebi.ac.uk/rdf/services/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:38.636+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://datos.bne.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:24.320+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://patho.phenomebrowser.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:43.126+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.xdams.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:40.706+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/gnd/query> ;
+  schema:dateModified  "2023-12-12T15:08:37.246+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://opencitations.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:39.568+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.omabrowser.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:50.356+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://id.nlm.nih.gov/mesh/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:08.770+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://edan.si.edu/saam/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:33.118+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://premon.fbk.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:38.870+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ohsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:26.084+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkedspending.aksw.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:07.519+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://weakg.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:54.792+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://meharry.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:38.674+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://api.parliament.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:03.965+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://hamap.expasy.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:02.384+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://famu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:44.570+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.ordnancesurvey.co.uk/datasets/50k-gazetteer/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:00.382+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.ordnancesurvey.co.uk/datasets/50k-gazetteer/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:43.298+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.persee.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:45.652+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ld.cultural.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:51.534+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkeddata1.calcul.u-psud.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:43.216+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018> ;
+  schema:dateModified  "2023-12-12T15:08:32.999+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://d2kab.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:07.745+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://landregistry.data.gov.uk/landregistry/query> ;
+  schema:dateModified  "2023-12-12T15:08:24.577+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:12.888+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://onto.fel.cvut.cz/rdf4j-server/repositories/ufo-current> ;
+  schema:dateModified  "2023-12-12T15:08:39.262+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linked.ec-dataplatform.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:43.833+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://montana.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:41.239+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cs.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:37.132+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://kaiko.getalp.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:12.668+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.snik.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:13.825+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.icane.es/opendata/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:04.523+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:25.382+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://hawaii.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:18.660+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://id.sgcb.mcu.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:38.860+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://alaska.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:42.265+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.wu.ac.at/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:49.207+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.wu.ac.at/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:43.402+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.odw.tw/> ;
+  schema:dateModified  "2023-12-12T15:06:44.923+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.genome.jp/sparql/linkdb> ;
+  schema:dateModified  "2023-12-12T15:10:04.246+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.xdams.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:20.044+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://id.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:50.343+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://uriburner.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:23.804+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://tuskegee.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:01.235+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cr.eionet.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:41.053+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
+  schema:dateModified  "2023-12-12T15:08:25.687+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
+  schema:dateModified  "2023-12-12T15:08:57.016+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://apps.morelab.deusto.es/labman/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:50.682+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:11.031+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.uniprot.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:19.131+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:48.249+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/ppdo/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:15.602+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dati.beniculturali.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:29.786+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ld.cultural.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:58.490+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
+  schema:dateModified  "2023-12-12T15:08:32.734+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:53.268+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://covidontheweb.inria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:18.321+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://webisa.webdatacommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:33.915+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://agrovoc.fao.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:04.988+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://fr.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:36.390+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.openlifedata.org/> ;
+  schema:dateModified  "2023-12-12T15:07:02.564+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:23.697+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://hu.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:46.117+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ldf.fi/folklore/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:59.152+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ldf.fi/warsa/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:13.490+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://tsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:17.735+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://query.wikidata.org/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:07.220+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://covidontheweb.inria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:42.276+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://yago-knowledge.org/sparql/query> ;
+  schema:dateModified  "2023-12-12T15:09:40.259+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.mimo-db.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:26.651+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linked.opendata.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:28.796+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:39.972+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.epo.org/linked-data/query> ;
+  schema:dateModified  "2023-12-12T15:06:10.722+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbtune.org/jamendo/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:42.805+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://taxref.mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:19.159+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.ordnancesurvey.co.uk/datasets/opennames/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:37.825+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.ordnancesurvey.co.uk/datasets/os-linked-data/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:21.395+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cultura.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:13.621+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://allegro.callisto.calmip.univ-toulouse.fr/#/repositories/sms> ;
+  schema:dateModified  "2023-12-12T15:06:46.045+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://clara.univ-nantes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:02.560+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://api.parliament.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:50.961+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkedwiki.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:22.359+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:11.573+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://bgee.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:42.015+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.cervantesvirtual.com/bvmc-lod/repositories/data> ;
+  schema:dateModified  "2023-12-12T15:08:35.878+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocab.getty.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:42.518+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.culture.fr/thesaurus/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:59.165+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://query.wikidata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:14.908+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://db.project-hobbit.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:34.574+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.europeana.eu> ;
+  schema:dateModified  "2023-12-12T15:09:15.242+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://opendata.mfcr.cz/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:36.094+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.ordnancesurvey.co.uk/datasets/code-point-open/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:27.186+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://id.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:27.260+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://d2kab.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:04.163+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbtune.org/magnatune/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:15.938+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://imagesnippets.com/sparql/images> ;
+  schema:dateModified  "2023-12-12T15:08:25.419+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://taxref/mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:15.933+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.gov.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:18.807+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dba-rdf.biosciencedbc.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:21.428+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://hkcan.julac.org/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:26.466+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.crssnky.xyz/spql/imas/query> ;
+  schema:dateModified  "2023-12-12T15:06:30.741+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:51.978+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://el.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:43.063+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://premon.fbk.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:55.083+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://geo.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:07.099+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.abes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:32.440+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cedropendata.mfcr.cz/c3lod/cedr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:22.351+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://clara.univ-nantes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:14.354+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://geco.ecophytopic.fr:8890/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:53.097+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cs.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:05.627+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dati.isprambiente.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:50.379+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ruian.linked.opendata.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:04.907+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:48.718+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.europeana.eu/> ;
+  schema:dateModified  "2023-12-12T15:06:00.956+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://webenemasuno.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:56.113+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
+  schema:dateModified  "2023-12-12T15:10:31.658+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://api.finto.fi/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:49.972+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://isidore.science/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:40.642+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://smt.esante.gouv.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:23.325+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://utsa.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:33.634+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbtune.org/jamendo/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:46.584+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
+  schema:dateModified  "2023-12-12T15:09:13.004+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:31.904+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://webenemasuno.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:03.172+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
+  schema:dateModified  "2023-12-12T15:08:32.389+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.orthodb.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:03.388+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
+  schema:dateModified  "2023-12-12T15:09:11.152+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.openaire.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:43.318+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:54.451+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ldf.fi/kirjasampo/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:24.790+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://kaiko.getalp.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:57.825+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://factforge.net/repositories/ff-news> ;
+  schema:dateModified  "2023-12-12T15:07:52.563+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.odw.tw/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:35.406+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://msm.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:27.433+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.gov.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:07.711+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vocab.nerc.ac.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:27.701+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/econ_pers/query> ;
+  schema:dateModified  "2023-12-12T15:09:59.620+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.odw.tw> ;
+  schema:dateModified  "2023-12-12T15:07:29.863+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://metadb.riken.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:04.683+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.agroportal.lirmm.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:43.447+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://fuseki.kupferdigital.org/demonstrator/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:40.365+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.muninn-project.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:16.898+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://publications.europa.eu/webapi/rdf/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:51.296+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.lotico.com:3030/lotico/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:15.245+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://glyconnect.expasy.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:28.529+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.uniprot.org> ;
+  schema:dateModified  "2023-12-12T15:06:16.353+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/query> ;
+  schema:dateModified  "2023-12-12T15:06:34.956+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:21.248+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://navi.first.lifesciencedb.jp/fanavi/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:55.218+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://193.190.127.165:7200/repositories/ERA-KG-latest> ;
+  schema:dateModified  "2023-12-12T15:07:01.579+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://famu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:58.383+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://slod.fiz-karlsruhe.de/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:09.500+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/ppdo/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:42.397+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.govdata.de/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:33.347+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ts.opendata.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:20.660+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://query.wikidata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:26.182+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://xn--slovnk-7va.gov.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:33.306+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:16.683+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.orpha.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:51.247+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/weather/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:53.636+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://semanticweb.cs.vu.nl/iati/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:58.543+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rdf.pathwaycommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:07.577+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cultura.linkeddata.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:37.779+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql-noipa.mef.gov.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:03.043+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://api.cooperationdatabank.org/datasets/coda/databank/services/databank/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:44.946+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.genome.jp/sparql/linkdb> ;
+  schema:dateModified  "2023-12-12T15:07:53.013+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ccny-cuny.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:07.683+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.cinematheque.qc.ca/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:49.583+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.ordnancesurvey.co.uk/datasets/boundary-line/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:21.972+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linked.ec-dataplatform.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:08.264+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://api.cooperationdatabank.org/datasets/coda/databank/services/databank/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:12.543+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dati.camera.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:30.534+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.glycoinfo.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:06.154+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.ebi.ac.uk/rdf/services/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:14.788+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://digits2.mainzed.org/covid19/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:04.992+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://hamap.expasy.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:20.567+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:27.981+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://smt.esante.gouv.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:01.573+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://imagesnippets.com/sparql/imgtag> ;
+  schema:dateModified  "2023-12-12T15:07:06.587+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://uccaribe.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:56.856+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.scholarlydata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:07.145+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://caligraph.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:55.124+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dati.camera.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:20.158+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.archives-ouvertes.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:49.710+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:38.035+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://eagle-i.itmat.upenn.edu/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:34.512+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:38.219+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://imagesnippets.com/sparql/images> ;
+  schema:dateModified  "2023-12-12T15:07:48.949+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.wu.ac.at/sparql/> ;
+  schema:dateModified  "2023-12-12T15:09:26.148+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rdf.disgenet.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:09.332+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ldf.fi/ww1lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:47.040+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://opendata.mfcr.cz/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:05.737+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ts.glycosmos.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:05.768+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:39.228+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ccny-cuny.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:29.498+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://query.wikidata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:33.897+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.ordnancesurvey.co.uk/datasets/os-linked-data/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:09.703+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkeddata.finki.ukim.mk/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:20.663+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.scholarlydata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:28.519+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://weakg.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:28.064+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ideal-rdf.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:22.595+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://weakg.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:27.671+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ma-graph.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:51.182+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://es.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:52.761+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.escr.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:58.082+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.bnf.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:52.500+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://datos.gob.es/virtuoso/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:46.919+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.hegroup.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:30.888+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://bnb.data.bl.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:52.201+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:25.559+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://howard.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:25.211+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ico.iate.inra.fr/fuseki/annotation/query> ;
+  schema:dateModified  "2023-12-12T15:07:29.297+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:38.021+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
+  schema:dateModified  "2023-12-12T15:09:35.551+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://virtuoso.plateforme.dipso.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:05.258+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://io.datascience-paris-saclay.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:21.102+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.archiveshub.ac.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:14.884+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://webisa.webdatacommons.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:27.250+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://landregistry.data.gov.uk/landregistry/query> ;
+  schema:dateModified  "2023-12-12T15:08:51.576+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkedspending.aksw.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:13.483+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://vulcan.cs.uga.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:07.511+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://nl.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:36.131+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.lotico.com:3030/lotico/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:36.433+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.bnf.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:48.658+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://serendipity.utpl.edu.ec/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:39.463+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://smt.esante.gouv.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:07.380+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:07.163+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dati.beniculturali.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:28.185+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:23.172+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.nl.go.kr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:33.225+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:04.465+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:09.144+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.openlinksw.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:03.232+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rdf.muninn-project.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:58.164+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://semanticweb.cs.vu.nl/dss/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:28.687+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/econ_corp/query> ;
+  schema:dateModified  "2023-12-12T15:07:55.414+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/econ_corp/query> ;
+  schema:dateModified  "2023-12-12T15:07:11.152+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://forum.semantic-metabolomics.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:56.738+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://es.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:38.641+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://opencitations.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:44.675+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkedlifedata.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:23.311+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linkedwiki.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:49.832+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://fr.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:37.232+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://nl.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:00.785+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://serendipity.utpl.edu.ec/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:56.423+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://genome.microbedb.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:49.088+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ldf.fi/kirjasampo/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:03.444+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ohsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:58.201+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:20.744+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ts.glycosmos.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:50.396+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://fr.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:40.675+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://agrold.southgreen.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:42.064+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.culture.fr/thesaurus/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:20.179+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://uccaribe.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:30.241+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://apps.morelab.deusto.es/labman/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:53.204+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://weakg.i3s.unice.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:22.810+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.orthodb.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:25.069+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://io.datascience-paris-saclay.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:51.849+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://digits2.mainzed.org/covid19/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:11.369+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cau.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:39.910+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.odw.tw/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:53.309+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbtune.org/magnatune/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:11.607+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:47.894+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/query> ;
+  schema:dateModified  "2023-12-12T15:10:47.594+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ko.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:08.312+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ts.opendata.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:55.890+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.persee.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:08.349+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://utsa.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:11.672+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://pgxlod.loria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:38.970+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbpedia-ca.upf.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:27.058+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://alma.uni.lu/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:46.439+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://io.datascience-paris-saclay.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:00.334+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/query> ;
+  schema:dateModified  "2023-12-12T15:06:36.531+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://eagle-i.itmat.upenn.edu/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:59.756+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ma-graph.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:23.726+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.sztaki.hu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:42.740+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://geco.ecophytopic.fr:8890/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:07.858+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lod.nl.go.kr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:38.287+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.proconsortium.org/virtuoso/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:35.484+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.bnf.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:52.557+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://alma.uni.lu/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:14.792+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cr.eionet.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:57.856+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbpedia-ca.upf.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:51.627+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://uriburner.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:47.420+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://xula.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:44.427+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ldf.fi/ww1lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:56.566+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/stw/query> ;
+  schema:dateModified  "2023-12-12T15:06:27.688+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.uniprot.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:27.049+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.govdata.de/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:51.469+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://lsd.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:15.733+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://bnb.data.bl.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:31.513+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://linkedgeodata.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:23.936+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://agrold.southgreen.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:39.595+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://fuseki.gwascentral.org/gc/query> ;
+  schema:dateModified  "2023-12-12T15:08:57.541+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/frenchcropusage/query> ;
+  schema:dateModified  "2023-12-12T15:06:14.428+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://jsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:43.794+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:41.202+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.nibb.ac.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:22.975+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:09.555+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://virtuoso.plateforme.dipso.inrae.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:30.730+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.archiveshub.ac.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:07.233+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.logainm.ie/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:38.598+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.nobelprize.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:01.556+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/stw/query> ;
+  schema:dateModified  "2023-12-12T15:06:22.591+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:32.120+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/bsv_test/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:48.685+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sophox.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:34.101+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lod.openlinksw.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:26.444+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://allegro.callisto.calmip.univ-toulouse.fr/#/repositories/sms> ;
+  schema:dateModified  "2023-12-12T15:05:55.237+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://semantic.eea.europa.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:16.924+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://zbw.eu/beta/sparql/econ_pers/query> ;
+  schema:dateModified  "2023-12-12T15:06:45.593+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:39.455+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.cinematheque.qc.ca/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:23.902+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.orkg.org/orkg/triplestore> ;
+  schema:dateModified  "2023-12-12T15:10:34.150+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://taxref.mnhn.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:56.110+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:50.253+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.nextprot.org/> ;
+  schema:dateModified  "2023-12-12T15:09:27.747+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://www.snik.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:10.842+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://msm.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:40.116+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:31.523+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://cdrewu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:09.877+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.ordnancesurvey.co.uk/datasets/opennames/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:02.022+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://hkcan.julac.org/lod/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:03.118+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.idref.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:26.516+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://montana.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:04.207+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://metadb.riken.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:48.500+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.colinda.org/endpoint.php> ;
+  schema:dateModified  "2023-12-12T15:07:51.601+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.foodie-cloud.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:38.898+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.ordnancesurvey.co.uk/datasets/boundary-line/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:42.198+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lingualibre.org/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:33.428+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vocabularies.unesco.org/sparql-form/> ;
+  schema:dateModified  "2023-12-12T15:07:10.416+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://tsu.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:46.634+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://de.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:02.624+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:24.286+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ct-linkdata.aegean.gr/gcam/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:13.511+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://affymetrix.bio2rdf.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:59.411+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dydra.com/markw/polyadenylation-sites-in-magnaporthe-oryza/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:25.555+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:05.652+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://eu.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:12.241+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lov.okfn.org/dataset/lov/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:45.354+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql-noipa.mef.gov.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:05:49.638+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://meharry.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:21.164+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ontology.inrae.fr/frenchcropusage/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:49.891+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://agrovoc.fao.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:32.096+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://patho.phenomebrowser.net/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:22.755+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://datos.bcn.cl/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:29.762+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/stwv/query> ;
+  schema:dateModified  "2023-12-12T15:06:45.932+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ico.iate.inra.fr/fuseki/ontology/query> ;
+  schema:dateModified  "2023-12-12T15:08:18.771+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.wikipathways.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:10.027+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ko.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:18.692+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://cau.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:58.821+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://query.wikidata.org/bigdata/namespace/wdq/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:49.706+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.glycoinfo.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:32.935+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ico.iate.inra.fr/fuseki/annotation/query> ;
+  schema:dateModified  "2023-12-12T15:09:50.537+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.ordnancesurvey.co.uk/datasets/code-point-open/apis/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:14.303+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:14.777+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.crssnky.xyz/spql/imas/query> ;
+  schema:dateModified  "2023-12-12T15:10:07.847+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://jpsearch.go.jp/rdf/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:08.874+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:21.204+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vocab.nerc.ac.uk/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:38.591+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:03.871+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://rdf.metanetx.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:02.116+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://bio2rdf.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:21.948+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:36.519+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://sparql.nibb.ac.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:10.922+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://genome.microbedb.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:51.229+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://hu.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:56.292+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://digital-agenda-data.eu/data/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:12.125+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dati.isprambiente.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:40.761+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://slod.fiz-karlsruhe.de/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:04.836+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://www.icane.es/opendata/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:13.111+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://rdf.disgenet.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:14.897+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:24.617+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:26.213+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://datos.bne.es/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:43.693+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://agrovoc.uniroma2.it/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:52.060+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://colil.dbcls.jp/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:11.084+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://hunter-cuny.eagle-i.net/sparqler/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:16.493+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.mimo-db.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:10.742+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ontology.irstea.fr/weather/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:07.258+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://dydra.com/markw/polyadenylation-sites-in-magnaporthe-oryza/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:09.377+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://de.dbpedia.org/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:16.238+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://data.cssz.cz/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:35.109+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://vocab.getty.edu/sparql> ;
+  schema:dateModified  "2023-12-12T15:10:37.836+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://linked.ec-dataplatform.eu/sparql> ;
+  schema:dateModified  "2023-12-12T15:06:22.954+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://lov.linkeddata.es/dataset/lov/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:43.420+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://ws49-cl4-jena.tl.teralab-datascience.fr/SemJoconde/sparql> ;
+  schema:dateModified  "2023-12-12T15:07:45.897+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <http://data.cervantesvirtual.com/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:52.931+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://sparql.agroportal.lirmm.fr/sparql> ;
+  schema:dateModified  "2023-12-12T15:09:25.165+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://imagesnippets.com/sparql/imgtag> ;
+  schema:dateModified  "2023-12-12T15:06:00.698+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:OfflineTemporarily
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://zbw.eu/beta/sparql/pm20/query> ;
+  schema:dateModified  "2023-12-12T15:06:07.939+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
+[ a                    sd:Service ;
+  sd:endpoint          <https://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql> ;
+  schema:dateModified  "2023-12-12T15:08:49.714+00:00"^^xsd:dateTime ;
+  schema:serverStatus  schema:Online
+] .
+
 <http://data.openlinksw.com/oplweb/sparql-endpoint0#this>
         a                    sd:Service ;
         sd:endpoint          <http://acm.rkbexplorer.com/sparql/> ;
