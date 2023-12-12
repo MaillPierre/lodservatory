@@ -642,14 +642,14 @@
 <http://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-12T20:07:12.263+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T21:09:31.513+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bne.es/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://datos.bne.es/sparql/> ;
-        schema:dateModified  "2023-12-12T20:06:32.535+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T21:06:26.575+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.gob.es/virtuoso/sparql>
         a                    sd:Service ;
@@ -2556,8 +2556,8 @@
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    sd:Service ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2023-12-12T20:08:37.149+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T21:07:48.210+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    sd:Service ;
