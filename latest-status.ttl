@@ -1230,14 +1230,14 @@
 <http://kaiko.getalp.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://kaiko.getalp.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:56.878+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T17:08:52.095+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://kaiko.getalp.org/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://kaiko.getalp.org/sparql/> ;
-        schema:dateModified  "2023-12-12T16:07:12.557+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T17:06:58.721+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://kaunas.rkbexplorer.com/sparql/>
         a                    sd:Service ;
@@ -3204,8 +3204,8 @@
 <https://kaiko.getalp.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://kaiko.getalp.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:07.092+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-12T17:08:03.135+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ko.dbpedia.org/sparql>
         a                    sd:Service ;
