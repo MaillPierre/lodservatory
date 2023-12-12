@@ -14,8 +14,8 @@ jobs:
     - name: Commit files
       run: |
         git diff-index --quiet HEAD || git add latest-status.ttl
-        git config --local user.email "cstadler@informatik.uni-leipzig.de"
-        git config --local user.name "Claus Stadler"
+        git config --local user.email "pierre.maillot@inria.fr"
+        git config --local user.name "Pierre Maillot"
         git diff-index --quiet HEAD || git commit -m "Automatic status update" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
