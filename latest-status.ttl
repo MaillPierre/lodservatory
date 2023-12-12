@@ -30,8 +30,8 @@
 <http://affymetrix.bio2rdf.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:41.283+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-12T18:06:32.701+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://affymetrix.bio2rdf.org/sparql/>
         a                    sd:Service ;
@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:58.435+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-12T18:07:33.765+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
