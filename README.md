@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/MaillPierre/lodservatory/master/latest-status.
 
 There is [this git action](.github/workflows/main.yml) which invokes the following process every hour.
 
-The script [update-status.sh](update-status.sh) first downloads [OpenLink's SPARQL endpoint dataset](https://github.com/OpenLinkSoftware/general-turtle-doc-collection/blob/master/LODCloud_SPARQL_Endpoints.ttl) and then runs the SPARQL query in [status-check.sparql](status-check.sparql) on each endpoint URL.
+The script [update-status.sh](update-status.sh) first downloads [OpenLink's SPARQL endpoint dataset](https://github.com/OpenLinkSoftware/general-turtle-doc-collection/blob/master/LODCloud_SPARQL_Endpoints.ttl), [the catalog of endpoints from the IndeGx framework](https://github.com/Wimmics/IndeGx/blob/main/catalogs/all_catalog_edited.ttl), and then runs the SPARQL query in [status-check.sparql](status-check.sparql) on each endpoint URL.
 
 The workflow runner is our [sparql-integrate command line tool](https://github.com/SmartDataAnalytics/Sparqlintegrate), built on [Apache Jena](https://jena.apache.org/), which simplifies the process of mashing-up RDF datasets and SPARQL queries.
 

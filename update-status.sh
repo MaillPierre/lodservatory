@@ -9,7 +9,7 @@
 # Download the IndeGx catalog of endpoints
 [ -f indegx.ttl ] || wget -O indegx.ttl https://raw.githubusercontent.com/Wimmics/IndeGx/main/catalogs/all_catalog_edited.ttl
 # Map each endpoint to its own named graph,
-java -cp si.jar sparqlintegrate LODCloud_SPARQL_Endpoints.ttl indegx.ttl 'PREFIX sd: <http://www.w3.org/ns/sparql-service-description#> PREFIX void: <http://rdfs.org/ns/void#> CONSTRUCT { GRAPH ?o { ?s ?p ?o } } { ?s ?p ?x FILTER(?p = sd:endpoint || ?p = void:sparqlEndpoint) BIND(IRI(REPLACE(STR(?x), "\\s+", "")) AS ?o) }' | \
+java -cp si.jar sparqlintegrate LODCloud_SPARQL_Endpoints.ttl indegx.ttl 'PREFIX sd: <http://www.w3.org/ns/sparql-service-description#> PREFIX void: <http://rdfs.org/ns/void#> PREFIX dcat: <http://www.w3.org/ns/dcat#> CONSTRUCT { GRAPH ?o { ?s ?p ?o } } { ?s ?p ?x FILTER(?p = sd:endpoint || ?p = void:sparqlEndpoint || ?p = dcat:endpointURL ) BIND(IRI(REPLACE(STR(?x), "\\s+", "")) AS ?o) }' | \
 # run the status check for each named graph in parallel
 java -cp si.jar ngs map -t '5000,5000' --sparql status-check.sparql | \
 java -cp si.jar sparqlintegrate --w=trig/pretty --u - 'PREFIX schema: <https://schema.org/> CONSTRUCT WHERE { ?s ?p ?o } ORDER BY ?s ?p ?o' > next-status.ttl
