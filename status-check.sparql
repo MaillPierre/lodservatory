@@ -1,6 +1,7 @@
 PREFIX eg: <http://www.example.org/>
 PREFIX sd: <http://www.w3.org/ns/sparql-service-description#>
 PREFIX schema: <https://schema.org/>
+PREFIX void: <http://rdfs.org/ns/void#>
 
 CONSTRUCT {
   GRAPH ?g {
@@ -15,7 +16,7 @@ CONSTRUCT {
 {
   BIND(NOW() AS ?time)
 
-  GRAPH ?g { ?s sd:endpoint ?e }
+  GRAPH ?g { { ?s sd:endpoint ?e } UNION { ?s void:sparqlEndpoint ?e } }
 
   OPTIONAL {
     SERVICE SILENT ?e {
