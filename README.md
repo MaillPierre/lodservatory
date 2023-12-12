@@ -1,10 +1,10 @@
 # Linked Open Data and SPARQL Endpoints Observatory
 
 This repo provides automated service monitoring of SPARQL Endpoints on an hourly basis.
-The results are published in the file [latest-status.ttl](https://github.com/SmartDataAnalytics/lodservatory/blob/master/latest-status.ttl).
+The results are published in the file [latest-status.ttl](https://github.com/MaillPierre/lodservatory/blob/master/latest-status.ttl).
 Many Linked Data clients can consume the data directly from
 
-https://raw.githubusercontent.com/SmartDataAnalytics/lodservatory/master/latest-status.ttl
+https://raw.githubusercontent.com/MaillPierre/lodservatory/master/latest-status.ttl
 
 ### How Does It Work
 
@@ -21,7 +21,7 @@ According to this answer to my question: [Yes](https://github.community/t5/GitHu
 
 #### ... New Endpoints?
 This project uses
-[OpenLink's SPARQL endpoint dataset](https://github.com/OpenLinkSoftware/general-turtle-doc-collection/blob/master/LODCloud_SPARQL_Endpoints.ttl) as the source, please make pull requests there.
+[OpenLink's SPARQL endpoint dataset](https://github.com/OpenLinkSoftware/general-turtle-doc-collection/blob/master/LODCloud_SPARQL_Endpoints.ttl) and [the catalog of endpoints from the IndeGx framework](https://github.com/Wimmics/IndeGx/blob/main/catalogs/all_catalog_edited.ttl) as the source, please make pull requests to their respective repositories.
 
 #### ... Additional Service Information?
 As github has API limits (1000 requests per hour) it may be better to make separate projects for other kind of information, such as void descriptions. Note, that one can use this service status dataset as the basis in order to not waste requests!
