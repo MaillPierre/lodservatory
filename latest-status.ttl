@@ -1140,8 +1140,8 @@
 <http://id.sgcb.mcu.es/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql/> ;
-        schema:dateModified  "2023-12-13T01:31:09.027+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T02:18:20.417+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ideal-rdf.dbcls.jp/sparql>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-12T22:08:37.899+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T02:19:44.888+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
