@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-13T04:09:50.549+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T05:08:50.953+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T04:09:44.835+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T05:08:48.633+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -3193,7 +3193,7 @@
         a                    sd:Service ;
         sd:endpoint          <https://jpsearch.go.jp/rdf/sparql> ;
         schema:dateModified  "2023-12-12T16:06:25.934+00:00"^^xsd:dateTime , "2023-12-12T16:06:45.550+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:serverStatus  schema:OfflineTemporarily , schema:Online .
 
 <https://jsu.eagle-i.net/sparqler/sparql>
         a                    sd:Service ;
