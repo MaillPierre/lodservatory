@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-13T05:08:50.953+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T09:09:27.097+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T05:08:48.633+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T09:08:48.768+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -1698,8 +1698,8 @@
 <http://ontology.irstea.fr/weather/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://ontology.irstea.fr/weather/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:49.236+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T09:06:00.044+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://opencitations.net/index/sparql>
         a                    sd:Service ;
