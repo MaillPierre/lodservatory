@@ -24,8 +24,8 @@
 <http://aemet.linkeddata.es/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql/> ;
-        schema:dateModified  "2023-12-12T16:06:07.645+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:06:19.427+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    sd:Service ;
@@ -36,8 +36,8 @@
 <http://affymetrix.bio2rdf.org/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql/> ;
-        schema:dateModified  "2023-12-12T23:07:45.459+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T10:08:12.844+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrold.southgreen.fr/sparql>
         a                    sd:Service ;
@@ -246,8 +246,8 @@
 <http://colil.dbcls.jp/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2023-12-13T08:07:19.807+00:00"^^xsd:dateTime , "2023-12-13T08:08:19.566+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:07:25.387+00:00"^^xsd:dateTime , "2023-12-13T10:07:55.053+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://colinda.org/endpoint.php>
         a                    sd:Service ;
@@ -324,14 +324,14 @@
 <http://cultura.linkeddata.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://cultura.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:53.495+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:10:16.004+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://cultura.linkeddata.es/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://cultura.linkeddata.es/sparql/> ;
-        schema:dateModified  "2023-12-12T16:07:32.756+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:07:50.771+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://curriculum.rkbexplorer.com/sparql/>
         a                    sd:Service ;
@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-13T09:09:27.097+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:06:51.425+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
@@ -1014,14 +1014,14 @@
 <http://geo.linkeddata.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-12T16:10:47.203+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:09:32.695+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geo.linkeddata.es/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://geo.linkeddata.es/sparql/> ;
-        schema:dateModified  "2023-12-12T16:08:28.341+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:08:24.526+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    sd:Service ;
@@ -1698,8 +1698,8 @@
 <http://ontology.irstea.fr/weather/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://ontology.irstea.fr/weather/sparql> ;
-        schema:dateModified  "2023-12-13T09:06:00.044+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:06:34.798+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://opencitations.net/index/sparql>
         a                    sd:Service ;
@@ -2604,8 +2604,8 @@
 <https://colil.dbcls.jp/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2023-12-13T08:06:54.353+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T10:07:29.394+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    sd:Service ;
@@ -3607,7 +3607,7 @@
         a                    sd:Service ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
         schema:dateModified  "2023-12-12T16:09:51.199+00:00"^^xsd:dateTime , "2023-12-12T16:10:28.324+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:serverStatus  schema:OfflineTemporarily , schema:Online .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    sd:Service ;
