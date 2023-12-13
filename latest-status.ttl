@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-13T10:06:51.425+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T12:08:12.350+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
@@ -702,8 +702,8 @@
 <http://dbpedia.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-13T11:05:36.217+00:00"^^xsd:dateTime , "2023-12-13T11:08:32.689+00:00"^^xsd:dateTime , "2023-12-13T11:10:00.281+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T12:07:56.137+00:00"^^xsd:dateTime , "2023-12-13T12:10:12.958+00:00"^^xsd:dateTime , "2023-12-13T12:11:05.297+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbsnp.bio2rdf.org/sparql/>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T11:10:07.234+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T12:11:38.935+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
