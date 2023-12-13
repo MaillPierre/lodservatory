@@ -624,8 +624,8 @@
 <http://dati.senato.it/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:18.434+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:08:46.811+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos-abertos.galiciana.gal/pt/sparql>
         a                    sd:Service ;
@@ -642,8 +642,8 @@
 <http://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-13T00:23:57.891+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:08:27.952+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql/>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T15:07:12.788+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:08:00.149+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -1956,8 +1956,8 @@
 <http://sophox.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://sophox.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:10:09.631+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:09:32.802+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql-noipa.mef.gov.it/sparql>
         a                    sd:Service ;
@@ -2850,8 +2850,8 @@
 <https://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-13T00:20:31.807+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:06:55.215+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.gob.es/en/sparql>
         a                    sd:Service ;
@@ -2898,8 +2898,8 @@
 <https://dbpedia.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-13T15:08:30.059+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T16:06:33.545+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    sd:Service ;
@@ -3204,8 +3204,8 @@
 <https://kaiko.getalp.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://kaiko.getalp.org/sparql> ;
-        schema:dateModified  "2023-12-13T15:07:52.702+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T16:07:50.457+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ko.dbpedia.org/sparql>
         a                    sd:Service ;
@@ -3654,8 +3654,8 @@
 <https://sophox.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:38.142+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T16:06:27.809+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    sd:Service ;
