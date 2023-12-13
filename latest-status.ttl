@@ -642,8 +642,8 @@
 <http://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-12T23:08:25.721+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T00:23:57.891+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bne.es/sparql/>
         a                    sd:Service ;
@@ -2850,8 +2850,8 @@
 <https://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-12T23:07:07.450+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T00:20:31.807+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.gob.es/en/sparql>
         a                    sd:Service ;
