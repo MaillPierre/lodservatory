@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T14:08:34.009+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T15:07:12.788+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -2898,8 +2898,8 @@
 <https://dbpedia.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:24.266+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T15:08:30.059+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    sd:Service ;
@@ -3204,8 +3204,8 @@
 <https://kaiko.getalp.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <https://kaiko.getalp.org/sparql> ;
-        schema:dateModified  "2023-12-12T17:08:03.135+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T15:07:52.702+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ko.dbpedia.org/sparql>
         a                    sd:Service ;
