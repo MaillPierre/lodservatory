@@ -36,8 +36,8 @@
 <http://affymetrix.bio2rdf.org/sparql/>
         a                    sd:Service ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql/> ;
-        schema:dateModified  "2023-12-13T10:08:12.844+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T11:07:34.221+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrold.southgreen.fr/sparql>
         a                    sd:Service ;
@@ -702,8 +702,8 @@
 <http://dbpedia.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:08.905+00:00"^^xsd:dateTime , "2023-12-12T16:06:12.668+00:00"^^xsd:dateTime , "2023-12-12T16:08:29.886+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-13T11:05:36.217+00:00"^^xsd:dateTime , "2023-12-13T11:08:32.689+00:00"^^xsd:dateTime , "2023-12-13T11:10:00.281+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql/>
         a                    sd:Service ;
@@ -1410,8 +1410,8 @@
 <http://linkedgeodata.org/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://linkedgeodata.org/sparql> ;
-        schema:dateModified  "2023-12-12T23:06:20.318+00:00"^^xsd:dateTime , "2023-12-12T23:10:12.807+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T11:05:17.410+00:00"^^xsd:dateTime , "2023-12-13T11:05:54.600+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedlifedata.com/sparql>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T09:08:48.768+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-13T11:10:07.234+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -3607,7 +3607,7 @@
         a                    sd:Service ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
         schema:dateModified  "2023-12-12T16:09:51.199+00:00"^^xsd:dateTime , "2023-12-12T16:10:28.324+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily , schema:Online .
+        schema:serverStatus  schema:Online .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    sd:Service ;
