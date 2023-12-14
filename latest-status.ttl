@@ -486,8 +486,8 @@
 <http://data.idref.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://data.idref.fr/sparql> ;
-        schema:dateModified  "2023-12-13T17:06:48.819+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-14T00:23:23.289+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    sd:Service ;
@@ -2358,8 +2358,8 @@
 <http://www.orkg.org/orkg/triplestore>
         a                    sd:Service ;
         sd:endpoint          <http://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2023-12-13T23:07:46.468+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-14T00:21:30.965+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://www.orpha.net/sparql>
         a                    sd:Service ;
@@ -3942,8 +3942,8 @@
 <https://www.orkg.org/orkg/triplestore>
         a                    sd:Service ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2023-12-13T23:07:18.901+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-14T00:20:58.604+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orpha.net/sparql>
         a                    sd:Service ;
