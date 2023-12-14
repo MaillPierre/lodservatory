@@ -3,13 +3,16 @@ PREFIX sd: <http://www.w3.org/ns/sparql-service-description#>
 PREFIX schema: <https://schema.org/>
 PREFIX void: <http://rdfs.org/ns/void#>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
 
 CONSTRUCT {
     GRAPH ?e {
-        ?e a sd:Service ;
+        ?e a sd:Service , dcat:DataService ;
+            dcat:endpointURL ?e ;
             sd:endpoint ?e ;
             schema:serverStatus ?status ;
-            schema:dateModified ?time .
+            schema:dateModified ?time ;
+            dcterms:available ?time .
     }
 }
 {
