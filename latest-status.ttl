@@ -624,8 +624,8 @@
 <http://dati.senato.it/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2023-12-13T17:08:45.814+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-14T07:08:07.880+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos-abertos.galiciana.gal/pt/sparql>
         a                    sd:Service ;
@@ -1458,8 +1458,8 @@
 <http://lod.abes.fr/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://lod.abes.fr/sparql> ;
-        schema:dateModified  "2023-12-13T17:08:43.509+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-14T07:06:36.617+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.kaist.ac.kr/sparql>
         a                    sd:Service ;
@@ -2545,7 +2545,7 @@
         a                    sd:Service ;
         sd:endpoint          <https://bio2rdf.org/sparql> ;
         schema:dateModified  "2023-12-12T16:06:57.883+00:00"^^xsd:dateTime , "2023-12-12T16:10:30.842+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:serverStatus  schema:OfflineTemporarily , schema:Online .
 
 <https://biogw-db.nt.ntnu.no:4333/sparql>
         a                    sd:Service ;
