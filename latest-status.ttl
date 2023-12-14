@@ -642,8 +642,8 @@
 <http://datos.bne.es/sparql>
         a                    sd:Service ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-13T17:08:17.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-14T02:16:05.509+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql/>
         a                    sd:Service ;
