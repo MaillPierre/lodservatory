@@ -3083,19 +3083,19 @@
 
 <https://query.wikidata.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:16.847+00:00"^^xsd:dateTime , "2023-12-19T17:06:13.631+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-20T00:17:43.546+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://query.wikidata.org/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://query.wikidata.org/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:16.847+00:00"^^xsd:dateTime , "2023-12-19T17:06:13.631+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-20T00:17:43.546+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://query.wikidata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:30.457+00:00"^^xsd:dateTime , "2023-12-12T16:07:14.361+00:00"^^xsd:dateTime , "2023-12-12T16:07:57.745+00:00"^^xsd:dateTime , "2023-12-19T17:05:12.792+00:00"^^xsd:dateTime , "2023-12-19T17:06:27.810+00:00"^^xsd:dateTime , "2023-12-19T17:08:06.555+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-20T00:17:23.120+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://query.wikidata.org/sparql> ;
         sd:endpoint          <https://query.wikidata.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:30.457+00:00"^^xsd:dateTime , "2023-12-12T16:07:14.361+00:00"^^xsd:dateTime , "2023-12-12T16:07:57.745+00:00"^^xsd:dateTime , "2023-12-19T17:05:12.792+00:00"^^xsd:dateTime , "2023-12-19T17:06:27.810+00:00"^^xsd:dateTime , "2023-12-19T17:08:06.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-20T00:17:23.120+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.disgenet.org/sparql>
         a                    cat:DataService , sd:Service ;
