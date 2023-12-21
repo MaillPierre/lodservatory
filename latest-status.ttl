@@ -2731,11 +2731,11 @@
 
 <https://linked.ec-dataplatform.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:45.542+00:00"^^xsd:dateTime , "2023-12-12T16:08:58.305+00:00"^^xsd:dateTime , "2023-12-19T17:07:33.352+00:00"^^xsd:dateTime , "2023-12-19T17:08:04.149+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-21T17:06:08.282+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linked.ec-dataplatform.eu/sparql> ;
         sd:endpoint          <https://linked.ec-dataplatform.eu/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:45.542+00:00"^^xsd:dateTime , "2023-12-12T16:08:58.305+00:00"^^xsd:dateTime , "2023-12-19T17:07:33.352+00:00"^^xsd:dateTime , "2023-12-19T17:08:04.149+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-21T17:06:08.282+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
