@@ -2587,11 +2587,11 @@
 
 <https://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-21T15:06:49.629+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-21T16:07:04.284+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ja.dbpedia.org/sparql> ;
         sd:endpoint          <https://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-21T15:06:49.629+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-21T16:07:04.284+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3571,11 +3571,11 @@
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-21T15:07:27.084+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-21T16:07:27.279+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.govdata.de/sparql> ;
         sd:endpoint          <https://www.govdata.de/sparql> ;
-        schema:dateModified  "2023-12-21T15:07:27.084+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-21T16:07:27.279+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.icane.es/opendata/sparql>
         a                    cat:DataService , sd:Service ;
