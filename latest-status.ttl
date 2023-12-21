@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-21T11:06:41.906+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-21T12:08:56.264+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-21T11:06:41.906+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-21T12:08:56.264+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3251,11 +3251,11 @@
 
 <https://sparql.crssnky.xyz/spql/imas/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:42.866+00:00"^^xsd:dateTime , "2023-12-19T17:05:54.790+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-21T12:08:18.066+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.crssnky.xyz/spql/imas/query> ;
         sd:endpoint          <https://sparql.crssnky.xyz/spql/imas/query> ;
-        schema:dateModified  "2023-12-12T16:06:42.866+00:00"^^xsd:dateTime , "2023-12-19T17:05:54.790+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-21T12:08:18.066+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.geo.admin.ch/sparql>
         a                    cat:DataService , sd:Service ;
