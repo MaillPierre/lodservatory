@@ -495,19 +495,19 @@
 
 <http://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-14T21:08:40.080+00:00"^^xsd:dateTime , "2023-12-19T17:05:48.304+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-22T01:30:18.174+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/bbc/peel/sparql> ;
         sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
-        schema:dateModified  "2023-12-14T21:08:40.080+00:00"^^xsd:dateTime , "2023-12-19T17:05:48.304+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-22T01:30:18.174+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-20T03:05:46.574+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-22T01:28:33.810+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2023-12-20T03:05:46.574+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-22T01:28:33.810+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-20T03:06:25.976+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-22T01:28:59.149+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2023-12-20T03:06:25.976+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-22T01:28:59.149+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2867,11 +2867,11 @@
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T16:08:24.999+00:00"^^xsd:dateTime , "2023-12-19T17:06:00.469+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-22T01:28:47.407+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <https://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2023-12-19T16:08:24.999+00:00"^^xsd:dateTime , "2023-12-19T17:06:00.469+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-22T01:28:47.407+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3339,11 +3339,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-21T23:07:34.014+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-22T01:30:04.533+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2023-12-21T23:07:34.014+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-22T01:30:04.533+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
