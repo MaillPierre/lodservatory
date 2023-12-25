@@ -3331,11 +3331,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:26.975+00:00"^^xsd:dateTime , "2023-12-12T16:09:29.606+00:00"^^xsd:dateTime , "2023-12-12T16:09:55.232+00:00"^^xsd:dateTime , "2023-12-19T17:05:42.751+00:00"^^xsd:dateTime , "2023-12-19T17:08:06.629+00:00"^^xsd:dateTime , "2023-12-19T17:08:38.470+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-25T03:07:50.799+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:26.975+00:00"^^xsd:dateTime , "2023-12-12T16:09:29.606+00:00"^^xsd:dateTime , "2023-12-12T16:09:55.232+00:00"^^xsd:dateTime , "2023-12-19T17:05:42.751+00:00"^^xsd:dateTime , "2023-12-19T17:08:06.629+00:00"^^xsd:dateTime , "2023-12-19T17:08:38.470+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-25T03:07:50.799+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
