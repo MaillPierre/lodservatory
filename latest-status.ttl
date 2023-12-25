@@ -1699,11 +1699,11 @@
 
 <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-14T06:09:29.475+00:00"^^xsd:dateTime , "2023-12-19T17:07:47.384+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-25T20:05:49.200+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
         sd:endpoint          <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
-        schema:dateModified  "2023-12-14T06:09:29.475+00:00"^^xsd:dateTime , "2023-12-19T17:07:47.384+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-25T20:05:49.200+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.finto.fi/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2019,11 +2019,11 @@
 
 <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-14T06:09:37.963+00:00"^^xsd:dateTime , "2023-12-19T17:05:31.908+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-25T20:05:59.603+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
         sd:endpoint          <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
-        schema:dateModified  "2023-12-14T06:09:37.963+00:00"^^xsd:dateTime , "2023-12-19T17:05:31.908+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-25T20:05:59.603+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
