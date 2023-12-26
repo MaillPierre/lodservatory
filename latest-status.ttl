@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T10:08:06.927+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T11:08:02.856+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-26T10:08:06.927+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-26T11:08:02.856+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1675,11 +1675,11 @@
 
 <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:57.122+00:00"^^xsd:dateTime , "2023-12-19T17:06:35.020+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T11:07:36.363+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
         sd:endpoint          <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:57.122+00:00"^^xsd:dateTime , "2023-12-19T17:06:35.020+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-26T11:07:36.363+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2139,11 +2139,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:27.923+00:00"^^xsd:dateTime , "2023-12-19T17:07:03.817+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T11:07:16.536+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:27.923+00:00"^^xsd:dateTime , "2023-12-19T17:07:03.817+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-26T11:07:16.536+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-20T23:05:51.843+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T11:05:24.416+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.wikipathways.org/sparql> ;
         sd:endpoint          <https://sparql.wikipathways.org/sparql> ;
-        schema:dateModified  "2023-12-20T23:05:51.843+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-26T11:05:24.416+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
