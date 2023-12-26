@@ -1675,11 +1675,11 @@
 
 <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T11:07:36.363+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T15:07:34.214+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
         sd:endpoint          <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
-        schema:dateModified  "2023-12-26T11:07:36.363+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-26T15:07:34.214+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2315,11 +2315,11 @@
 
 <https://edan.si.edu/saam/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T13:07:26.842+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T15:07:26.892+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://edan.si.edu/saam/sparql> ;
         sd:endpoint          <https://edan.si.edu/saam/sparql> ;
-        schema:dateModified  "2023-12-26T13:07:26.842+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-26T15:07:26.892+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://el.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T11:05:24.416+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-26T15:05:39.764+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.wikipathways.org/sparql> ;
         sd:endpoint          <https://sparql.wikipathways.org/sparql> ;
-        schema:dateModified  "2023-12-26T11:05:24.416+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-26T15:05:39.764+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
