@@ -7,11 +7,11 @@
 
 <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T07:08:23.141+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T19:07:48.455+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql> ;
         sd:endpoint          <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql> ;
-        schema:dateModified  "2023-12-27T07:08:23.141+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T19:07:48.455+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://193.190.127.165:7200/repositories/ERA-KG-latest>
         a                    cat:DataService , sd:Service ;
@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T06:07:27.270+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T19:06:21.654+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2023-12-27T06:07:27.270+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T19:06:21.654+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T06:07:02.619+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T19:05:56.974+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2023-12-27T06:07:02.619+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T19:05:56.974+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2939,11 +2939,11 @@
 
 <https://ontology.inrae.fr/bsv/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T07:06:08.777+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T19:05:21.995+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/bsv/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
-        schema:dateModified  "2023-12-27T07:06:08.777+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T19:05:21.995+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/bsv_test/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2979,11 +2979,11 @@
 
 <https://ontology.inrae.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T07:07:34.671+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T19:06:54.613+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/weather/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/weather/sparql> ;
-        schema:dateModified  "2023-12-27T07:07:34.671+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T19:06:54.613+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.irstea.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
