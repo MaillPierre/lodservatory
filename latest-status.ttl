@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T11:08:02.856+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T12:09:16.834+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-26T11:08:02.856+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T12:09:16.834+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T14:05:11.612+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T12:07:13.634+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-26T14:05:11.612+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T12:07:13.634+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1595,11 +1595,11 @@
 
 <http://www.scholarlydata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-27T08:09:08.518+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T12:09:32.802+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.scholarlydata.org/sparql> ;
         sd:endpoint          <http://www.scholarlydata.org/sparql> ;
-        schema:dateModified  "2023-12-27T08:09:08.518+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2023-12-27T12:09:32.802+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://zhishi.me/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3139,11 +3139,11 @@
 
 <https://rpp-opendata.egon.gov.cz/odrpp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T06:10:22.600+00:00"^^xsd:dateTime , "2023-12-19T17:05:42.014+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-27T12:09:09.997+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
         sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
-        schema:dateModified  "2023-12-19T06:10:22.600+00:00"^^xsd:dateTime , "2023-12-19T17:05:42.014+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-27T12:09:09.997+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
