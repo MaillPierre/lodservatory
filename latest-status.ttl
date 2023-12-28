@@ -3339,11 +3339,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-28T07:07:26.991+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-28T09:07:29.568+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2023-12-28T07:07:26.991+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-28T09:07:29.568+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3355,11 +3355,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:41.461+00:00"^^xsd:dateTime , "2023-12-12T16:09:26.186+00:00"^^xsd:dateTime , "2023-12-19T17:05:08.152+00:00"^^xsd:dateTime , "2023-12-19T17:08:01.722+00:00"^^xsd:dateTime ;
+        dcterms:available    "2023-12-28T09:07:20.954+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:41.461+00:00"^^xsd:dateTime , "2023-12-12T16:09:26.186+00:00"^^xsd:dateTime , "2023-12-19T17:05:08.152+00:00"^^xsd:dateTime , "2023-12-19T17:08:01.722+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2023-12-28T09:07:20.954+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
