@@ -647,11 +647,11 @@
 
 <http://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-01T08:08:01.899+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-01T09:06:47.446+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://es.dbpedia.org/sparql> ;
         sd:endpoint          <http://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-01T08:08:01.899+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-01T09:06:47.446+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
