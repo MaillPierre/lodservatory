@@ -7,11 +7,11 @@
 
 <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-29T19:08:03.489+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-02T07:08:49.042+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql> ;
         sd:endpoint          <http://147.100.179.235:8082/blazegraph/namespace/AnaEE_sites/sparql> ;
-        schema:dateModified  "2023-12-29T19:08:03.489+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-02T07:08:49.042+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://193.190.127.165:7200/repositories/ERA-KG-latest>
         a                    cat:DataService , sd:Service ;
@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-02T06:07:03.352+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-02T07:05:53.865+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-01-02T06:07:03.352+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-02T07:05:53.865+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
@@ -2939,11 +2939,11 @@
 
 <https://ontology.inrae.fr/bsv/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-29T19:05:34.849+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-02T07:05:31.642+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/bsv/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
-        schema:dateModified  "2023-12-29T19:05:34.849+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-02T07:05:31.642+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ontology.inrae.fr/bsv_test/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2979,11 +2979,11 @@
 
 <https://ontology.inrae.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-29T19:07:06.818+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-02T07:06:50.331+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/weather/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/weather/sparql> ;
-        schema:dateModified  "2023-12-29T19:07:06.818+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-02T07:06:50.331+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ontology.irstea.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
