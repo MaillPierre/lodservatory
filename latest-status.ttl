@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-03T20:07:43.853+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T22:07:01.158+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-01-03T20:07:43.853+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T22:07:01.158+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-03T20:05:47.453+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T22:05:27.244+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-01-03T20:05:47.453+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T22:05:27.244+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3011,11 +3011,11 @@
 
 <https://opendata.mfcr.cz/lod/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:27.764+00:00"^^xsd:dateTime , "2023-12-19T17:08:27.244+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T22:06:44.112+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata.mfcr.cz/lod/sparql> ;
         sd:endpoint          <https://opendata.mfcr.cz/lod/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:27.764+00:00"^^xsd:dateTime , "2023-12-19T17:08:27.244+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-03T22:06:44.112+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://opendata1.opendata.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
