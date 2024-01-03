@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-02T19:07:02.356+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:08:03.095+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-02T19:07:02.356+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T08:08:03.095+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1843,11 +1843,11 @@
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-03T07:07:27.588+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:08:28.314+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cr.eionet.europa.eu/sparql> ;
         sd:endpoint          <https://cr.eionet.europa.eu/sparql> ;
-        schema:dateModified  "2024-01-03T07:07:27.588+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T08:08:28.314+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-02T19:06:16.466+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:07:32.358+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-02T19:06:16.466+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T08:07:32.358+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3467,11 +3467,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-03T07:07:23.222+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:08:23.865+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-01-03T07:07:23.222+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-03T08:08:23.865+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
@@ -3667,19 +3667,19 @@
 
 <https://zbw.eu/beta/sparql/econ_pers/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-24T09:06:10.743+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:06:58.926+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/econ_pers/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/econ_pers/query> ;
-        schema:dateModified  "2023-12-24T09:06:10.743+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-03T08:06:58.926+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/gnd/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-29T10:06:12.438+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-03T08:06:43.971+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/gnd/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
-        schema:dateModified  "2023-12-29T10:06:12.438+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-03T08:06:43.971+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
