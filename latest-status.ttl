@@ -415,11 +415,11 @@
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:55.370+00:00"^^xsd:dateTime , "2023-12-12T16:08:42.768+00:00"^^xsd:dateTime , "2023-12-19T17:07:04.223+00:00"^^xsd:dateTime , "2023-12-19T17:07:24.034+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-04T16:05:31.947+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.camera.it/sparql> ;
         sd:endpoint          <http://dati.camera.it/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:55.370+00:00"^^xsd:dateTime , "2023-12-12T16:08:42.768+00:00"^^xsd:dateTime , "2023-12-19T17:07:04.223+00:00"^^xsd:dateTime , "2023-12-19T17:07:24.034+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-04T16:05:31.947+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:27.047+00:00"^^xsd:dateTime , "2023-12-19T17:06:01.644+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-04T16:05:48.775+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.camera.it/sparql> ;
         sd:endpoint          <https://dati.camera.it/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:27.047+00:00"^^xsd:dateTime , "2023-12-19T17:06:01.644+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-04T16:05:48.775+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
