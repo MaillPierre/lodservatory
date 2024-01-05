@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-04T19:06:26.541+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:07:19.078+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-04T19:06:26.541+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-05T06:07:19.078+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-04T19:06:00.835+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:06:59.524+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-04T19:06:00.835+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-05T06:06:59.524+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2659,43 +2659,43 @@
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:09:26.689+00:00"^^xsd:dateTime , "2023-12-19T17:07:07.954+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:08:27.475+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/folklore/sparql> ;
         sd:endpoint          <https://ldf.fi/folklore/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:26.689+00:00"^^xsd:dateTime , "2023-12-19T17:07:07.954+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-05T06:08:27.475+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/kirjasampo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:06.747+00:00"^^xsd:dateTime , "2023-12-19T17:07:30.411+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:08:31.889+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/kirjasampo/sparql> ;
         sd:endpoint          <https://ldf.fi/kirjasampo/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:06.747+00:00"^^xsd:dateTime , "2023-12-19T17:07:30.411+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-05T06:08:31.889+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/mufi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:10:28.907+00:00"^^xsd:dateTime , "2023-12-19T17:09:33.810+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:08:10.890+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/mufi/sparql> ;
         sd:endpoint          <https://ldf.fi/mufi/sparql> ;
-        schema:dateModified  "2023-12-12T16:10:28.907+00:00"^^xsd:dateTime , "2023-12-19T17:09:33.810+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-05T06:08:10.890+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/warsa/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:16.292+00:00"^^xsd:dateTime , "2023-12-19T17:08:37.620+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:06:34.489+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/warsa/sparql> ;
         sd:endpoint          <https://ldf.fi/warsa/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:16.292+00:00"^^xsd:dateTime , "2023-12-19T17:08:37.620+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-05T06:06:34.489+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/ww1lod/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:38.741+00:00"^^xsd:dateTime , "2023-12-19T17:05:27.954+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-05T06:07:03.072+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/ww1lod/sparql> ;
         sd:endpoint          <https://ldf.fi/ww1lod/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:38.741+00:00"^^xsd:dateTime , "2023-12-19T17:05:27.954+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-05T06:07:03.072+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
