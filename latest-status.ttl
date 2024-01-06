@@ -3043,11 +3043,11 @@
 
 <https://pgxlod.loria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:45.867+00:00"^^xsd:dateTime , "2023-12-12T16:10:03.420+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.340+00:00"^^xsd:dateTime , "2023-12-19T17:08:03.721+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-06T20:06:42.644+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://pgxlod.loria.fr/sparql> ;
         sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:45.867+00:00"^^xsd:dateTime , "2023-12-12T16:10:03.420+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.340+00:00"^^xsd:dateTime , "2023-12-19T17:08:03.721+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-06T20:06:42.644+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
