@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-07T03:07:32.323+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-07T04:07:20.996+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-01-07T03:07:32.323+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-07T04:07:20.996+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1055,11 +1055,11 @@
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:25.588+00:00"^^xsd:dateTime , "2023-12-19T17:06:36.781+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-07T04:07:54.936+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.sztaki.hu/sparql> ;
         sd:endpoint          <http://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:25.588+00:00"^^xsd:dateTime , "2023-12-19T17:06:36.781+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-07T04:07:54.936+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2835,11 +2835,11 @@
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:21.376+00:00"^^xsd:dateTime , "2023-12-19T17:08:41.026+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-07T04:06:58.325+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.sztaki.hu/sparql> ;
         sd:endpoint          <https://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:21.376+00:00"^^xsd:dateTime , "2023-12-19T17:08:41.026+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-07T04:06:58.325+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
