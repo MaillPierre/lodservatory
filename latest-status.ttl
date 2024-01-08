@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-08T10:07:37.739+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-08T11:07:16.195+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-01-08T10:07:37.739+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-08T11:07:16.195+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3051,11 +3051,11 @@
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-01T14:06:19.891+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-08T11:06:20.530+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://premon.fbk.eu/sparql> ;
         sd:endpoint          <https://premon.fbk.eu/sparql> ;
-        schema:dateModified  "2024-01-01T14:06:19.891+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-08T11:06:20.530+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://psm.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
