@@ -2115,11 +2115,11 @@
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-09T01:30:05.460+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-09T02:17:03.937+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.camera.it/sparql> ;
         sd:endpoint          <https://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-01-09T01:30:05.460+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-09T02:17:03.937+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
