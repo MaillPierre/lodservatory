@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:09:46.163+00:00"^^xsd:dateTime , "2023-12-12T16:10:06.578+00:00"^^xsd:dateTime , "2023-12-19T17:08:18.699+00:00"^^xsd:dateTime , "2023-12-19T17:09:00.740+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-10T20:06:47.945+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:46.163+00:00"^^xsd:dateTime , "2023-12-12T16:10:06.578+00:00"^^xsd:dateTime , "2023-12-19T17:08:18.699+00:00"^^xsd:dateTime , "2023-12-19T17:09:00.740+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-10T20:06:47.945+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-10T15:06:47.239+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-10T20:07:03.667+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-01-10T15:06:47.239+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-10T20:07:03.667+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
