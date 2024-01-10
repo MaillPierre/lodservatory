@@ -1595,11 +1595,11 @@
 
 <http://www.scholarlydata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-10T09:07:50.944+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-10T10:07:56.512+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.scholarlydata.org/sparql> ;
         sd:endpoint          <http://www.scholarlydata.org/sparql> ;
-        schema:dateModified  "2024-01-10T09:07:50.944+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-10T10:07:56.512+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://zhishi.me/sparql>
         a                    cat:DataService , sd:Service ;
