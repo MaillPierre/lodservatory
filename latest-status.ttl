@@ -559,11 +559,11 @@
 
 <http://demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-12T22:07:00.091+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-12T23:07:10.284+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-01-12T22:07:00.091+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-12T23:07:10.284+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://deploy.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
