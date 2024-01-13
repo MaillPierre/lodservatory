@@ -247,11 +247,11 @@
 
 <http://cultura.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-13T10:10:16.004+00:00"^^xsd:dateTime , "2023-12-19T17:08:03.749+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T03:07:10.782+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://cultura.linkeddata.es/sparql> ;
         sd:endpoint          <http://cultura.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-13T10:10:16.004+00:00"^^xsd:dateTime , "2023-12-19T17:08:03.749+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-13T03:07:10.782+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://curriculum.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-09T08:08:19.416+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T03:07:09.279+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-01-09T08:08:19.416+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-13T03:07:09.279+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T02:17:28.300+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T03:07:23.595+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-01-13T02:17:28.300+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-13T03:07:23.595+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
