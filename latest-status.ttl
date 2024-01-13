@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T15:06:03.484+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T16:06:41.645+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-01-13T15:06:03.484+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-13T16:06:41.645+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-13T12:07:56.137+00:00"^^xsd:dateTime , "2023-12-13T12:10:12.958+00:00"^^xsd:dateTime , "2023-12-13T12:11:05.297+00:00"^^xsd:dateTime , "2023-12-19T17:05:10.152+00:00"^^xsd:dateTime , "2023-12-19T17:07:21.163+00:00"^^xsd:dateTime , "2023-12-19T17:08:39.399+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T16:05:55.650+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-13T12:07:56.137+00:00"^^xsd:dateTime , "2023-12-13T12:10:12.958+00:00"^^xsd:dateTime , "2023-12-13T12:11:05.297+00:00"^^xsd:dateTime , "2023-12-19T17:05:10.152+00:00"^^xsd:dateTime , "2023-12-19T17:07:21.163+00:00"^^xsd:dateTime , "2023-12-19T17:08:39.399+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-13T16:05:55.650+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T05:06:57.330+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T16:07:17.185+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-01-13T05:06:57.330+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-13T16:07:17.185+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T15:07:02.049+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T16:07:26.915+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-01-13T15:07:02.049+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-13T16:07:26.915+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2203,11 +2203,11 @@
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-13T16:06:33.545+00:00"^^xsd:dateTime , "2023-12-19T17:07:24.303+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-13T16:05:52.149+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia.org/sparql> ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-13T16:06:33.545+00:00"^^xsd:dateTime , "2023-12-19T17:07:24.303+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-13T16:05:52.149+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
