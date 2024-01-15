@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T17:06:51.175+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-15T18:07:04.362+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-01-15T17:06:51.175+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-15T18:07:04.362+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2187,11 +2187,11 @@
 
 <https://dbmi-icode-01.dbmi.pitt.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T17:07:12.731+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-15T18:07:36.995+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
         sd:endpoint          <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
-        schema:dateModified  "2024-01-15T17:07:12.731+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-15T18:07:36.995+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
