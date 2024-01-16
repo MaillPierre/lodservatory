@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T20:07:35.120+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T18:07:47.087+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-01-13T20:07:35.120+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T18:07:47.087+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T17:06:58.070+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T18:07:24.002+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-01-16T17:06:58.070+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T18:07:24.002+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1811,11 +1811,11 @@
 
 <https://clara.univ-nantes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:24.654+00:00"^^xsd:dateTime , "2023-12-12T16:07:43.515+00:00"^^xsd:dateTime , "2023-12-19T17:05:24.708+00:00"^^xsd:dateTime , "2023-12-19T17:07:49.899+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T18:07:03.295+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://clara.univ-nantes.fr/sparql> ;
         sd:endpoint          <https://clara.univ-nantes.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:24.654+00:00"^^xsd:dateTime , "2023-12-12T16:07:43.515+00:00"^^xsd:dateTime , "2023-12-19T17:05:24.708+00:00"^^xsd:dateTime , "2023-12-19T17:07:49.899+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T18:07:03.295+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
