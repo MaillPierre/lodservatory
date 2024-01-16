@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T00:20:26.928+00:00"^^xsd:dateTime , "2023-12-19T17:09:28.235+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T07:07:03.528+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2023-12-19T00:20:26.928+00:00"^^xsd:dateTime , "2023-12-19T17:09:28.235+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T07:07:03.528+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2579,11 +2579,11 @@
 
 <https://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-08T05:06:58.047+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T07:06:42.154+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ja.dbpedia.org/sparql> ;
         sd:endpoint          <https://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-08T05:06:58.047+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T07:06:42.154+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3083,11 +3083,11 @@
 
 <https://query.wikidata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T06:07:30.293+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T07:06:28.517+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://query.wikidata.org/sparql> ;
         sd:endpoint          <https://query.wikidata.org/sparql> ;
-        schema:dateModified  "2024-01-16T06:07:30.293+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T07:06:28.517+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.disgenet.org/sparql>
         a                    cat:DataService , sd:Service ;
