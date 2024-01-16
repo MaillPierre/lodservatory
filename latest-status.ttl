@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T23:05:38.853+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T01:30:16.098+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-13T23:05:38.853+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T01:30:16.098+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T11:07:07.568+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T01:31:30.926+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-01-15T11:07:07.568+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T01:31:30.926+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1843,11 +1843,11 @@
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:15.441+00:00"^^xsd:dateTime , "2023-12-19T17:07:10.798+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T01:31:28.414+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cs.dbpedia.org/sparql> ;
         sd:endpoint          <https://cs.dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:15.441+00:00"^^xsd:dateTime , "2023-12-19T17:07:10.798+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T01:31:28.414+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ct-linkdata.aegean.gr/gcam/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T10:05:55.531+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T01:30:05.356+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.camera.it/sparql> ;
         sd:endpoint          <https://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-01-15T10:05:55.531+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T01:30:05.356+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
