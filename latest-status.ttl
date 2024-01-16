@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T17:05:33.007+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T19:05:07.593+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-01-16T17:05:33.007+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T19:05:07.593+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T18:07:47.087+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T19:06:52.882+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-01-16T18:07:47.087+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T19:06:52.882+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -495,11 +495,11 @@
 
 <http://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-22T02:15:43.972+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T19:07:08.412+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/bbc/peel/sparql> ;
         sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
-        schema:dateModified  "2023-12-22T02:15:43.972+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-16T19:07:08.412+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1811,11 +1811,11 @@
 
 <https://clara.univ-nantes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T18:07:03.295+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T19:06:18.457+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://clara.univ-nantes.fr/sparql> ;
         sd:endpoint          <https://clara.univ-nantes.fr/sparql> ;
-        schema:dateModified  "2024-01-16T18:07:03.295+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T19:06:18.457+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
