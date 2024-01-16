@@ -319,19 +319,19 @@
 
 <http://data.cervantesvirtual.com/bvmc-lod/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T13:06:51.637+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:05:49.342+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/bvmc-lod/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/bvmc-lod/repositories/data> ;
-        schema:dateModified  "2024-01-16T13:06:51.637+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:05:49.342+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T13:07:49.790+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:06:50.973+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
-        schema:dateModified  "2024-01-16T13:07:49.790+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:06:50.973+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cnr.it/sparql-proxy>
         a                    cat:DataService , sd:Service ;
@@ -1843,11 +1843,11 @@
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T13:08:16.014+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:07:11.573+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cs.dbpedia.org/sparql> ;
         sd:endpoint          <https://cs.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-16T13:08:16.014+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:07:11.573+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ct-linkdata.aegean.gr/gcam/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1907,11 +1907,11 @@
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T13:08:44.207+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:07:36.557+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cervantesvirtual.com/sparql> ;
         sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
-        schema:dateModified  "2024-01-16T13:08:44.207+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:07:36.557+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T07:07:03.528+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:07:03.547+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-01-16T07:07:03.528+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:07:03.547+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T06:07:41.175+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-16T14:06:38.746+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-01-16T06:07:41.175+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-16T14:06:38.746+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
