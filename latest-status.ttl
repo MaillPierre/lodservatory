@@ -1355,11 +1355,11 @@
 
 <http://sparql.archives-ouvertes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:09:50.859+00:00"^^xsd:dateTime , "2023-12-12T16:10:08.769+00:00"^^xsd:dateTime , "2023-12-19T17:05:01.750+00:00"^^xsd:dateTime , "2023-12-19T17:09:21.977+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-17T04:07:33.415+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.archives-ouvertes.fr/sparql> ;
         sd:endpoint          <http://sparql.archives-ouvertes.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:50.859+00:00"^^xsd:dateTime , "2023-12-12T16:10:08.769+00:00"^^xsd:dateTime , "2023-12-19T17:05:01.750+00:00"^^xsd:dateTime , "2023-12-19T17:09:21.977+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-17T04:07:33.415+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.datao.net/sparql>
         a                    cat:DataService , sd:Service ;
