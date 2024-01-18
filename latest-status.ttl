@@ -1707,11 +1707,11 @@
 
 <https://api.nextprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T14:09:37.585+00:00"^^xsd:dateTime , "2023-12-19T17:08:52.484+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-18T16:08:21.914+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.nextprot.org/sparql> ;
         sd:endpoint          <https://api.nextprot.org/sparql> ;
-        schema:dateModified  "2023-12-19T14:09:37.585+00:00"^^xsd:dateTime , "2023-12-19T17:08:52.484+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-18T16:08:21.914+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.parliament.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T20:05:21.664+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-18T16:05:35.939+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-01-15T20:05:21.664+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-18T16:05:35.939+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3283,11 +3283,11 @@
 
 <https://sparql.nextprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:03.152+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-18T16:07:31.819+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.nextprot.org> ;
         sd:endpoint          <https://sparql.nextprot.org> ;
-        schema:dateModified  "2023-12-19T18:07:03.152+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-18T16:07:31.819+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
