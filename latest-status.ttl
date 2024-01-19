@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-19T15:07:31.724+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-19T16:07:59.536+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-01-19T15:07:31.724+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-19T16:07:59.536+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -559,11 +559,11 @@
 
 <http://demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-19T14:07:03.665+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-19T16:07:20.736+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-01-19T14:07:03.665+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-19T16:07:20.736+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://deploy.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
