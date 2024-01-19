@@ -2691,11 +2691,11 @@
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-12T16:07:05.132+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-19T11:06:53.269+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://libris.kb.se/sparql> ;
         sd:endpoint          <https://libris.kb.se/sparql> ;
-        schema:dateModified  "2024-01-12T16:07:05.132+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-19T11:06:53.269+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lindas-data.ch/sparql-ui>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-19T02:17:12.318+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-19T11:05:22.405+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-01-19T02:17:12.318+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-19T11:05:22.405+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
