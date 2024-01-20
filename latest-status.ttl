@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-20T04:06:10.603+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-20T05:05:55.433+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-01-20T04:06:10.603+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-20T05:05:55.433+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
