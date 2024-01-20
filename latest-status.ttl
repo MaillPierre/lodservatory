@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-20T10:07:09.135+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-20T11:07:27.714+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-01-20T10:07:09.135+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-20T11:07:27.714+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2171,11 +2171,11 @@
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:12.347+00:00"^^xsd:dateTime , "2023-12-12T16:10:21.750+00:00"^^xsd:dateTime , "2023-12-19T17:08:53.583+00:00"^^xsd:dateTime , "2023-12-19T17:09:09.909+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-20T11:07:20.307+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dba-rdf.biosciencedbc.jp/sparql> ;
         sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:12.347+00:00"^^xsd:dateTime , "2023-12-12T16:10:21.750+00:00"^^xsd:dateTime , "2023-12-19T17:08:53.583+00:00"^^xsd:dateTime , "2023-12-19T17:09:09.909+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-20T11:07:20.307+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
