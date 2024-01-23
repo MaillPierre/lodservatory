@@ -687,11 +687,11 @@
 
 <http://factforge.net/repositories/ff-news>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:10:07.943+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.334+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T22:05:20.355+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://factforge.net/repositories/ff-news> ;
         sd:endpoint          <http://factforge.net/repositories/ff-news> ;
-        schema:dateModified  "2023-12-12T16:10:07.943+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.334+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-23T22:05:20.355+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://factforge.net/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T21:07:16.875+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T22:07:05.798+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-23T21:07:16.875+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-23T22:07:05.798+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
