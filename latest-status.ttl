@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T10:07:26.287+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T11:07:18.082+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-23T10:07:26.287+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-23T11:07:18.082+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T10:07:22.805+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T11:07:14.427+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-23T10:07:22.805+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-23T11:07:14.427+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2187,11 +2187,11 @@
 
 <https://dbmi-icode-01.dbmi.pitt.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T18:07:36.995+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T11:06:49.970+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
         sd:endpoint          <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
-        schema:dateModified  "2024-01-15T18:07:36.995+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-23T11:06:49.970+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-22T19:06:58.172+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-23T11:07:12.561+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-01-22T19:06:58.172+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-23T11:07:12.561+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
