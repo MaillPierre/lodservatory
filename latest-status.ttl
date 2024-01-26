@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-24T03:07:58.339+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-26T11:06:59.439+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-24T03:07:58.339+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-26T11:06:59.439+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-24T11:07:11.861+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-26T11:07:08.199+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-24T11:07:11.861+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-26T11:07:08.199+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
