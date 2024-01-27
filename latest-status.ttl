@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-26T15:05:42.064+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T03:06:05.170+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-01-26T15:05:42.064+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-27T03:06:05.170+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-27T02:11:36.998+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T03:08:38.932+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-01-27T02:11:36.998+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-27T03:08:38.932+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
