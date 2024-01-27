@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-26T19:06:08.941+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T06:06:33.987+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-26T19:06:08.941+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-27T06:06:33.987+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-26T19:05:39.911+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T06:06:11.120+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-01-26T19:05:39.911+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-27T06:06:11.120+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-25T14:07:18.073+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T06:07:09.680+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-01-25T14:07:18.073+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-27T06:07:09.680+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-27T05:07:06.007+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-27T06:07:01.081+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-27T05:07:06.007+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-27T06:07:01.081+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
