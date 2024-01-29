@@ -3043,11 +3043,11 @@
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-19T02:18:34.585+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T11:06:01.019+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://premon.fbk.eu/sparql> ;
         sd:endpoint          <https://premon.fbk.eu/sparql> ;
-        schema:dateModified  "2024-01-19T02:18:34.585+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-29T11:06:01.019+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://psm.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
