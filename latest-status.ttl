@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-14T23:08:12.909+00:00"^^xsd:dateTime , "2023-12-19T17:09:38.243+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:06:11.605+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-14T23:08:12.909+00:00"^^xsd:dateTime , "2023-12-19T17:09:38.243+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-29T13:06:11.605+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T07:07:18.477+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:07:00.136+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-29T07:07:18.477+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-29T13:07:00.136+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2139,11 +2139,11 @@
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-14T23:09:12.268+00:00"^^xsd:dateTime , "2023-12-19T17:06:37.864+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:06:10.022+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bne.es/sparql> ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2023-12-14T23:09:12.268+00:00"^^xsd:dateTime , "2023-12-19T17:06:37.864+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-29T13:06:10.022+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.gob.es/en/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-28T14:06:32.068+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:06:59.836+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-01-28T14:06:32.068+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-29T13:06:59.836+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2907,11 +2907,11 @@
 
 <https://navi.first.lifesciencedb.jp/fanavi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-28T04:08:02.181+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:06:53.462+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
         sd:endpoint          <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
-        schema:dateModified  "2024-01-28T04:08:02.181+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-01-29T13:06:53.462+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://nl.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3043,11 +3043,11 @@
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T11:06:01.019+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-01-29T13:05:58.689+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://premon.fbk.eu/sparql> ;
         sd:endpoint          <https://premon.fbk.eu/sparql> ;
-        schema:dateModified  "2024-01-29T11:06:01.019+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-01-29T13:05:58.689+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://psm.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
