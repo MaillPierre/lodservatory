@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:09:04.431+00:00"^^xsd:dateTime , "2023-12-19T17:07:43.552+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-02T12:07:59.259+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:04.431+00:00"^^xsd:dateTime , "2023-12-19T17:07:43.552+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-02T12:07:59.259+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1411,11 +1411,11 @@
 
 <http://sparql.odw.tw>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-01T23:06:29.916+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-02T12:08:29.362+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.odw.tw> ;
         sd:endpoint          <http://sparql.odw.tw> ;
-        schema:dateModified  "2024-02-01T23:06:29.916+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-02T12:08:29.362+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.openlifedata.org>
         a                    cat:DataService , sd:Service ;
