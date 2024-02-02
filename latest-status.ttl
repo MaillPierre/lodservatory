@@ -1275,11 +1275,11 @@
 
 <http://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:18.826+00:00"^^xsd:dateTime , "2023-12-12T16:08:12.811+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.064+00:00"^^xsd:dateTime , "2023-12-19T17:06:33.459+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-02T17:06:06.100+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <http://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:18.826+00:00"^^xsd:dateTime , "2023-12-12T16:08:12.811+00:00"^^xsd:dateTime , "2023-12-19T17:05:17.064+00:00"^^xsd:dateTime , "2023-12-19T17:06:33.459+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-02T17:06:06.100+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://pubmed.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
