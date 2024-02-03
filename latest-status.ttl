@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-02T05:07:12.201+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-03T00:20:56.884+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-02-02T05:07:12.201+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-03T00:20:56.884+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-02T23:06:03.051+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-03T00:19:56.025+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-02-02T23:06:03.051+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-03T00:19:56.025+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
