@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-04T02:16:20.088+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-04T03:08:32.161+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-04T02:16:20.088+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-04T03:08:32.161+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2827,11 +2827,11 @@
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-04T01:30:45.927+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-04T03:07:21.602+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.sztaki.hu/sparql> ;
         sd:endpoint          <https://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-02-04T01:30:45.927+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-04T03:07:21.602+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2859,11 +2859,11 @@
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-04T02:13:43.573+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-04T03:06:11.742+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <https://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-04T02:13:43.573+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-04T03:06:11.742+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
