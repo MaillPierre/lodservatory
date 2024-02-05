@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-24T12:09:31.772+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-05T14:06:38.162+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-01-24T12:09:31.772+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-05T14:06:38.162+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2907,11 +2907,11 @@
 
 <https://navi.first.lifesciencedb.jp/fanavi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T13:06:53.462+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-05T14:06:50.025+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
         sd:endpoint          <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
-        schema:dateModified  "2024-01-29T13:06:53.462+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-05T14:06:50.025+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://nl.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
