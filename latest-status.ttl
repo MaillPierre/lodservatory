@@ -1635,11 +1635,11 @@
 
 <https://agrovoc.fao.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-04T16:05:53.889+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-05T17:05:49.178+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.fao.org/sparql> ;
         sd:endpoint          <https://agrovoc.fao.org/sparql> ;
-        schema:dateModified  "2024-02-04T16:05:53.889+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-05T17:05:49.178+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
