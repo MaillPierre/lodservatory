@@ -495,27 +495,27 @@
 
 <http://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-25T08:08:27.740+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-06T11:07:08.864+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/bbc/peel/sparql> ;
         sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
-        schema:dateModified  "2024-01-25T08:08:27.740+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-06T11:07:08.864+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-28T22:06:02.671+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-06T11:05:18.857+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-01-28T22:06:02.671+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-06T11:05:18.857+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-21T03:06:50.803+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-06T11:06:15.211+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/jamendo/sparql> ;
         sd:endpoint          <http://dbtune.org/jamendo/sparql> ;
-        schema:dateModified  "2024-01-21T03:06:50.803+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-06T11:06:15.211+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/magnatune/sparql>
         a                    cat:DataService , sd:Service ;
@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T17:06:19.714+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-06T11:05:48.779+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-01-29T17:06:19.714+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-06T11:05:48.779+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-06T10:05:41.961+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-06T11:05:26.293+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-02-06T10:05:41.961+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-06T11:05:26.293+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
