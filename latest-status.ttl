@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-31T17:07:12.482+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-07T08:07:36.692+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-01-31T17:07:12.482+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-07T08:07:36.692+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2707,19 +2707,19 @@
 
 <https://lingualibre.fr/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T07:06:43.590+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-07T08:07:20.437+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2024-02-07T07:06:43.590+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-07T08:07:20.437+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lingualibre.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T07:07:04.392+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-07T08:07:55.113+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lingualibre.org/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://lingualibre.org/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2024-02-07T07:07:04.392+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-07T08:07:55.113+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linked.ec-dataplatform.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3299,11 +3299,11 @@
 
 <https://sparql.omabrowser.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T07:07:35.659+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-07T08:08:16.891+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.omabrowser.org/sparql> ;
         sd:endpoint          <https://sparql.omabrowser.org/sparql> ;
-        schema:dateModified  "2024-02-07T07:07:35.659+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-07T08:08:16.891+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
