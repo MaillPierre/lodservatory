@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T03:06:27.623+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T04:06:47.242+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-08T03:06:27.623+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T04:06:47.242+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T03:07:01.644+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T04:07:28.783+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-08T03:07:01.644+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T04:07:28.783+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
