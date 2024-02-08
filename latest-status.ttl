@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T13:06:11.605+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:06:43.912+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-01-29T13:06:11.605+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-08T14:06:43.912+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -1087,11 +1087,11 @@
 
 <http://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T14:06:13.565+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:06:26.143+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ma-graph.org/sparql> ;
         sd:endpoint          <http://ma-graph.org/sparql> ;
-        schema:dateModified  "2024-02-07T14:06:13.565+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-08T14:06:26.143+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://mesh.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3667,32 +3667,32 @@
 
 <https://zbw.eu/beta/sparql/gnd/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T13:05:44.087+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:06:01.586+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/gnd/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
-        schema:dateModified  "2024-02-08T13:05:44.087+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T14:06:01.586+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T13:06:57.188+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:07:07.440+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/pm20/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/pm20/query> ;
-        schema:dateModified  "2024-02-08T13:06:57.188+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T14:07:07.440+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/stw/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T13:06:18.783+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:06:30.922+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stw/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stw/query> ;
-        schema:dateModified  "2024-02-08T13:06:18.783+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T14:06:30.922+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/stwv/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T13:06:08.213+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T14:06:26.480+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stwv/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stwv/query> ;
-        schema:dateModified  "2024-02-08T13:06:08.213+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T14:06:26.480+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
