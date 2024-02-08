@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T01:25:55.048+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T00:20:11.100+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-02-07T01:25:55.048+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-08T00:20:11.100+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T23:08:16.807+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T00:21:28.033+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-02-07T23:08:16.807+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T00:21:28.033+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3219,11 +3219,11 @@
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-17T21:05:42.511+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T00:18:59.525+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql-noipa.mef.gov.it/sparql> ;
         sd:endpoint          <https://sparql-noipa.mef.gov.it/sparql> ;
-        schema:dateModified  "2024-01-17T21:05:42.511+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-08T00:18:59.525+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.agroportal.lirmm.fr/sparql>
         a                    cat:DataService , sd:Service ;
