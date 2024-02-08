@@ -3131,11 +3131,11 @@
 
 <https://rpp-opendata.egon.gov.cz/odrpp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T01:26:58.388+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-08T02:11:36.857+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
         sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
-        schema:dateModified  "2024-02-08T01:26:58.388+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-08T02:11:36.857+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
