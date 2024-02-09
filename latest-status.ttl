@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T01:26:26.847+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-09T00:19:55.471+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-02-08T01:26:26.847+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-09T00:19:55.471+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1427,19 +1427,19 @@
 
 <http://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T11:05:41.448+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-09T00:18:46.202+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.orthodb.org/sparql> ;
         sd:endpoint          <http://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-01-15T11:05:41.448+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-09T00:18:46.202+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:22.968+00:00"^^xsd:dateTime , "2023-12-12T16:10:01.589+00:00"^^xsd:dateTime , "2023-12-19T17:05:54.154+00:00"^^xsd:dateTime , "2023-12-19T17:08:51.781+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-09T00:19:18.461+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.proconsortium.org/virtuoso/sparql> ;
         sd:endpoint          <http://sparql.proconsortium.org/virtuoso/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:22.968+00:00"^^xsd:dateTime , "2023-12-12T16:10:01.589+00:00"^^xsd:dateTime , "2023-12-19T17:05:54.154+00:00"^^xsd:dateTime , "2023-12-19T17:08:51.781+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-09T00:19:18.461+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
@@ -3307,19 +3307,19 @@
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-15T11:06:08.117+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-09T00:19:11.246+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.orthodb.org/sparql> ;
         sd:endpoint          <https://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-01-15T11:06:08.117+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-09T00:19:11.246+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:20.386+00:00"^^xsd:dateTime , "2023-12-19T17:05:56.627+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-09T00:19:31.168+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.proconsortium.org/virtuoso/sparql> ;
         sd:endpoint          <https://sparql.proconsortium.org/virtuoso/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:20.386+00:00"^^xsd:dateTime , "2023-12-19T17:05:56.627+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-09T00:19:31.168+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
