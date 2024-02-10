@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-10T06:07:04.484+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-10T19:06:04.192+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-02-10T06:07:04.484+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-10T19:06:04.192+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-10T18:08:21.740+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-10T19:07:53.361+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-10T18:08:21.740+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-10T19:07:53.361+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1643,11 +1643,11 @@
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-10T18:07:18.602+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-10T19:06:33.334+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.uniroma2.it/sparql> ;
         sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
-        schema:dateModified  "2024-02-10T18:07:18.602+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-10T19:06:33.334+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://alaska.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-08T11:05:18.507+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-10T19:05:12.115+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-08T11:05:18.507+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-10T19:05:12.115+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-10T06:06:39.162+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-10T19:05:40.225+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-02-10T06:06:39.162+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-10T19:05:40.225+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
