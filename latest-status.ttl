@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-11T00:21:41.107+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-11T08:06:37.050+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2024-02-11T00:21:41.107+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-11T08:06:37.050+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-11T07:07:15.022+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-11T08:07:35.255+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-02-11T07:07:15.022+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-11T08:07:35.255+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
