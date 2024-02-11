@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-10T23:06:11.086+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-11T00:21:41.107+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2024-02-10T23:06:11.086+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-11T00:21:41.107+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
