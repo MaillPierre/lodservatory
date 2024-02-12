@@ -3035,11 +3035,11 @@
 
 <https://pgxlod.loria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-09T13:06:39.071+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-12T09:06:48.406+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://pgxlod.loria.fr/sparql> ;
         sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
-        schema:dateModified  "2024-02-09T13:06:39.071+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-12T09:06:48.406+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3595,11 +3595,11 @@
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-12T08:07:44.220+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-12T09:06:45.211+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.orkg.org/orkg/triplestore> ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2024-02-12T08:07:44.220+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-12T09:06:45.211+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orpha.net/sparql>
         a                    cat:DataService , sd:Service ;
