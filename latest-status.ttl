@@ -1691,11 +1691,11 @@
 
 <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-06T13:05:39.627+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-12T20:06:11.282+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
         sd:endpoint          <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
-        schema:dateModified  "2024-02-06T13:05:39.627+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-12T20:06:11.282+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.finto.fi/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2011,11 +2011,11 @@
 
 <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-06T13:05:38.627+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-12T20:06:12.474+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
         sd:endpoint          <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
-        schema:dateModified  "2024-02-06T13:05:38.627+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-12T20:06:12.474+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
