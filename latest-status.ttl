@@ -991,11 +991,11 @@
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T17:05:44.238+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T18:06:04.237+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedgeodata.org/sparql> ;
         sd:endpoint          <http://linkedgeodata.org/sparql> ;
-        schema:dateModified  "2024-02-14T17:05:44.238+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-14T18:06:04.237+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1635,19 +1635,19 @@
 
 <https://agrovoc.fao.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-12T18:05:56.123+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T18:05:58.486+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.fao.org/sparql> ;
         sd:endpoint          <https://agrovoc.fao.org/sparql> ;
-        schema:dateModified  "2024-02-12T18:05:56.123+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-14T18:05:58.486+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T13:06:47.464+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T18:07:12.354+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.uniroma2.it/sparql> ;
         sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
-        schema:dateModified  "2024-02-14T13:06:47.464+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-14T18:07:12.354+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://alaska.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
