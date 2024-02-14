@@ -991,11 +991,11 @@
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-22T12:07:55.618+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T17:05:44.238+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedgeodata.org/sparql> ;
         sd:endpoint          <http://linkedgeodata.org/sparql> ;
-        schema:dateModified  "2024-01-22T12:07:55.618+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-14T17:05:44.238+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1379,11 +1379,11 @@
 
 <http://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T11:07:27.836+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T17:07:34.773+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.hegroup.org/sparql> ;
         sd:endpoint          <http://sparql.hegroup.org/sparql> ;
-        schema:dateModified  "2024-02-14T11:07:27.836+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-14T17:07:34.773+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.kupkb.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3267,11 +3267,11 @@
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T11:06:32.789+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T17:06:44.397+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.hegroup.org/sparql> ;
         sd:endpoint          <https://sparql.hegroup.org/sparql> ;
-        schema:dateModified  "2024-02-14T11:06:32.789+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-14T17:06:44.397+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.lri.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T16:06:16.074+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T17:05:50.893+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-02-14T16:06:16.074+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-14T17:05:50.893+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
