@@ -2731,11 +2731,11 @@
 
 <https://linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-04T05:05:50.001+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-14T23:05:21.954+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linked.opendata.cz/sparql> ;
         sd:endpoint          <https://linked.opendata.cz/sparql> ;
-        schema:dateModified  "2024-01-04T05:05:50.001+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-14T23:05:21.954+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linkeddata.finki.ukim.mk/sparql>
         a                    cat:DataService , sd:Service ;
