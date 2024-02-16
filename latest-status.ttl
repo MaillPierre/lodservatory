@@ -1531,11 +1531,11 @@
 
 <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-17T06:07:12.948+00:00"^^xsd:dateTime , "2023-12-19T17:06:40.032+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-16T08:06:38.707+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot> ;
         sd:endpoint          <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot> ;
-        schema:dateModified  "2023-12-17T06:07:12.948+00:00"^^xsd:dateTime , "2023-12-19T17:06:40.032+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-16T08:06:38.707+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vt.mo-ld.org/sparql>
         a                    cat:DataService , sd:Service ;
