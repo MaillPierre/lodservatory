@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-17T19:06:55.596+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-17T20:07:31.735+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-17T19:06:55.596+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-17T20:07:31.735+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-16T17:06:14.629+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-17T20:06:45.737+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-02-16T17:06:14.629+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-17T20:06:45.737+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
