@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-18T11:06:45.493+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-18T12:08:26.585+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-18T11:06:45.493+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-18T12:08:26.585+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3107,11 +3107,11 @@
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-18T11:06:25.953+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-18T12:08:02.465+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.metanetx.org/sparql> ;
         sd:endpoint          <https://rdf.metanetx.org/sparql> ;
-        schema:dateModified  "2024-02-18T11:06:25.953+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-18T12:08:02.465+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.muninn-project.org/sparql>
         a                    cat:DataService , sd:Service ;
