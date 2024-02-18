@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-15T18:08:16.593+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-18T10:07:28.934+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-02-15T18:08:16.593+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-18T10:07:28.934+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-18T09:07:12.076+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-18T10:07:20.434+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-18T09:07:12.076+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-18T10:07:20.434+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
