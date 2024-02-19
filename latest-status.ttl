@@ -1235,11 +1235,11 @@
 
 <http://patho.phenomebrowser.net/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-11T16:07:24.488+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-19T08:08:23.810+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://patho.phenomebrowser.net/sparql> ;
         sd:endpoint          <http://patho.phenomebrowser.net/sparql> ;
-        schema:dateModified  "2024-02-11T16:07:24.488+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-19T08:08:23.810+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://pharmgkb.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
