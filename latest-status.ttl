@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-20T22:06:57.977+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-21T00:20:25.818+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-20T22:06:57.977+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-21T00:20:25.818+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2019,11 +2019,11 @@
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-13T23:06:54.052+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-21T00:20:19.405+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.nationallibrary.fi/bib/sparql> ;
         sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
-        schema:dateModified  "2024-02-13T23:06:54.052+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-21T00:20:19.405+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.nobelprize.org/sparql>
         a                    cat:DataService , sd:Service ;
