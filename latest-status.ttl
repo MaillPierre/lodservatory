@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-19T12:10:03.443+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-22T00:21:07.234+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-02-19T12:10:03.443+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-22T00:21:07.234+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-21T23:08:09.923+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-22T00:20:39.077+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-21T23:08:09.923+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-22T00:20:39.077+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3595,11 +3595,11 @@
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-21T23:07:08.748+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-22T00:20:01.716+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.orkg.org/orkg/triplestore> ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2024-02-21T23:07:08.748+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-22T00:20:01.716+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orpha.net/sparql>
         a                    cat:DataService , sd:Service ;
