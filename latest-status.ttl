@@ -2083,11 +2083,11 @@
 
 <https://data.persee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:18.712+00:00"^^xsd:dateTime , "2023-12-19T17:08:28.249+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-23T16:06:20.661+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.persee.fr/sparql> ;
         sd:endpoint          <https://data.persee.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:18.712+00:00"^^xsd:dateTime , "2023-12-19T17:08:28.249+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-23T16:06:20.661+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.wu.ac.at/sparql>
         a                    cat:DataService , sd:Service ;
