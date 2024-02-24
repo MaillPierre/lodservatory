@@ -295,11 +295,11 @@
 
 <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-24T06:07:48.565+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-24T09:07:44.440+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
         sd:endpoint          <http://data.archaeologydataservice.ac.uk/sparql/repositories/archives> ;
-        schema:dateModified  "2024-02-24T06:07:48.565+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-24T09:07:44.440+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T02:11:39.432+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-24T09:07:19.209+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-02-23T02:11:39.432+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-24T09:07:19.209+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-24T08:07:14.394+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-24T09:07:45.565+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-24T08:07:14.394+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-24T09:07:45.565+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-24T08:07:38.578+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-24T09:07:34.407+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-24T08:07:38.578+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-24T09:07:34.407+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-24T08:06:58.389+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-24T09:07:27.588+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-24T08:06:58.389+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-24T09:07:27.588+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
