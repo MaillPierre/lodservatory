@@ -1547,11 +1547,11 @@
 
 <http://vulcan.cs.uga.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T22:05:12.525+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T17:05:51.986+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vulcan.cs.uga.edu/sparql> ;
         sd:endpoint          <http://vulcan.cs.uga.edu/sparql> ;
-        schema:dateModified  "2024-02-23T22:05:12.525+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-26T17:05:51.986+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://wifo5-04.informatik.uni-mannheim.de/drugbank/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2163,11 +2163,11 @@
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-26T16:08:24.520+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T17:07:43.003+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://db.project-hobbit.eu/sparql> ;
         sd:endpoint          <https://db.project-hobbit.eu/sparql> ;
-        schema:dateModified  "2024-02-26T16:08:24.520+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-26T17:07:43.003+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
