@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-26T15:05:15.848+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T16:05:58.604+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-02-26T15:05:15.848+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-26T16:05:58.604+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2163,11 +2163,11 @@
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T15:07:28.607+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T16:08:24.520+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://db.project-hobbit.eu/sparql> ;
         sd:endpoint          <https://db.project-hobbit.eu/sparql> ;
-        schema:dateModified  "2024-02-07T15:07:28.607+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-26T16:08:24.520+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
