@@ -415,11 +415,11 @@
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-16T19:05:24.088+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T12:07:16.398+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.camera.it/sparql> ;
         sd:endpoint          <http://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-02-16T19:05:24.088+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-26T12:07:16.398+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3491,11 +3491,11 @@
 
 <https://weakg.i3s.unice.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-25T22:06:15.041+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-26T12:08:45.250+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://weakg.i3s.unice.fr/sparql> ;
         sd:endpoint          <https://weakg.i3s.unice.fr/sparql> ;
-        schema:dateModified  "2024-02-25T22:06:15.041+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-26T12:08:45.250+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://webenemasuno.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
