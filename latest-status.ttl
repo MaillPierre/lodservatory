@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T15:06:29.377+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:06:33.571+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-02-23T15:06:29.377+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-27T15:06:33.571+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-27T11:07:35.662+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:07:27.272+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-27T11:07:35.662+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-27T15:07:27.272+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-27T11:07:12.517+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:07:24.056+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-27T11:07:12.517+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-27T15:07:24.056+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2083,11 +2083,11 @@
 
 <https://data.persee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-26T21:07:19.093+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:06:36.412+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.persee.fr/sparql> ;
         sd:endpoint          <https://data.persee.fr/sparql> ;
-        schema:dateModified  "2024-02-26T21:07:19.093+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-27T15:06:36.412+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.wu.ac.at/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-27T14:06:44.283+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:06:51.701+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-02-27T14:06:44.283+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-27T15:06:51.701+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-27T11:07:18.601+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-27T15:07:10.078+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-02-27T11:07:18.601+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-27T15:07:10.078+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
