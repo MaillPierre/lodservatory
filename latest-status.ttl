@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T06:07:23.708+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-28T19:06:24.385+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-02-28T06:07:23.708+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-28T19:06:24.385+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T06:06:59.947+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-28T19:05:54.966+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-02-28T06:06:59.947+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-28T19:05:54.966+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3219,11 +3219,11 @@
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-16T16:06:18.223+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-28T19:05:24.036+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql-noipa.mef.gov.it/sparql> ;
         sd:endpoint          <https://sparql-noipa.mef.gov.it/sparql> ;
-        schema:dateModified  "2024-02-16T16:06:18.223+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-28T19:05:24.036+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.agroportal.lirmm.fr/sparql>
         a                    cat:DataService , sd:Service ;
