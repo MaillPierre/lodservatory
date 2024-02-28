@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T14:08:06.078+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-28T17:08:10.895+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-28T14:08:06.078+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-28T17:08:10.895+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T14:06:53.632+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-28T17:06:52.239+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-28T14:06:53.632+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-28T17:06:52.239+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
