@@ -559,11 +559,11 @@
 
 <http://demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:06:43.008+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T17:06:27.345+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-02-29T16:06:43.008+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-29T17:06:27.345+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://deploy.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3131,11 +3131,11 @@
 
 <https://rpp-opendata.egon.gov.cz/odrpp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:07:16.443+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T17:07:03.911+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
         sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
-        schema:dateModified  "2024-02-29T16:07:16.443+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-29T17:07:03.911+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3331,11 +3331,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:06:55.476+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T17:06:48.375+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2024-02-29T16:06:55.476+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-29T17:06:48.375+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:07:25.240+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T17:07:11.352+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-02-29T16:07:25.240+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-29T17:07:11.352+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3627,11 +3627,11 @@
 
 <https://xn--slovnk-7va.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:07:08.061+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T17:06:58.946+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://xn--slovnk-7va.gov.cz/sparql> ;
         sd:endpoint          <https://xn--slovnk-7va.gov.cz/sparql> ;
-        schema:dateModified  "2024-02-29T16:07:08.061+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-29T17:06:58.946+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://xula.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
