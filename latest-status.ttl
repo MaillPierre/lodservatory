@@ -1379,11 +1379,11 @@
 
 <http://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T13:07:15.630+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T05:08:41.606+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.hegroup.org/sparql> ;
         sd:endpoint          <http://sparql.hegroup.org/sparql> ;
-        schema:dateModified  "2024-02-23T13:07:15.630+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-29T05:08:41.606+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.kupkb.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T18:07:28.219+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T05:07:59.479+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-02-28T18:07:28.219+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-29T05:07:59.479+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2139,11 +2139,11 @@
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T04:07:02.369+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T05:07:43.866+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bne.es/sparql> ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-02-29T04:07:02.369+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-02-29T05:07:43.866+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.gob.es/en/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3267,11 +3267,11 @@
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T13:06:28.981+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-02-29T05:07:38.741+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.hegroup.org/sparql> ;
         sd:endpoint          <https://sparql.hegroup.org/sparql> ;
-        schema:dateModified  "2024-02-23T13:06:28.981+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-02-29T05:07:38.741+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.lri.fr/sparql>
         a                    cat:DataService , sd:Service ;
