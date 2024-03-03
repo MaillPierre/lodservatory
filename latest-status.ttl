@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-29T16:05:47.961+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-03T01:27:52.960+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-02-29T16:05:47.961+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-03T01:27:52.960+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-01T02:15:40.195+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-03T01:29:50.044+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-03-01T02:15:40.195+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-03T01:29:50.044+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
