@@ -383,11 +383,11 @@
 
 <http://data.ox.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:09.583+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T22:05:44.824+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.ox.ac.uk/sparql> ;
         sd:endpoint          <http://data.ox.ac.uk/sparql> ;
-        schema:dateModified  "2023-12-19T18:06:09.583+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-04T22:05:44.824+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.persee.fr/explorer/sparql-endpoint>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T19:04:52.525+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T22:05:06.855+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-03-04T19:04:52.525+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-04T22:05:06.855+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
