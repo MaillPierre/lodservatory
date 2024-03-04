@@ -543,11 +543,11 @@
 
 <http://de.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:22.637+00:00"^^xsd:dateTime , "2023-12-12T16:09:40.732+00:00"^^xsd:dateTime , "2023-12-19T17:05:31.510+00:00"^^xsd:dateTime , "2023-12-19T17:08:17.920+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T05:24:15.492+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://de.dbpedia.org/sparql> ;
         sd:endpoint          <http://de.dbpedia.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:22.637+00:00"^^xsd:dateTime , "2023-12-12T16:09:40.732+00:00"^^xsd:dateTime , "2023-12-19T17:05:31.510+00:00"^^xsd:dateTime , "2023-12-19T17:08:17.920+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-04T05:24:15.492+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://deepblue.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T04:24:06.500+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T05:25:25.652+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-03-04T04:24:06.500+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-04T05:25:25.652+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2627,11 +2627,11 @@
 
 <https://landportal.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-02T21:05:57.095+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T05:24:41.036+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://landportal.org/sparql> ;
         sd:endpoint          <https://landportal.org/sparql> ;
-        schema:dateModified  "2024-03-02T21:05:57.095+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-04T05:24:41.036+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://landregistry.data.gov.uk/landregistry/query>
         a                    cat:DataService , sd:Service ;
@@ -3099,11 +3099,11 @@
 
 <https://rdf.insee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T04:24:18.503+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T05:25:29.778+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.insee.fr/sparql> ;
         sd:endpoint          <https://rdf.insee.fr/sparql> ;
-        schema:dateModified  "2024-03-04T04:24:18.503+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-04T05:25:29.778+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
