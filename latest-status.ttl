@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-02T08:06:21.740+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T07:32:45.178+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-03-02T08:06:21.740+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-04T07:32:45.178+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2627,11 +2627,11 @@
 
 <https://landportal.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T06:27:23.911+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T07:32:42.059+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://landportal.org/sparql> ;
         sd:endpoint          <https://landportal.org/sparql> ;
-        schema:dateModified  "2024-03-04T06:27:23.911+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-04T07:32:42.059+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://landregistry.data.gov.uk/landregistry/query>
         a                    cat:DataService , sd:Service ;
@@ -2795,11 +2795,11 @@
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-02T08:06:38.166+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-04T07:33:14.555+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.abes.fr/sparql> ;
         sd:endpoint          <https://lod.abes.fr/sparql> ;
-        schema:dateModified  "2024-03-02T08:06:38.166+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-04T07:33:14.555+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
