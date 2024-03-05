@@ -383,11 +383,11 @@
 
 <http://data.ox.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T22:05:44.824+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:06:08.633+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.ox.ac.uk/sparql> ;
         sd:endpoint          <http://data.ox.ac.uk/sparql> ;
-        schema:dateModified  "2024-03-04T22:05:44.824+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T11:06:08.633+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.persee.fr/explorer/sparql-endpoint>
         a                    cat:DataService , sd:Service ;
@@ -743,11 +743,11 @@
 
 <http://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T10:06:57.007+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:06:26.048+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://genome.microbedb.jp/sparql> ;
         sd:endpoint          <http://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-03-05T10:06:57.007+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T11:06:26.048+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T08:07:05.598+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:06:16.367+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-03-05T08:07:05.598+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T11:06:16.367+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2387,11 +2387,11 @@
 
 <https://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T10:07:20.995+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:07:00.365+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://genome.microbedb.jp/sparql> ;
         sd:endpoint          <https://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-03-05T10:07:20.995+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T11:07:00.365+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2459,11 +2459,11 @@
 
 <https://hu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-23T11:05:47.003+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:06:11.937+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hu.dbpedia.org/sparql> ;
         sd:endpoint          <https://hu.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-02-23T11:05:47.003+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-05T11:06:11.937+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hub-rnsr.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2795,11 +2795,11 @@
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T10:06:59.807+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T11:06:32.214+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.abes.fr/sparql> ;
         sd:endpoint          <https://lod.abes.fr/sparql> ;
-        schema:dateModified  "2024-03-05T10:06:59.807+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T11:06:32.214+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
