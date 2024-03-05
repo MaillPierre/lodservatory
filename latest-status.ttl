@@ -3563,11 +3563,11 @@
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T17:07:45.458+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T18:07:12.875+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.govdata.de/sparql> ;
         sd:endpoint          <https://www.govdata.de/sparql> ;
-        schema:dateModified  "2024-03-05T17:07:45.458+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T18:07:12.875+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.icane.es/opendata/sparql>
         a                    cat:DataService , sd:Service ;
