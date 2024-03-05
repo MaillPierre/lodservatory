@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T07:06:12.335+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T08:07:18.555+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-03-05T07:06:12.335+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-05T08:07:18.555+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T07:32:45.178+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T08:07:05.598+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-03-04T07:32:45.178+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-05T08:07:05.598+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2795,11 +2795,11 @@
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-04T07:33:14.555+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T08:07:35.275+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.abes.fr/sparql> ;
         sd:endpoint          <https://lod.abes.fr/sparql> ;
-        schema:dateModified  "2024-03-04T07:33:14.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-05T08:07:35.275+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3115,11 +3115,11 @@
 
 <https://rdf.muninn-project.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-15T00:21:20.643+00:00"^^xsd:dateTime , "2023-12-19T17:06:48.296+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-05T08:09:07.131+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.muninn-project.org/sparql> ;
         sd:endpoint          <https://rdf.muninn-project.org/sparql> ;
-        schema:dateModified  "2023-12-15T00:21:20.643+00:00"^^xsd:dateTime , "2023-12-19T17:06:48.296+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-05T08:09:07.131+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.pathwaycommons.org/sparql>
         a                    cat:DataService , sd:Service ;
