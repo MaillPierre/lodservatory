@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-07T01:18:14.964+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T02:05:48.573+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-03-07T01:18:14.964+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-07T02:05:48.573+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
