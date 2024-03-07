@@ -31,11 +31,11 @@
 
 <http://aemet.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:05:45.372+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:15:33.626+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://aemet.linkeddata.es/sparql> ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-19T18:05:45.372+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:15:33.626+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -247,11 +247,11 @@
 
 <http://cultura.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-13T04:07:23.369+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:47.706+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://cultura.linkeddata.es/sparql> ;
         sd:endpoint          <http://cultura.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-01-13T04:07:23.369+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:16:47.706+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://curriculum.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -647,11 +647,11 @@
 
 <http://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-24T05:07:03.454+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:17:05.964+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://es.dbpedia.org/sparql> ;
         sd:endpoint          <http://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-24T05:07:03.454+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:17:05.964+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -751,11 +751,11 @@
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-13T10:09:32.695+00:00"^^xsd:dateTime , "2023-12-19T17:05:55.456+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:15:29.132+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geo.linkeddata.es/sparql> ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-13T10:09:32.695+00:00"^^xsd:dateTime , "2023-12-19T17:05:55.456+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:15:29.132+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -951,11 +951,11 @@
 
 <http://linguistic.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:59.142+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:51.544+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linguistic.linkeddata.es/sparql> ;
         sd:endpoint          <http://linguistic.linkeddata.es/sparql> ;
-        schema:dateModified  "2023-12-19T18:06:59.142+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:16:51.544+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linked-data.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1395,11 +1395,11 @@
 
 <http://sparql.lynx-project.eu>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:59.947+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:40.974+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.lynx-project.eu> ;
         sd:endpoint          <http://sparql.lynx-project.eu> ;
-        schema:dateModified  "2023-12-19T18:06:59.947+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:16:40.974+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2323,11 +2323,11 @@
 
 <https://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-24T05:06:56.094+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:54.192+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://es.dbpedia.org/sparql> ;
         sd:endpoint          <https://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-01-24T05:06:56.094+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:16:54.192+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2843,19 +2843,19 @@
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-14T10:07:25.234+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:17:52.589+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.linkeddata.es/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
-        schema:dateModified  "2024-01-14T10:07:25.234+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:17:52.589+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-14T10:06:16.805+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:20.735+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.okfn.org/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
-        schema:dateModified  "2024-01-14T10:06:16.805+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-07T00:16:20.735+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3595,11 +3595,11 @@
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-06T23:07:21.089+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-07T00:16:22.172+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.orkg.org/orkg/triplestore> ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2024-03-06T23:07:21.089+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-07T00:16:22.172+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orpha.net/sparql>
         a                    cat:DataService , sd:Service ;
