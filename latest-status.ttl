@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-10T19:06:01.448+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T06:07:17.758+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-03-10T19:06:01.448+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T06:07:17.758+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-10T19:05:35.319+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T06:06:57.185+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-03-10T19:05:35.319+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T06:06:57.185+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,19 +2411,19 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:20.039+00:00"^^xsd:dateTime , "2023-12-19T17:07:41.395+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T06:07:41.432+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:20.039+00:00"^^xsd:dateTime , "2023-12-19T17:07:41.395+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-11T06:07:41.432+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-16T14:07:03.547+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T06:07:41.432+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-01-16T14:07:03.547+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-11T06:07:41.432+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3283,11 +3283,11 @@
 
 <https://sparql.nextprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-18T17:07:14.216+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T06:07:42.374+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.nextprot.org> ;
         sd:endpoint          <https://sparql.nextprot.org> ;
-        schema:dateModified  "2024-01-18T17:07:14.216+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-11T06:07:42.374+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
