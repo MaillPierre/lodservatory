@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T12:09:05.419+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T13:06:52.077+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-03-11T12:09:05.419+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T13:06:52.077+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3219,11 +3219,11 @@
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T12:07:29.914+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T13:05:34.188+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql-noipa.mef.gov.it/sparql> ;
         sd:endpoint          <https://sparql-noipa.mef.gov.it/sparql> ;
-        schema:dateModified  "2024-03-11T12:07:29.914+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T13:05:34.188+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.agroportal.lirmm.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T12:08:53.953+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T13:06:42.002+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-03-11T12:08:53.953+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T13:06:42.002+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
