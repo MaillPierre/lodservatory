@@ -3131,11 +3131,11 @@
 
 <https://rpp-opendata.egon.gov.cz/odrpp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T04:07:26.536+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T05:07:15.258+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
         sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
-        schema:dateModified  "2024-03-11T04:07:26.536+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T05:07:15.258+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3627,11 +3627,11 @@
 
 <https://xn--slovnk-7va.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T04:07:30.632+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-11T05:07:31.809+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://xn--slovnk-7va.gov.cz/sparql> ;
         sd:endpoint          <https://xn--slovnk-7va.gov.cz/sparql> ;
-        schema:dateModified  "2024-03-11T04:07:30.632+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-11T05:07:31.809+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://xula.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
