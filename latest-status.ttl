@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-10T22:06:49.851+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-12T05:06:50.581+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-03-10T22:06:49.851+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-12T05:06:50.581+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -3099,11 +3099,11 @@
 
 <https://rdf.insee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-07T05:07:16.897+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-12T05:07:13.674+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.insee.fr/sparql> ;
         sd:endpoint          <https://rdf.insee.fr/sparql> ;
-        schema:dateModified  "2024-03-07T05:07:16.897+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-12T05:07:13.674+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
