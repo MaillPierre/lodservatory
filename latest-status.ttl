@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-01T22:07:43.363+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-13T12:11:00.332+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-03-01T22:07:43.363+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-13T12:11:00.332+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2187,11 +2187,11 @@
 
 <https://dbmi-icode-01.dbmi.pitt.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T11:06:49.970+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-13T12:09:23.872+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
         sd:endpoint          <https://dbmi-icode-01.dbmi.pitt.edu/sparql> ;
-        schema:dateModified  "2024-01-23T11:06:49.970+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-13T12:09:23.872+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
