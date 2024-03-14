@@ -1547,11 +1547,11 @@
 
 <http://vulcan.cs.uga.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T19:05:17.895+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-14T20:05:46.592+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vulcan.cs.uga.edu/sparql> ;
         sd:endpoint          <http://vulcan.cs.uga.edu/sparql> ;
-        schema:dateModified  "2024-03-14T19:05:17.895+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-14T20:05:46.592+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://wifo5-04.informatik.uni-mannheim.de/drugbank/sparql>
         a                    cat:DataService , sd:Service ;
