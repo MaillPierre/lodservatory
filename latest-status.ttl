@@ -2459,11 +2459,11 @@
 
 <https://hu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T13:05:54.757+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-14T23:06:11.978+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hu.dbpedia.org/sparql> ;
         sd:endpoint          <https://hu.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-05T13:05:54.757+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-14T23:06:11.978+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hub-rnsr.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
