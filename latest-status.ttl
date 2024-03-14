@@ -3067,11 +3067,11 @@
 
 <https://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T21:07:14.744+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-14T22:06:57.610+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <https://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2024-03-14T21:07:14.744+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-14T22:06:57.610+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://query.wikidata.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
