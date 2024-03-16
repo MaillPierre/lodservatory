@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-16T06:07:38.207+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-16T07:07:28.789+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-03-16T06:07:38.207+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-16T07:07:28.789+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2459,11 +2459,11 @@
 
 <https://hu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T23:06:11.978+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-16T07:06:04.121+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hu.dbpedia.org/sparql> ;
         sd:endpoint          <https://hu.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-14T23:06:11.978+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-16T07:06:04.121+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hub-rnsr.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
