@@ -1411,11 +1411,11 @@
 
 <http://sparql.odw.tw>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-02T12:08:29.362+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T09:06:50.047+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.odw.tw> ;
         sd:endpoint          <http://sparql.odw.tw> ;
-        schema:dateModified  "2024-02-02T12:08:29.362+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-18T09:06:50.047+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.openlifedata.org>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-18T08:07:49.576+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T09:06:43.665+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-03-18T08:07:49.576+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-18T09:06:43.665+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
