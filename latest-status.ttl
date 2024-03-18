@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T05:06:09.252+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T22:06:46.460+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-03-14T05:06:09.252+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-18T22:06:46.460+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-18T11:07:10.113+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T22:07:22.532+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-03-18T11:07:10.113+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-18T22:07:22.532+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -503,11 +503,11 @@
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-18T21:06:02.444+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T22:06:17.103+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-03-18T21:06:02.444+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-18T22:06:17.103+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T05:06:58.197+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T22:07:34.794+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-03-14T05:06:58.197+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-18T22:07:34.794+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2131,11 +2131,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-18T11:07:20.942+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-18T22:07:34.315+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-03-18T11:07:20.942+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-18T22:07:34.315+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
