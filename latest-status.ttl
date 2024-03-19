@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-19T08:06:13.455+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-19T09:05:37.126+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-03-19T08:06:13.455+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-19T09:05:37.126+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1411,11 +1411,11 @@
 
 <http://sparql.odw.tw>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-18T09:06:50.047+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-19T09:06:57.136+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.odw.tw> ;
         sd:endpoint          <http://sparql.odw.tw> ;
-        schema:dateModified  "2024-03-18T09:06:50.047+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-19T09:06:57.136+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.openlifedata.org>
         a                    cat:DataService , sd:Service ;
@@ -1915,11 +1915,11 @@
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:09:19.036+00:00"^^xsd:dateTime , "2023-12-19T17:07:01.703+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-19T09:07:09.282+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cinematheque.qc.ca/sparql> ;
         sd:endpoint          <https://data.cinematheque.qc.ca/sparql> ;
-        schema:dateModified  "2023-12-12T16:09:19.036+00:00"^^xsd:dateTime , "2023-12-19T17:07:01.703+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-19T09:07:09.282+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
