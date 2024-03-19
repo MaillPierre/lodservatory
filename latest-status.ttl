@@ -871,11 +871,11 @@
 
 <http://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-19T04:07:54.169+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-19T05:07:03.425+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ja.dbpedia.org/sparql> ;
         sd:endpoint          <http://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-19T04:07:54.169+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-19T05:07:03.425+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://jisc.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1643,11 +1643,11 @@
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-19T04:07:30.581+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-19T05:06:50.250+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.uniroma2.it/sparql> ;
         sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
-        schema:dateModified  "2024-03-19T04:07:30.581+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-19T05:06:50.250+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://alaska.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
