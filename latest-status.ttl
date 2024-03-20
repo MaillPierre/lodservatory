@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T16:08:31.421+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T20:08:06+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-03-20T16:08:31.421+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-20T20:08:06+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2803,11 +2803,11 @@
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T19:06:47.936+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T20:07:48.929+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.nl.go.kr/sparql> ;
         sd:endpoint          <https://lod.nl.go.kr/sparql> ;
-        schema:dateModified  "2024-03-20T19:06:47.936+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-20T20:07:48.929+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.openaire.eu/sparql>
         a                    cat:DataService , sd:Service ;
