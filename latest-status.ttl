@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-16T19:07:19.673+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T13:09:34.620+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-03-16T19:07:19.673+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-20T13:09:34.620+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-14T15:06:03.641+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T13:08:02.136+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-03-14T15:06:03.641+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-20T13:08:02.136+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T12:09:31.611+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T13:09:31.903+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-03-20T12:09:31.611+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-20T13:09:31.903+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T12:08:53.317+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-20T13:08:43.540+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-03-20T12:08:53.317+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-20T13:08:43.540+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
