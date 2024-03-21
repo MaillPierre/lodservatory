@@ -871,11 +871,11 @@
 
 <http://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-21T13:07:24.506+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T21:07:33.589+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ja.dbpedia.org/sparql> ;
         sd:endpoint          <http://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-21T13:07:24.506+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-21T21:07:33.589+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://jisc.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-21T20:07:43.497+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T21:07:51.465+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-03-21T20:07:43.497+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-21T21:07:51.465+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2579,11 +2579,11 @@
 
 <https://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-21T20:06:44.493+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T21:07:02.534+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ja.dbpedia.org/sparql> ;
         sd:endpoint          <https://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-21T20:06:44.493+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-21T21:07:02.534+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3547,11 +3547,11 @@
 
 <https://www.foodie-cloud.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-21T20:07:11.014+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T21:07:27.996+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.foodie-cloud.org/sparql> ;
         sd:endpoint          <https://www.foodie-cloud.org/sparql> ;
-        schema:dateModified  "2024-03-21T20:07:11.014+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-21T21:07:27.996+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
