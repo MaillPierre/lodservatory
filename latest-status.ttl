@@ -1827,11 +1827,11 @@
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-28T15:07:36.795+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T07:07:50.479+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://covidontheweb.inria.fr/sparql> ;
         sd:endpoint          <https://covidontheweb.inria.fr/sparql> ;
-        schema:dateModified  "2024-02-28T15:07:36.795+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-21T07:07:50.479+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-22T12:07:32.367+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-21T07:06:14.960+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-02-22T12:07:32.367+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-21T07:06:14.960+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
