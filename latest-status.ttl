@@ -1103,11 +1103,11 @@
 
 <http://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T04:06:54.221+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-22T08:07:44.514+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://metadb.riken.jp/sparql> ;
         sd:endpoint          <http://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-03-22T04:06:54.221+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-22T08:07:44.514+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://mgi.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2883,11 +2883,11 @@
 
 <https://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T04:07:51.928+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-22T08:08:27.866+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://metadb.riken.jp/sparql> ;
         sd:endpoint          <https://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-03-22T04:07:51.928+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-22T08:08:27.866+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://montana.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2907,11 +2907,11 @@
 
 <https://navi.first.lifesciencedb.jp/fanavi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-10T09:07:20.674+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-22T08:08:14.661+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
         sd:endpoint          <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
-        schema:dateModified  "2024-03-10T09:07:20.674+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-22T08:08:14.661+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://nl.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
