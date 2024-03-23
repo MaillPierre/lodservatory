@@ -31,11 +31,11 @@
 
 <http://aemet.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-07T22:05:22.400+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-23T03:06:22.508+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://aemet.linkeddata.es/sparql> ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-03-07T22:05:22.400+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-23T03:06:22.508+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -751,11 +751,11 @@
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-07T22:05:19.089+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-23T03:06:23.396+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geo.linkeddata.es/sparql> ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-03-07T22:05:19.089+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-23T03:06:23.396+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
