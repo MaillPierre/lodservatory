@@ -871,11 +871,11 @@
 
 <http://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T12:09:45.300+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-24T15:07:43.722+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ja.dbpedia.org/sparql> ;
         sd:endpoint          <http://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-22T12:09:45.300+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-24T15:07:43.722+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://jisc.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1531,11 +1531,11 @@
 
 <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-24T14:05:23.737+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-24T15:05:43.748+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot> ;
         sd:endpoint          <http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot> ;
-        schema:dateModified  "2024-03-24T14:05:23.737+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-24T15:05:43.748+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vt.mo-ld.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-24T14:06:56.979+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-24T15:07:18.575+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-03-24T14:06:56.979+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-24T15:07:18.575+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
