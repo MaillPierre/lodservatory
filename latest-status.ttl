@@ -511,11 +511,11 @@
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-24T01:31:09.463+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-24T02:14:47.596+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/jamendo/sparql> ;
         sd:endpoint          <http://dbtune.org/jamendo/sparql> ;
-        schema:dateModified  "2024-03-24T01:31:09.463+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-24T02:14:47.596+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/magnatune/sparql>
         a                    cat:DataService , sd:Service ;
