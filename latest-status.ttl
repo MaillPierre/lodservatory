@@ -1355,11 +1355,11 @@
 
 <http://sparql.archives-ouvertes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-17T05:07:08.460+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T08:09:24.707+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.archives-ouvertes.fr/sparql> ;
         sd:endpoint          <http://sparql.archives-ouvertes.fr/sparql> ;
-        schema:dateModified  "2024-01-17T05:07:08.460+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-25T08:09:24.707+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.datao.net/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-21T15:05:38.616+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T08:08:15.727+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-02-21T15:05:38.616+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-25T08:08:15.727+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
