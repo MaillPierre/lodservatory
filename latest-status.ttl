@@ -3643,11 +3643,11 @@
 
 <https://yago-knowledge.org/sparql/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-09T11:05:30.664+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T13:05:26.626+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://yago-knowledge.org/sparql/query> ;
         sd:endpoint          <https://yago-knowledge.org/sparql/query> ;
-        schema:dateModified  "2024-01-09T11:05:30.664+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-25T13:05:26.626+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/econ_corp/query>
         a                    cat:DataService , sd:Service ;
