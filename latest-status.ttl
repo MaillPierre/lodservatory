@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T16:06:18.292+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T04:07:42.027+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-03-05T16:06:18.292+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-25T04:07:42.027+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-25T03:05:38.788+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T04:06:47.700+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-03-25T03:05:38.788+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-25T04:06:47.700+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
