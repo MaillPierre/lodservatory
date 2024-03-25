@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T06:07:55.125+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T15:07:35.799+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-03-22T06:07:55.125+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-25T15:07:35.799+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-25T14:06:59.228+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T15:07:22.590+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-03-25T14:06:59.228+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-25T15:07:22.590+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3643,11 +3643,11 @@
 
 <https://yago-knowledge.org/sparql/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-25T13:05:26.626+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-25T15:06:03.099+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://yago-knowledge.org/sparql/query> ;
         sd:endpoint          <https://yago-knowledge.org/sparql/query> ;
-        schema:dateModified  "2024-03-25T13:05:26.626+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-25T15:06:03.099+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/econ_corp/query>
         a                    cat:DataService , sd:Service ;
