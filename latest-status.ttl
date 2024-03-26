@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T06:07:47.271+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-26T08:08:08.819+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-03-20T06:07:47.271+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-26T08:08:08.819+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-15T16:06:24.043+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-26T08:06:45.136+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-03-15T16:06:24.043+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-26T08:06:45.136+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2123,11 +2123,11 @@
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:58.655+00:00"^^xsd:dateTime , "2023-12-19T17:08:54.115+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-26T08:08:19.308+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos-abertos.galiciana.gal/pt/sparql> ;
         sd:endpoint          <https://datos-abertos.galiciana.gal/pt/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:58.655+00:00"^^xsd:dateTime , "2023-12-19T17:08:54.115+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-26T08:08:19.308+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
