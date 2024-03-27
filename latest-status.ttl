@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T20:07:55.530+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:23.520+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-03-22T20:07:55.530+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:23.520+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -239,11 +239,11 @@
 
 <http://ctd.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:27.564+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:09.663+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ctd.bio2rdf.org/sparql> ;
         sd:endpoint          <http://ctd.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:27.564+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:09.663+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://cultura.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -735,11 +735,11 @@
 
 <http://gendr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:52.157+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:25.595+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://gendr.bio2rdf.org/sparql> ;
         sd:endpoint          <http://gendr.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:52.157+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:25.595+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -767,11 +767,11 @@
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:24.920+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:03.227+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://goa.bio2rdf.org/sparql> ;
         sd:endpoint          <http://goa.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:24.920+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:03.227+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://heritagedata.org/live/sparql>
         a                    cat:DataService , sd:Service ;
@@ -791,11 +791,11 @@
 
 <http://homologene.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:36.320+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:17.297+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://homologene.bio2rdf.org/sparql> ;
         sd:endpoint          <http://homologene.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:36.320+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:17.297+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://host.geolink.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -847,11 +847,11 @@
 
 <http://irefindex.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:38.865+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:11.022+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://irefindex.bio2rdf.org/sparql> ;
         sd:endpoint          <http://irefindex.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:38.865+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:11.022+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://irit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -911,11 +911,11 @@
 
 <http://kegg.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:36.321+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:08.265+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://kegg.bio2rdf.org/sparql> ;
         sd:endpoint          <http://kegg.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:36.321+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:08.265+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://kisti.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1111,11 +1111,11 @@
 
 <http://mgi.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:31.401+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:04.003+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://mgi.bio2rdf.org/sparql> ;
         sd:endpoint          <http://mgi.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:31.401+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:04.003+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://miuras.inf.um.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1143,11 +1143,11 @@
 
 <http://ndc.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:07:52.651+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T10:07:25.801+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ndc.bio2rdf.org/sparql> ;
         sd:endpoint          <http://ndc.bio2rdf.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:07:52.651+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-27T10:07:25.801+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://newcastle.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
