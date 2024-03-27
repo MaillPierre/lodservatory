@@ -511,11 +511,11 @@
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-24T02:14:47.596+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T00:19:52.034+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/jamendo/sparql> ;
         sd:endpoint          <http://dbtune.org/jamendo/sparql> ;
-        schema:dateModified  "2024-03-24T02:14:47.596+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-27T00:19:52.034+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/magnatune/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1947,11 +1947,11 @@
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:08:37.717+00:00"^^xsd:dateTime , "2023-12-19T17:07:19.192+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T00:18:41.388+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.escr.fr/sparql> ;
         sd:endpoint          <https://data.escr.fr/sparql> ;
-        schema:dateModified  "2023-12-12T16:08:37.717+00:00"^^xsd:dateTime , "2023-12-19T17:07:19.192+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-27T00:18:41.388+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:05:55.053+00:00"^^xsd:dateTime , "2023-12-19T17:08:18.864+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-27T00:20:26.024+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2023-12-12T16:05:55.053+00:00"^^xsd:dateTime , "2023-12-19T17:08:18.864+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-27T00:20:26.024+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
