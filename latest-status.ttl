@@ -1699,11 +1699,11 @@
 
 <https://api.finto.fi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-28T11:06:50.522+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-28T12:10:30.872+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.finto.fi/sparql> ;
         sd:endpoint          <https://api.finto.fi/sparql> ;
-        schema:dateModified  "2024-03-28T11:06:50.522+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-28T12:10:30.872+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.nextprot.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2019,11 +2019,11 @@
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-28T11:06:49.713+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-28T12:10:23.997+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.nationallibrary.fi/bib/sparql> ;
         sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
-        schema:dateModified  "2024-03-28T11:06:49.713+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-28T12:10:23.997+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.nobelprize.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-20T03:07:05.217+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-28T12:10:24.550+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-03-20T03:07:05.217+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-28T12:10:24.550+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
