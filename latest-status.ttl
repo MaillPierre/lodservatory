@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-11T09:06:00.692+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-28T23:06:19.604+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2024-02-11T09:06:00.692+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-28T23:06:19.604+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-28T21:06:03.840+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-28T23:05:23.684+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-03-28T21:06:03.840+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-28T23:05:23.684+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
