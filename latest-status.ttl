@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-29T07:05:31.573+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:06:18.409+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-03-29T07:05:31.573+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-29T08:06:18.409+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-29T07:06:41.539+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:07:28.993+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-03-29T07:06:41.539+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-29T08:07:28.993+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-29T05:09:37.573+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:09:18.402+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-03-29T05:09:37.573+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-29T08:09:18.402+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2123,11 +2123,11 @@
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-26T09:06:55.516+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:08:07.510+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos-abertos.galiciana.gal/pt/sparql> ;
         sd:endpoint          <https://datos-abertos.galiciana.gal/pt/sparql> ;
-        schema:dateModified  "2024-03-26T09:06:55.516+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-29T08:08:07.510+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-29T07:07:13.723+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:07:55.521+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2024-03-29T07:07:13.723+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-29T08:07:55.521+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2883,11 +2883,11 @@
 
 <https://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T08:08:27.866+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-29T08:08:23.324+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://metadb.riken.jp/sparql> ;
         sd:endpoint          <https://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-03-22T08:08:27.866+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-29T08:08:23.324+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://montana.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
