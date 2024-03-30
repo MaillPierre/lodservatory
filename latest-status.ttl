@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T21:06:47.985+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:07:39.134+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-03-22T21:06:47.985+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:07:39.134+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1707,11 +1707,11 @@
 
 <https://api.nextprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-18T17:07:52.376+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:08:51.116+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.nextprot.org/sparql> ;
         sd:endpoint          <https://api.nextprot.org/sparql> ;
-        schema:dateModified  "2024-01-18T17:07:52.376+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:08:51.116+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.parliament.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,19 +2411,19 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-12T03:07:42.887+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:07:27.675+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-03-12T03:07:42.887+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:07:27.675+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-28T13:07:00.056+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:07:27.412+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-03-28T13:07:00.056+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:07:27.412+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3283,11 +3283,11 @@
 
 <https://sparql.nextprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-12T03:07:58.843+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:07:23.464+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.nextprot.org> ;
         sd:endpoint          <https://sparql.nextprot.org> ;
-        schema:dateModified  "2024-03-12T03:07:58.843+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:07:23.464+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-28T17:07:56.137+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T16:08:16.108+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-03-28T17:07:56.137+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T16:08:16.108+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
