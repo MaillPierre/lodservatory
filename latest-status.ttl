@@ -1371,11 +1371,11 @@
 
 <http://sparql.europeana.eu>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:33.755+00:00"^^xsd:dateTime , "2023-12-12T16:08:07.724+00:00"^^xsd:dateTime , "2023-12-19T17:06:29.970+00:00"^^xsd:dateTime , "2023-12-19T17:07:07.798+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T00:19:10.028+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.europeana.eu> ;
         sd:endpoint          <http://sparql.europeana.eu> ;
-        schema:dateModified  "2023-12-12T16:07:33.755+00:00"^^xsd:dateTime , "2023-12-12T16:08:07.724+00:00"^^xsd:dateTime , "2023-12-19T17:06:29.970+00:00"^^xsd:dateTime , "2023-12-19T17:07:07.798+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-03-30T00:19:10.028+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-27T05:06:22.582+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-30T00:18:48.653+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-03-27T05:06:22.582+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-30T00:18:48.653+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
