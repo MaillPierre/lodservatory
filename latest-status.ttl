@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-31T08:06:11.798+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-03-31T09:06:27.512+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-03-31T08:06:11.798+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-03-31T09:06:27.512+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
