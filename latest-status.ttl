@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T06:07:16.986+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T12:08:51.043+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-04-02T06:07:16.986+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T12:08:51.043+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -671,11 +671,11 @@
 
 <http://eventmedia.eurecom.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T11:05:53.924+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T12:08:24.951+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://eventmedia.eurecom.fr/sparql> ;
         sd:endpoint          <http://eventmedia.eurecom.fr/sparql> ;
-        schema:dateModified  "2024-04-02T11:05:53.924+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T12:08:24.951+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://extbi.lab.aau.dk/sparql>
         a                    cat:DataService , sd:Service ;
