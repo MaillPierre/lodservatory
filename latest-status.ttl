@@ -1547,11 +1547,11 @@
 
 <http://vulcan.cs.uga.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T14:05:14.007+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T15:05:18.730+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vulcan.cs.uga.edu/sparql> ;
         sd:endpoint          <http://vulcan.cs.uga.edu/sparql> ;
-        schema:dateModified  "2024-04-02T14:05:14.007+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T15:05:18.730+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://wifo5-04.informatik.uni-mannheim.de/drugbank/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3107,11 +3107,11 @@
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T14:06:39.477+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T15:06:40.406+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.metanetx.org/sparql> ;
         sd:endpoint          <https://rdf.metanetx.org/sparql> ;
-        schema:dateModified  "2024-04-02T14:06:39.477+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T15:06:40.406+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.muninn-project.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3331,11 +3331,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T13:07:35.728+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T15:06:54.670+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2024-04-02T13:07:35.728+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T15:06:54.670+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
