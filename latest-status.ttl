@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-01T05:05:35.103+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T16:05:35.216+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-01T05:05:35.103+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-02T16:05:35.216+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3563,11 +3563,11 @@
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-05T18:07:12.875+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T16:07:35.351+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.govdata.de/sparql> ;
         sd:endpoint          <https://www.govdata.de/sparql> ;
-        schema:dateModified  "2024-03-05T18:07:12.875+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-02T16:07:35.351+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.icane.es/opendata/sparql>
         a                    cat:DataService , sd:Service ;
