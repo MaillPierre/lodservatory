@@ -671,11 +671,11 @@
 
 <http://eventmedia.eurecom.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-03T04:06:14.003+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T11:05:53.924+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://eventmedia.eurecom.fr/sparql> ;
         sd:endpoint          <http://eventmedia.eurecom.fr/sparql> ;
-        schema:dateModified  "2024-03-03T04:06:14.003+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-02T11:05:53.924+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://extbi.lab.aau.dk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T09:07:28+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-02T11:07:36.303+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-02T09:07:28+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-02T11:07:36.303+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
