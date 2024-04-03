@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T17:05:18.090+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-03T12:07:55.361+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-02T17:05:18.090+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-03T12:07:55.361+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1103,11 +1103,11 @@
 
 <http://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-22T08:07:44.514+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-03T12:08:56.512+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://metadb.riken.jp/sparql> ;
         sd:endpoint          <http://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-03-22T08:07:44.514+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-03T12:08:56.512+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://mgi.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T10:06:47.530+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-03T12:09:29.973+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-02T10:06:47.530+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-03T12:09:29.973+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-01T05:05:45.895+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-03T12:08:05.475+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-01T05:05:45.895+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-03T12:08:05.475+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2883,11 +2883,11 @@
 
 <https://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-29T09:07:19.161+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-03T12:09:45.647+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://metadb.riken.jp/sparql> ;
         sd:endpoint          <https://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-03-29T09:07:19.161+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-03T12:09:45.647+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://montana.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
