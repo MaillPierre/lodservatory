@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-04T13:07:48.987+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-04T14:07:47.392+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-04-04T13:07:48.987+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-04T14:07:47.392+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2883,11 +2883,11 @@
 
 <https://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-03T13:08:20.098+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-04T14:07:27.200+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://metadb.riken.jp/sparql> ;
         sd:endpoint          <https://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-04-03T13:08:20.098+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-04T14:07:27.200+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://montana.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
