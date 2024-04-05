@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-03T01:27:08.964+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-05T02:12:24.247+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-03T01:27:08.964+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-05T02:12:24.247+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-05T01:28:54.002+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-05T02:13:15.708+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-04-05T01:28:54.002+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-05T02:13:15.708+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
