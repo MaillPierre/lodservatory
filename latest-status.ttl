@@ -871,11 +871,11 @@
 
 <http://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T14:07:02.179+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T16:07:23.228+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ja.dbpedia.org/sparql> ;
         sd:endpoint          <http://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-06T14:07:02.179+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-06T16:07:23.228+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://jisc.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-05T19:08:07.208+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T16:07:41.501+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-04-05T19:08:07.208+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T16:07:41.501+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2579,11 +2579,11 @@
 
 <https://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T15:06:48.397+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T16:06:51.995+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ja.dbpedia.org/sparql> ;
         sd:endpoint          <https://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-06T15:06:48.397+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-06T16:06:51.995+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
