@@ -871,11 +871,11 @@
 
 <http://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T13:06:52.307+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T14:07:02.179+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ja.dbpedia.org/sparql> ;
         sd:endpoint          <http://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-06T13:06:52.307+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T14:07:02.179+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://jisc.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2579,11 +2579,11 @@
 
 <https://ja.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T11:06:45.564+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T14:06:26.656+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ja.dbpedia.org/sparql> ;
         sd:endpoint          <https://ja.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-06T11:06:45.564+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-06T14:06:26.656+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
