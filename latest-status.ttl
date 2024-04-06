@@ -1675,11 +1675,11 @@
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T14:08:53.087+00:00"^^xsd:dateTime , "2023-12-19T17:08:30.315+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T21:05:21.457+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.aucklandmuseum.com/sparql> ;
         sd:endpoint          <https://api.aucklandmuseum.com/sparql> ;
-        schema:dateModified  "2023-12-19T14:08:53.087+00:00"^^xsd:dateTime , "2023-12-19T17:08:30.315+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T21:05:21.457+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.cooperationdatabank.org/datasets/coda/databank/services/databank/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2731,11 +2731,11 @@
 
 <https://linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-15T00:19:05.745+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T21:05:26.141+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linked.opendata.cz/sparql> ;
         sd:endpoint          <https://linked.opendata.cz/sparql> ;
-        schema:dateModified  "2024-02-15T00:19:05.745+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T21:05:26.141+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linkeddata.finki.ukim.mk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3139,11 +3139,11 @@
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-04T05:06:29.051+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T21:06:03.822+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ruian.linked.opendata.cz/sparql> ;
         sd:endpoint          <https://ruian.linked.opendata.cz/sparql> ;
-        schema:dateModified  "2024-01-04T05:06:29.051+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T21:06:03.822+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T18:07:53.238+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-06T21:07:50.570+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-06T18:07:53.238+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-06T21:07:50.570+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
