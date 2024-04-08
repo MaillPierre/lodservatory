@@ -999,11 +999,11 @@
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-08T01:28:06.135+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-08T02:12:51.660+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedlifedata.com/sparql> ;
         sd:endpoint          <http://linkedlifedata.com/sparql> ;
-        schema:dateModified  "2024-04-08T01:28:06.135+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-08T02:12:51.660+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedspending.aksw.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-07T13:07:49.409+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-08T02:15:15.636+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-07T13:07:49.409+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-08T02:15:15.636+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
