@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T04:06:35.768+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-09T23:05:50.236+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-06T04:06:35.768+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-09T23:05:50.236+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1635,11 +1635,11 @@
 
 <https://agrovoc.fao.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-14T20:05:39.703+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-09T23:05:35.762+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.fao.org/sparql> ;
         sd:endpoint          <https://agrovoc.fao.org/sparql> ;
-        schema:dateModified  "2024-02-14T20:05:39.703+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-09T23:05:35.762+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
