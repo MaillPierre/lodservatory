@@ -1835,11 +1835,11 @@
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-09T19:07:06.449+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-09T20:07:31.158+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cr.eionet.europa.eu/sparql> ;
         sd:endpoint          <https://cr.eionet.europa.eu/sparql> ;
-        schema:dateModified  "2024-04-09T19:07:06.449+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-09T20:07:31.158+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
