@@ -327,11 +327,11 @@
 
 <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T18:07:53.333+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:06:51.397+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
-        schema:dateModified  "2024-04-10T18:07:53.333+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:06:51.397+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cnr.it/sparql-proxy>
         a                    cat:DataService , sd:Service ;
@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T00:19:33.635+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:05:54.473+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-10T00:19:33.635+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-10T19:05:54.473+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T18:08:41.153+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:07:34.457+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-04-10T18:08:41.153+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:07:34.457+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -1571,11 +1571,11 @@
 
 <http://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T18:07:57.610+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:06:54.108+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <http://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-04-10T18:07:57.610+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:06:54.108+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://www.imagesnippets.com/sparql/images>
         a                    cat:DataService , sd:Service ;
@@ -1907,11 +1907,11 @@
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T18:09:00.752+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:07:49.194+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cervantesvirtual.com/sparql> ;
         sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
-        schema:dateModified  "2024-04-10T18:09:00.752+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:07:49.194+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T16:08:17.598+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:07:58.202+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-10T16:08:17.598+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:07:58.202+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3555,11 +3555,11 @@
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T18:08:19.960+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T19:07:41.861+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <https://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-04-10T18:08:19.960+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T19:07:41.861+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
