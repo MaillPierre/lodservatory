@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-09T12:08:02.718+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T22:06:00.107+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-04-09T12:08:02.718+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-10T22:06:00.107+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
