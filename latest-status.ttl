@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-09T08:08:29.709+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T16:08:25.208+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-04-09T08:08:29.709+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-10T16:08:25.208+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T15:06:11.584+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T16:06:52.389+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-04-10T15:06:11.584+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T16:06:52.389+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -3147,11 +3147,11 @@
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T15:05:52.169+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T16:06:27.855+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semantic.eea.europa.eu/sparql> ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
-        schema:dateModified  "2024-04-10T15:05:52.169+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T16:06:27.855+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T14:05:07.088+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T16:06:10.325+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-04-10T14:05:07.088+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-10T16:06:10.325+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-09T17:07:26.767+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-10T16:08:17.598+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-09T17:07:26.767+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-10T16:08:17.598+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
