@@ -1087,11 +1087,11 @@
 
 <http://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-11T09:06:34.518+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-11T16:06:47.795+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ma-graph.org/sparql> ;
         sd:endpoint          <http://ma-graph.org/sparql> ;
-        schema:dateModified  "2024-04-11T09:06:34.518+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-11T16:06:47.795+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://mesh.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
