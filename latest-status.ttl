@@ -495,27 +495,27 @@
 
 <http://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-12T03:07:34.137+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T17:07:44.384+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/bbc/peel/sparql> ;
         sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
-        schema:dateModified  "2024-04-12T03:07:34.137+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-12T17:07:44.384+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-31T16:06:08.968+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T17:06:01.682+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-03-31T16:06:08.968+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-12T17:06:01.682+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-12T14:06:30.748+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T17:07:01.354+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/jamendo/sparql> ;
         sd:endpoint          <http://dbtune.org/jamendo/sparql> ;
-        schema:dateModified  "2024-04-12T14:06:30.748+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-12T17:07:01.354+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/magnatune/sparql>
         a                    cat:DataService , sd:Service ;
