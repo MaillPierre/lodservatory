@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-01T00:21:55.788+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T23:05:21.099+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-04-01T00:21:55.788+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-12T23:05:21.099+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2627,11 +2627,11 @@
 
 <https://landportal.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-12T22:06:28.649+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T23:06:05.580+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://landportal.org/sparql> ;
         sd:endpoint          <https://landportal.org/sparql> ;
-        schema:dateModified  "2024-04-12T22:06:28.649+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-12T23:06:05.580+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://landregistry.data.gov.uk/landregistry/query>
         a                    cat:DataService , sd:Service ;
