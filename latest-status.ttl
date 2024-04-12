@@ -999,11 +999,11 @@
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-12T07:06:41.226+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-12T08:06:39.141+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedlifedata.com/sparql> ;
         sd:endpoint          <http://linkedlifedata.com/sparql> ;
-        schema:dateModified  "2024-04-12T07:06:41.226+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-12T08:06:39.141+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedspending.aksw.org/sparql>
         a                    cat:DataService , sd:Service ;
