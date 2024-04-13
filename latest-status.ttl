@@ -63,11 +63,11 @@
 
 <http://ariadne-registry.dcu.gr:8890/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T14:05:40.844+00:00"^^xsd:dateTime , "2023-12-19T17:05:09.564+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-13T15:05:40.294+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ariadne-registry.dcu.gr:8890/sparql> ;
         sd:endpoint          <http://ariadne-registry.dcu.gr:8890/sparql> ;
-        schema:dateModified  "2023-12-19T14:05:40.844+00:00"^^xsd:dateTime , "2023-12-19T17:05:09.564+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-13T15:05:40.294+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://babelnet.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-13T14:06:45.625+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-13T15:05:42.750+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-04-13T14:06:45.625+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-13T15:05:42.750+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
