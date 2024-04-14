@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-12T00:20:52.678+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-14T12:03:07.070+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-04-12T00:20:52.678+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-14T12:03:07.070+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -999,11 +999,11 @@
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-14T00:23:19.726+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-14T12:01:38.678+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedlifedata.com/sparql> ;
         sd:endpoint          <http://linkedlifedata.com/sparql> ;
-        schema:dateModified  "2024-04-14T00:23:19.726+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-14T12:01:38.678+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedspending.aksw.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-14T08:43:54.028+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-14T12:03:22.834+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-14T08:43:54.028+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-14T12:03:22.834+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
