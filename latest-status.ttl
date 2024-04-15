@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T05:06:51.127+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T18:07:21.944+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-15T05:06:51.127+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T18:07:21.944+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-11T01:28:30.292+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T18:07:16.194+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-11T01:28:30.292+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T18:07:16.194+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T05:06:25.694+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T18:06:51.546+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-15T05:06:25.694+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T18:06:51.546+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2843,19 +2843,19 @@
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-04T11:07:33.156+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T18:08:29.043+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.linkeddata.es/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
-        schema:dateModified  "2024-04-04T11:07:33.156+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T18:08:29.043+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-13T03:06:07.117+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T18:07:01.718+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.okfn.org/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
-        schema:dateModified  "2024-04-13T03:06:07.117+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T18:07:01.718+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
