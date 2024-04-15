@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-11T12:07:23.190+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T12:08:24.113+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-04-11T12:07:23.190+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T12:08:24.113+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T11:05:01.443+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T12:08:20.764+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-15T11:05:01.443+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T12:08:20.764+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1499,11 +1499,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T11:05:35.541+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T12:09:04.241+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
-        schema:dateModified  "2024-04-15T11:05:35.541+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T12:09:04.241+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018>
         a                    cat:DataService , sd:Service ;
@@ -1515,11 +1515,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T11:05:54.291+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T12:09:27.659+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
-        schema:dateModified  "2024-04-15T11:05:54.291+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T12:09:27.659+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ardc.edu.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_geologic-time-scale-2020>
         a                    cat:DataService , sd:Service ;
