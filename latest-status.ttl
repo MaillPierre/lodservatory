@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T10:05:20.659+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:01.443+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-15T10:05:20.659+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T11:05:01.443+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T10:08:06.230+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:07:41.576+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-15T10:08:06.230+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T11:07:41.576+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1087,11 +1087,11 @@
 
 <http://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T10:06:14.795+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:49.143+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ma-graph.org/sparql> ;
         sd:endpoint          <http://ma-graph.org/sparql> ;
-        schema:dateModified  "2024-04-15T10:06:14.795+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T11:05:49.143+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://mesh.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1499,11 +1499,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T04:06:37.843+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:35.541+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
-        schema:dateModified  "2024-01-23T04:06:37.843+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:05:35.541+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018>
         a                    cat:DataService , sd:Service ;
@@ -1515,11 +1515,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-23T04:07:05.986+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:54.291+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
-        schema:dateModified  "2024-01-23T04:07:05.986+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:05:54.291+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ardc.edu.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_geologic-time-scale-2020>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T10:05:30.717+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:08.447+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-15T10:05:30.717+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-15T11:05:08.447+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2931,11 +2931,11 @@
 
 <https://ontology.inrae.fr/bsv/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-07T20:05:31.202+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:05:07.733+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/bsv/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
-        schema:dateModified  "2024-03-07T20:05:31.202+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:05:07.733+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/bsv_test/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2947,19 +2947,19 @@
 
 <https://ontology.inrae.fr/frenchcropusage/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T10:06:38.159+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:06:06.681+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/query> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/query> ;
-        schema:dateModified  "2024-01-29T10:06:38.159+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:06:06.681+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-29T10:07:20.081+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:06:44.630+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
-        schema:dateModified  "2024-01-29T10:07:20.081+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:06:44.630+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/ppdo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2971,11 +2971,11 @@
 
 <https://ontology.inrae.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-02T07:06:50.331+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-15T11:06:25.007+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/weather/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/weather/sparql> ;
-        schema:dateModified  "2024-01-02T07:06:50.331+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-15T11:06:25.007+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.irstea.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
