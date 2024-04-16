@@ -1055,11 +1055,11 @@
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T19:08:53.572+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T20:08:29.890+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.sztaki.hu/sparql> ;
         sd:endpoint          <http://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-16T19:08:53.572+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-16T20:08:29.890+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2827,11 +2827,11 @@
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T19:07:55.188+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T20:07:39.432+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.sztaki.hu/sparql> ;
         sd:endpoint          <https://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-16T19:07:55.188+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-16T20:07:39.432+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-14T12:03:22.834+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T20:07:53.422+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-14T12:03:22.834+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T20:07:53.422+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
