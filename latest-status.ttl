@@ -1055,11 +1055,11 @@
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T20:08:29.383+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T19:08:53.572+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.sztaki.hu/sparql> ;
         sd:endpoint          <http://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-15T20:08:29.383+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T19:08:53.572+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2827,11 +2827,11 @@
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T04:07:45.215+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T19:07:55.188+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.sztaki.hu/sparql> ;
         sd:endpoint          <https://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-10T04:07:45.215+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T19:07:55.188+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
