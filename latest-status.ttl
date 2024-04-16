@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T03:07:13.091+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T14:06:51.364+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-16T03:07:13.091+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T14:06:51.364+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T12:07:26.217+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T14:05:57.341+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-16T12:07:26.217+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T14:05:57.341+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T13:07:03.304+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T14:07:23.545+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-16T13:07:03.304+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-16T14:07:23.545+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T10:07:38.618+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T14:08:26.565+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-04-16T10:07:38.618+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-16T14:08:26.565+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3643,11 +3643,11 @@
 
 <https://yago-knowledge.org/sparql/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T13:05:39.225+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-16T14:06:10.586+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://yago-knowledge.org/sparql/query> ;
         sd:endpoint          <https://yago-knowledge.org/sparql/query> ;
-        schema:dateModified  "2024-04-16T13:05:39.225+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-16T14:06:10.586+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/econ_corp/query>
         a                    cat:DataService , sd:Service ;
