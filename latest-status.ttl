@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T16:06:46.903+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T17:06:45.713+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-18T16:06:46.903+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-18T17:06:45.713+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T15:06:53.626+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T17:07:04.295+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-04-18T15:06:53.626+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-18T17:07:04.295+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T15:07:08.456+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T17:07:29.463+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-18T15:07:08.456+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-18T17:07:29.463+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1939,11 +1939,11 @@
 
 <https://data.epo.org/linked-data/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T16:06:04.186+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T17:06:11.283+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.epo.org/linked-data/query> ;
         sd:endpoint          <https://data.epo.org/linked-data/query> ;
-        schema:dateModified  "2024-04-18T16:06:04.186+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-18T17:06:11.283+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
