@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T11:06:34.481+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T18:07:22.216+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-18T11:06:34.481+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T18:07:22.216+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -503,11 +503,11 @@
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T02:37:03.593+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T18:06:14.612+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-04-15T02:37:03.593+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T18:06:14.612+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T02:37:42.511+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T18:06:56.591+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-04-15T02:37:42.511+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T18:06:56.591+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2307,11 +2307,11 @@
 
 <https://edan.si.edu/saam/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-26T15:07:26.892+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T18:08:34.485+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://edan.si.edu/saam/sparql> ;
         sd:endpoint          <https://edan.si.edu/saam/sparql> ;
-        schema:dateModified  "2023-12-26T15:07:26.892+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T18:08:34.485+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://el.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
