@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T12:08:54.926+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T13:06:49.793+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-18T12:08:54.926+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-18T13:06:49.793+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-07T05:07:32.783+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T13:07:06.121+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2024-04-07T05:07:32.783+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T13:07:06.121+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T11:05:01.528+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T13:05:14.709+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-04-16T11:05:01.528+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T13:05:14.709+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-16T21:07:56.780+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-18T13:07:43.186+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-04-16T21:07:56.780+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-18T13:07:43.186+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
