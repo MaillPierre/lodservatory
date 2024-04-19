@@ -279,11 +279,11 @@
 
 <http://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T19:05:34.956+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T22:05:14.035+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <http://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-19T19:05:34.956+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T22:05:14.035+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.americanartcollaborative.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T21:08:36.078+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T22:08:14.878+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-19T21:08:36.078+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T22:08:14.878+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2019,11 +2019,11 @@
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T21:07:29.994+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T22:07:18.843+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.nationallibrary.fi/bib/sparql> ;
         sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
-        schema:dateModified  "2024-04-19T21:07:29.994+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T22:07:18.843+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.nobelprize.org/sparql>
         a                    cat:DataService , sd:Service ;
