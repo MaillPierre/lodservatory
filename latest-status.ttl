@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T00:22:47.662+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T01:30:28.413+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-19T00:22:47.662+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T01:30:28.413+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1939,11 +1939,11 @@
 
 <https://data.epo.org/linked-data/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T00:20:06.992+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T01:28:04.848+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.epo.org/linked-data/query> ;
         sd:endpoint          <https://data.epo.org/linked-data/query> ;
-        schema:dateModified  "2024-04-19T00:20:06.992+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T01:28:04.848+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2139,11 +2139,11 @@
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T00:20:44.554+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-19T01:28:38.073+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bne.es/sparql> ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-19T00:20:44.554+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-19T01:28:38.073+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.gob.es/en/sparql>
         a                    cat:DataService , sd:Service ;
