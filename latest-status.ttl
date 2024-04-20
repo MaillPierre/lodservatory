@@ -2019,11 +2019,11 @@
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T22:07:18.843+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-20T02:13:33.316+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.nationallibrary.fi/bib/sparql> ;
         sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
-        schema:dateModified  "2024-04-19T22:07:18.843+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-20T02:13:33.316+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.nobelprize.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2859,11 +2859,11 @@
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T21:06:21.845+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-20T02:12:24.719+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <https://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-19T21:06:21.845+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-20T02:12:24.719+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
