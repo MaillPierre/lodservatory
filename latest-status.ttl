@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T15:06:23.841+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-20T16:06:41.354+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-20T15:06:23.841+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-20T16:06:41.354+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T12:09:13.840+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-20T16:06:56.530+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-20T12:09:13.840+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-20T16:06:56.530+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T15:05:20.177+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-20T16:05:43.291+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.camera.it/sparql> ;
         sd:endpoint          <https://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-04-20T15:05:20.177+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-20T16:05:43.291+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
