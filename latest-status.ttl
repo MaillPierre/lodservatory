@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T00:22:48.245+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T02:15:46.732+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-04-21T00:22:48.245+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-21T02:15:46.732+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
