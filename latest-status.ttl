@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T00:20:53.101+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T06:08:03.262+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-04-20T00:20:53.101+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-21T06:08:03.262+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1835,11 +1835,11 @@
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T05:07:09.671+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T06:08:14.219+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cr.eionet.europa.eu/sparql> ;
         sd:endpoint          <https://cr.eionet.europa.eu/sparql> ;
-        schema:dateModified  "2024-04-21T05:07:09.671+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-21T06:08:14.219+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T05:07:21.685+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T06:08:21.025+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-04-21T05:07:21.685+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-21T06:08:21.025+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T04:06:48.013+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T06:07:42.914+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-04-21T04:06:48.013+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-21T06:07:42.914+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T20:07:14.729+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-21T06:08:06.169+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2024-04-20T20:07:14.729+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-21T06:08:06.169+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
