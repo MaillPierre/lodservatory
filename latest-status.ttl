@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T15:07:57.744+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T13:08:02.781+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-04-21T15:07:57.744+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T13:08:02.781+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T10:07:07.276+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T13:07:01.841+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-22T10:07:07.276+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T13:07:01.841+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1939,11 +1939,11 @@
 
 <https://data.epo.org/linked-data/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T02:14:24.471+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T13:06:08.175+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.epo.org/linked-data/query> ;
         sd:endpoint          <https://data.epo.org/linked-data/query> ;
-        schema:dateModified  "2024-04-22T02:14:24.471+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T13:06:08.175+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
