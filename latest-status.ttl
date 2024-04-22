@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-19T00:21:07.471+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T01:30:30.083+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-19T00:21:07.471+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T01:30:30.083+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -991,11 +991,11 @@
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T00:21:07.611+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T01:29:29.317+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedgeodata.org/sparql> ;
         sd:endpoint          <http://linkedgeodata.org/sparql> ;
-        schema:dateModified  "2024-04-22T00:21:07.611+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T01:29:29.317+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1939,11 +1939,11 @@
 
 <https://data.epo.org/linked-data/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T09:05:39.236+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T01:29:37.166+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.epo.org/linked-data/query> ;
         sd:endpoint          <https://data.epo.org/linked-data/query> ;
-        schema:dateModified  "2024-04-21T09:05:39.236+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T01:29:37.166+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T00:22:57.621+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T01:31:16.193+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-04-22T00:22:57.621+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T01:31:16.193+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
