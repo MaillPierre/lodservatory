@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T13:07:01.841+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T16:06:44.970+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-22T13:07:01.841+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T16:06:44.970+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1047,11 +1047,11 @@
 
 <http://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T15:07:01.349+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T16:06:48.635+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.openlinksw.com/sparql> ;
         sd:endpoint          <http://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-04-22T15:07:01.349+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T16:06:48.635+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T15:06:32.887+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T16:06:21.633+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-22T15:06:32.887+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-22T16:06:21.633+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2819,11 +2819,11 @@
 
 <https://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T15:07:22.389+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T16:07:10.082+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.openlinksw.com/sparql> ;
         sd:endpoint          <https://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-04-22T15:07:22.389+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T16:07:10.082+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3363,11 +3363,11 @@
 
 <https://ts.glycosmos.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T06:06:52.362+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T16:05:51.148+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ts.glycosmos.org/sparql> ;
         sd:endpoint          <https://ts.glycosmos.org/sparql> ;
-        schema:dateModified  "2024-04-22T06:06:52.362+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T16:05:51.148+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ts.opendata.inrae.fr/sparql>
         a                    cat:DataService , sd:Service ;
