@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T01:30:30.083+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T02:15:05.178+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-22T01:30:30.083+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T02:15:05.178+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -1939,11 +1939,11 @@
 
 <https://data.epo.org/linked-data/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T01:29:37.166+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T02:14:24.471+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.epo.org/linked-data/query> ;
         sd:endpoint          <https://data.epo.org/linked-data/query> ;
-        schema:dateModified  "2024-04-22T01:29:37.166+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T02:14:24.471+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.escr.fr/sparql>
         a                    cat:DataService , sd:Service ;
