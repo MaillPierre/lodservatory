@@ -1731,11 +1731,11 @@
 
 <https://bgee.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T00:22:09.873+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T09:06:46.837+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bgee.org/sparql> ;
         sd:endpoint          <https://bgee.org/sparql> ;
-        schema:dateModified  "2024-04-22T00:22:09.873+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T09:06:46.837+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T08:07:30.635+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T09:06:34.962+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-22T08:07:30.635+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T09:06:34.962+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3099,11 +3099,11 @@
 
 <https://rdf.insee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T04:07:43.691+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T09:07:34.677+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.insee.fr/sparql> ;
         sd:endpoint          <https://rdf.insee.fr/sparql> ;
-        schema:dateModified  "2024-04-22T04:07:43.691+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T09:07:34.677+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
