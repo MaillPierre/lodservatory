@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T08:07:58.220+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-22T10:07:07.276+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-22T08:07:58.220+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-22T10:07:07.276+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
