@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-23T07:06:51.123+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T08:07:40.425+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-04-23T07:06:51.123+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-23T08:07:40.425+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1731,11 +1731,11 @@
 
 <https://bgee.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T09:06:46.837+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T08:07:33.972+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bgee.org/sparql> ;
         sd:endpoint          <https://bgee.org/sparql> ;
-        schema:dateModified  "2024-04-22T09:06:46.837+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-23T08:07:33.972+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T22:09:19.404+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T08:09:04.955+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-04-22T22:09:19.404+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-23T08:09:04.955+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
