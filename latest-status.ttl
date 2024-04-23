@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-23T11:06:50.531+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T16:07:05.884+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-23T11:06:50.531+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-23T16:07:05.884+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2459,11 +2459,11 @@
 
 <https://hu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-23T15:06:14.475+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T16:06:14.265+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hu.dbpedia.org/sparql> ;
         sd:endpoint          <https://hu.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-04-23T15:06:14.475+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-23T16:06:14.265+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hub-rnsr.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-21T11:06:12.344+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-23T16:06:47.719+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-04-21T11:06:12.344+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-23T16:06:47.719+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
