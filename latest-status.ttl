@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-25T05:06:46.173+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-25T06:07:46.919+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-25T05:06:46.173+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-25T06:07:46.919+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-25T05:05:35.656+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-25T06:06:37.609+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-25T05:05:35.656+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-25T06:06:37.609+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2171,11 +2171,11 @@
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-23T14:07:34.637+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-25T06:08:24.458+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dba-rdf.biosciencedbc.jp/sparql> ;
         sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
-        schema:dateModified  "2024-04-23T14:07:34.637+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-25T06:08:24.458+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3195,11 +3195,11 @@
 
 <https://slod.fiz-karlsruhe.de/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-27T23:07:01.267+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-25T06:08:22.252+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://slod.fiz-karlsruhe.de/sparql> ;
         sd:endpoint          <https://slod.fiz-karlsruhe.de/sparql> ;
-        schema:dateModified  "2024-01-27T23:07:01.267+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-25T06:08:22.252+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://smt.esante.gouv.fr/sparql>
         a                    cat:DataService , sd:Service ;
