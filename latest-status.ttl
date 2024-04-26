@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T02:13:48.288+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T03:06:53.685+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-26T02:13:48.288+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-26T03:06:53.685+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T02:13:59.091+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T03:07:11.632+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-26T02:13:59.091+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T03:07:11.632+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -1047,11 +1047,11 @@
 
 <http://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T16:06:48.635+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T03:07:15.346+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.openlinksw.com/sparql> ;
         sd:endpoint          <http://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-04-22T16:06:48.635+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-26T03:07:15.346+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T02:14:21.548+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T03:07:45.318+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-04-26T02:14:21.548+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-26T03:07:45.318+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2707,11 +2707,11 @@
 
 <https://lingualibre.fr/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T01:29:07.738+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T03:07:28.781+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2024-04-26T01:29:07.738+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T03:07:28.781+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lingualibre.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
