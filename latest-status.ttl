@@ -2907,11 +2907,11 @@
 
 <https://navi.first.lifesciencedb.jp/fanavi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T07:07:54.299+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T18:07:05.503+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
         sd:endpoint          <https://navi.first.lifesciencedb.jp/fanavi/sparql> ;
-        schema:dateModified  "2024-04-26T07:07:54.299+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T18:07:05.503+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://nl.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
