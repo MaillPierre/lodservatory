@@ -439,11 +439,11 @@
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T19:06:08.647+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T20:06:53.681+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bne.es/sparql> ;
         sd:endpoint          <http://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-04-26T19:06:08.647+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T20:06:53.681+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://db.artsdata.ca/repositories/artsdata>
         a                    cat:DataService , sd:Service ;
@@ -1055,11 +1055,11 @@
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T19:08:00.811+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T20:08:34.053+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.sztaki.hu/sparql> ;
         sd:endpoint          <http://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-26T19:08:00.811+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T20:08:34.053+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2827,11 +2827,11 @@
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T19:07:07.811+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-26T20:07:41.679+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.sztaki.hu/sparql> ;
         sd:endpoint          <https://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-04-26T19:07:07.811+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-26T20:07:41.679+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
