@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T09:05:58.712+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-28T10:05:42.795+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-04-28T09:05:58.712+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-28T10:05:42.795+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T06:06:37.558+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-28T10:06:08.343+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-28T06:06:37.558+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-28T10:06:08.343+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
