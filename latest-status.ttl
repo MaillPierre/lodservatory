@@ -543,11 +543,11 @@
 
 <http://de.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-09T17:05:29.972+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-29T00:20:11.683+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://de.dbpedia.org/sparql> ;
         sd:endpoint          <http://de.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-03-09T17:05:29.972+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-29T00:20:11.683+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://deepblue.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T19:06:07.496+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-29T00:21:09.432+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-04-28T19:06:07.496+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-29T00:21:09.432+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3299,11 +3299,11 @@
 
 <https://sparql.omabrowser.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T19:07:01.984+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-29T00:21:56.292+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.omabrowser.org/sparql> ;
         sd:endpoint          <https://sparql.omabrowser.org/sparql> ;
-        schema:dateModified  "2024-04-28T19:07:01.984+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-29T00:21:56.292+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
