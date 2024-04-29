@@ -1411,11 +1411,11 @@
 
 <http://sparql.odw.tw>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-19T09:06:57.136+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-29T07:07:06.935+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.odw.tw> ;
         sd:endpoint          <http://sparql.odw.tw> ;
-        schema:dateModified  "2024-03-19T09:06:57.136+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-04-29T07:07:06.935+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.openlifedata.org>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T18:06:28.106+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-29T07:06:23.992+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-04-28T18:06:28.106+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-29T07:06:23.992+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
