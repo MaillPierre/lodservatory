@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-29T22:06:47.431+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-30T04:08:17.059+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-04-29T22:06:47.431+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-30T04:08:17.059+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-30T03:05:34.416+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-04-30T04:06:47.593+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-04-30T03:05:34.416+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-04-30T04:06:47.593+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
