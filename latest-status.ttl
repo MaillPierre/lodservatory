@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-01T05:06:36.028+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-01T18:07:08.853+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-01T05:06:36.028+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-01T18:07:08.853+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1811,11 +1811,11 @@
 
 <https://clara.univ-nantes.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-01T17:06:57.066+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-01T18:07:04.304+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://clara.univ-nantes.fr/sparql> ;
         sd:endpoint          <https://clara.univ-nantes.fr/sparql> ;
-        schema:dateModified  "2024-05-01T17:06:57.066+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-01T18:07:04.304+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
