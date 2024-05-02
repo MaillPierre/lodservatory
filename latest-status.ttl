@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-01T18:07:08.853+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-02T05:07:23.607+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-01T18:07:08.853+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-02T05:07:23.607+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-02T04:07:37.229+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-02T05:08:02.879+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-05-02T04:07:37.229+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-02T05:08:02.879+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-24T13:10:13.961+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-02T05:07:55.288+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-04-24T13:10:13.961+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-02T05:07:55.288+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-01T17:06:33.321+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-02T05:07:06.365+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-01T17:06:33.321+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-02T05:07:06.365+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
