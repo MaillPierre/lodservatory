@@ -647,11 +647,11 @@
 
 <http://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T01:31:18.332+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T02:16:47.316+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://es.dbpedia.org/sparql> ;
         sd:endpoint          <http://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-03T01:31:18.332+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T02:16:47.316+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -903,11 +903,11 @@
 
 <http://kdata.kr/sparql/endpoint.jsp>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:15.683+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T02:15:59.151+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://kdata.kr/sparql/endpoint.jsp> ;
         sd:endpoint          <http://kdata.kr/sparql/endpoint.jsp> ;
-        schema:dateModified  "2023-12-19T18:06:15.683+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T02:15:59.151+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://kegg.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2323,11 +2323,11 @@
 
 <https://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T01:31:06.186+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T02:16:40.112+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://es.dbpedia.org/sparql> ;
         sd:endpoint          <https://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-03T01:31:06.186+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T02:16:40.112+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
