@@ -647,11 +647,11 @@
 
 <http://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T07:06:40.579+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T08:08:17.369+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://es.dbpedia.org/sparql> ;
         sd:endpoint          <http://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-03T07:06:40.579+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T08:08:17.369+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-02T05:08:02.879+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T08:08:25.753+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-05-02T05:08:02.879+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-03T08:08:25.753+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1643,11 +1643,11 @@
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T07:06:48.704+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T08:08:22.540+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.uniroma2.it/sparql> ;
         sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
-        schema:dateModified  "2024-05-03T07:06:48.704+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T08:08:22.540+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://alaska.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
