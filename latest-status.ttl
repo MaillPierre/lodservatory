@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T08:08:25.753+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T09:07:12.589+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-05-03T08:08:25.753+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T09:07:12.589+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T07:06:04.192+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T09:06:15.812+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-03T07:06:04.192+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T09:06:15.812+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2835,11 +2835,11 @@
 
 <https://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:06:58.616+00:00"^^xsd:dateTime , "2023-12-19T17:08:34.998+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-03T09:06:26.215+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.xdams.org/sparql> ;
         sd:endpoint          <https://lod.xdams.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:06:58.616+00:00"^^xsd:dateTime , "2023-12-19T17:08:34.998+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-03T09:06:26.215+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
