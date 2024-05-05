@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-01T09:06:21.869+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T07:06:22.315+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-05-01T09:06:21.869+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-05T07:06:22.315+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2203,11 +2203,11 @@
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T06:05:54.008+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T07:05:32.867+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia.org/sparql> ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-05T06:05:54.008+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-05T07:05:32.867+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2691,11 +2691,11 @@
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T06:07:16.800+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T07:06:57.197+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://libris.kb.se/sparql> ;
         sd:endpoint          <https://libris.kb.se/sparql> ;
-        schema:dateModified  "2024-05-05T06:07:16.800+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-05T07:06:57.197+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lindas-data.ch/sparql-ui>
         a                    cat:DataService , sd:Service ;
