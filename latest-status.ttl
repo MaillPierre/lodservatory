@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T18:08:02.758+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T22:07:03.494+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-04-20T18:08:02.758+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-05T22:07:03.494+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T14:06:10.705+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T22:05:39.281+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-05T14:06:10.705+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-05T22:05:39.281+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -647,11 +647,11 @@
 
 <http://es.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T08:08:17.369+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T22:06:50.971+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://es.dbpedia.org/sparql> ;
         sd:endpoint          <http://es.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-03T08:08:17.369+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-05T22:06:50.971+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T21:06:38.513+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T22:06:53.351+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-05-05T21:06:38.513+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-05T22:06:53.351+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
