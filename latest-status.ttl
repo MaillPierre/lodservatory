@@ -2139,11 +2139,11 @@
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T15:06:27.038+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T16:07:36.840+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bne.es/sparql> ;
         sd:endpoint          <https://datos.bne.es/sparql> ;
-        schema:dateModified  "2024-05-05T15:06:27.038+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-05T16:07:36.840+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.gob.es/en/sparql>
         a                    cat:DataService , sd:Service ;
