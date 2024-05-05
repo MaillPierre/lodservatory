@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T07:06:22.315+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T08:06:29.669+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-05-05T07:06:22.315+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-05T08:06:29.669+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2203,11 +2203,11 @@
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-05T07:05:32.867+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-05T08:05:48.023+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia.org/sparql> ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-05T07:05:32.867+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-05T08:05:48.023+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
