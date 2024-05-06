@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-06T11:07:30.661+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-06T13:07:29.599+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-05-06T11:07:30.661+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-06T13:07:29.599+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
