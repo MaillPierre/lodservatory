@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T14:06:51.709+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T17:06:22.152+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-08T14:06:51.709+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T17:06:22.152+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1275,11 +1275,11 @@
 
 <http://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T16:06:41.047+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T17:06:07.914+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <http://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2024-05-08T16:06:41.047+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-08T17:06:07.914+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://pubmed.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1499,11 +1499,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T12:09:04.241+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T17:05:41.556+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for> ;
-        schema:dateModified  "2024-04-15T12:09:04.241+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T17:05:41.556+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018>
         a                    cat:DataService , sd:Service ;
@@ -1515,11 +1515,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T12:09:27.659+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T17:06:11.497+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
-        schema:dateModified  "2024-04-15T12:09:27.659+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T17:06:11.497+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ardc.edu.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_geologic-time-scale-2020>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T16:06:21.423+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T17:05:50.204+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-08T16:06:21.423+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T17:05:50.204+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
