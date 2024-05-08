@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T09:06:55.367+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T13:07:41.600+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-08T09:06:55.367+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T13:07:41.600+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T12:08:28.029+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T13:07:18.405+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-05-08T12:08:28.029+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-08T13:07:18.405+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -1667,11 +1667,11 @@
 
 <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T09:07:21.668+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T13:08:05.836+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
         sd:endpoint          <https://aopwiki.rdf.bigcat-bioinformatics.org/sparql> ;
-        schema:dateModified  "2024-05-08T09:07:21.668+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-08T13:08:05.836+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3339,11 +3339,11 @@
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T09:05:48.751+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T13:06:39.939+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.wikipathways.org/sparql> ;
         sd:endpoint          <https://sparql.wikipathways.org/sparql> ;
-        schema:dateModified  "2024-05-08T09:05:48.751+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-08T13:06:39.939+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
