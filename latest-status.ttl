@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-04T02:12:47.534+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T12:08:28.029+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-05-04T02:12:47.534+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T12:08:28.029+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T09:06:30.952+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-08T12:08:23.431+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-05-08T09:06:30.952+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-08T12:08:23.431+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
