@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T21:07:33.509+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-09T10:08:16.048+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-05-08T21:07:33.509+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-09T10:08:16.048+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
