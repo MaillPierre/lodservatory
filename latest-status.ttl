@@ -1915,11 +1915,11 @@
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T17:06:50.631+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T06:07:48.010+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cinematheque.qc.ca/sparql> ;
         sd:endpoint          <https://data.cinematheque.qc.ca/sparql> ;
-        schema:dateModified  "2024-05-03T17:06:50.631+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-10T06:07:48.010+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
