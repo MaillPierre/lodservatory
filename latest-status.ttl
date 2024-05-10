@@ -1915,11 +1915,11 @@
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T06:07:48.010+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T07:07:12.869+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cinematheque.qc.ca/sparql> ;
         sd:endpoint          <https://data.cinematheque.qc.ca/sparql> ;
-        schema:dateModified  "2024-05-10T06:07:48.010+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-10T07:07:12.869+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-09T16:05:30.383+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T07:05:43.562+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-05-09T16:05:30.383+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-10T07:05:43.562+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
