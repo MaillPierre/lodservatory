@@ -1971,11 +1971,11 @@
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T22:06:18.965+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T23:06:16.653+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gov.cz/sparql> ;
         sd:endpoint          <https://data.gov.cz/sparql> ;
-        schema:dateModified  "2024-05-10T22:06:18.965+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-10T23:06:16.653+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.idref.fr/endpoint.html>
         a                    cat:DataService , sd:Service ;
@@ -2131,11 +2131,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-04T02:13:26.706+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T23:06:47.385+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-05-04T02:13:26.706+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-10T23:06:47.385+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
