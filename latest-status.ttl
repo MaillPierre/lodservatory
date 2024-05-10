@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T10:06:22.120+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T11:06:32.421+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-05-10T10:06:22.120+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-10T11:06:32.421+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -1915,11 +1915,11 @@
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T10:07:00.632+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T11:07:28.660+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cinematheque.qc.ca/sparql> ;
         sd:endpoint          <https://data.cinematheque.qc.ca/sparql> ;
-        schema:dateModified  "2024-05-10T10:07:00.632+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-10T11:07:28.660+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T10:06:04.956+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-10T11:06:19.401+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-10T10:06:04.956+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-10T11:06:19.401+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
