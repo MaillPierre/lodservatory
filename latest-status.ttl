@@ -3331,11 +3331,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-12T15:07:07.673+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-12T16:07:47.323+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2024-05-12T15:07:07.673+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-12T16:07:47.323+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
