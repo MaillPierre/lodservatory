@@ -3683,16 +3683,16 @@
 
 <https://zbw.eu/beta/sparql/stw/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T13:06:24.160+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-13T16:07:42.141+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stw/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stw/query> ;
-        schema:dateModified  "2024-04-10T13:06:24.160+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-13T16:07:42.141+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/stwv/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T13:06:19.514+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-13T16:07:33.546+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stwv/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stwv/query> ;
-        schema:dateModified  "2024-04-10T13:06:19.514+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-13T16:07:33.546+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
