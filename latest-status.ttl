@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-13T21:06:11.463+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-13T22:06:13.767+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-05-13T21:06:11.463+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-13T22:06:13.767+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -1547,11 +1547,11 @@
 
 <http://vulcan.cs.uga.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-02T15:05:18.730+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-13T22:05:28.277+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vulcan.cs.uga.edu/sparql> ;
         sd:endpoint          <http://vulcan.cs.uga.edu/sparql> ;
-        schema:dateModified  "2024-04-02T15:05:18.730+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-13T22:05:28.277+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://wifo5-04.informatik.uni-mannheim.de/drugbank/sparql>
         a                    cat:DataService , sd:Service ;
