@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-13T21:06:36.821+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T11:07:00.300+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-05-13T21:06:36.821+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-15T11:07:00.300+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-10T11:06:19.401+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T11:06:02.880+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-10T11:06:19.401+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-15T11:06:02.880+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -3155,11 +3155,11 @@
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T12:08:20.666+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T11:06:34.530+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semanticweb.cs.vu.nl/dss/sparql> ;
         sd:endpoint          <https://semanticweb.cs.vu.nl/dss/sparql> ;
-        schema:dateModified  "2024-04-20T12:08:20.666+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-15T11:06:34.530+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://semanticweb.cs.vu.nl/iati/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3171,11 +3171,11 @@
 
 <https://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-20T12:08:48.664+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T11:06:54.994+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql> ;
         sd:endpoint          <https://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql> ;
-        schema:dateModified  "2024-04-20T12:08:48.664+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-15T11:06:54.994+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://serendipity.utpl.edu.ec/lod/sparql>
         a                    cat:DataService , sd:Service ;
