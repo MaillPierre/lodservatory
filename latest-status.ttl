@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-15T15:07:01.492+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T16:07:14.110+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-05-15T15:07:01.492+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-15T16:07:14.110+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
