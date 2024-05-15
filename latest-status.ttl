@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T09:07:14.339+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-15T07:07:10.281+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-05-08T09:07:14.339+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-15T07:07:10.281+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
