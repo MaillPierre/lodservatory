@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-13T19:06:33.604+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-16T03:07:22.313+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-05-13T19:06:33.604+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-16T03:07:22.313+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:22.029+00:00"^^xsd:dateTime , "2023-12-19T17:06:46.079+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-16T03:07:10.815+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:22.029+00:00"^^xsd:dateTime , "2023-12-19T17:06:46.079+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-16T03:07:10.815+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
