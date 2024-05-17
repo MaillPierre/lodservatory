@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-09T01:25:59.863+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:07:59.517+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-02-09T01:25:59.863+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-17T08:07:59.517+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -743,11 +743,11 @@
 
 <http://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:06:32.721+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:07:55.359+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://genome.microbedb.jp/sparql> ;
         sd:endpoint          <http://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-05-17T07:06:32.721+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:07:55.359+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-09T17:07:03.244+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:08:44.478+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-05-09T17:07:03.244+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-17T08:08:44.478+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T08:07:38.204+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:08:34.980+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2024-05-16T08:07:38.204+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-17T08:08:34.980+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-12T00:21:52.698+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:07:06.015+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-05-12T00:21:52.698+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-17T08:07:06.015+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2651,43 +2651,43 @@
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:07:42.605+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:09:14.620+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/folklore/sparql> ;
         sd:endpoint          <https://ldf.fi/folklore/sparql> ;
-        schema:dateModified  "2024-05-17T07:07:42.605+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:09:14.620+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/kirjasampo/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:08:18.792+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:09:37.750+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/kirjasampo/sparql> ;
         sd:endpoint          <https://ldf.fi/kirjasampo/sparql> ;
-        schema:dateModified  "2024-05-17T07:08:18.792+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:09:37.750+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/mufi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:07:02.337+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:08:34.756+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/mufi/sparql> ;
         sd:endpoint          <https://ldf.fi/mufi/sparql> ;
-        schema:dateModified  "2024-05-17T07:07:02.337+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:08:34.756+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/warsa/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:06:04.429+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:07:26.503+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/warsa/sparql> ;
         sd:endpoint          <https://ldf.fi/warsa/sparql> ;
-        schema:dateModified  "2024-05-17T07:06:04.429+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:07:26.503+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/ww1lod/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T07:06:38.256+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:08:02.159+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ldf.fi/ww1lod/sparql> ;
         sd:endpoint          <https://ldf.fi/ww1lod/sparql> ;
-        schema:dateModified  "2024-05-17T07:06:38.256+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-17T08:08:02.159+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3443,11 +3443,11 @@
 
 <https://vocab.getty.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T17:08:35.171+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-17T08:08:40.877+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocab.getty.edu/sparql> ;
         sd:endpoint          <https://vocab.getty.edu/sparql> ;
-        schema:dateModified  "2024-04-26T17:08:35.171+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-17T08:08:40.877+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://vocab.nerc.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
