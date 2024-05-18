@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-18T20:07:32.792+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-18T23:06:41.884+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2024-05-18T20:07:32.792+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-18T23:06:41.884+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T10:05:50.412+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-18T23:05:17.594+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-05-17T10:05:50.412+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-18T23:05:17.594+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
