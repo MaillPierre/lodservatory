@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-18T23:05:17.594+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-19T00:22:16.019+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-05-18T23:05:17.594+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-19T00:22:16.019+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
