@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-19T08:07:04.060+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-19T09:07:10.346+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2024-05-19T08:07:04.060+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-19T09:07:10.346+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
