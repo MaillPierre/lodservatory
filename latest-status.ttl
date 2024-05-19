@@ -3219,11 +3219,11 @@
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-19T21:06:01.723+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-19T23:06:04.006+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql-noipa.mef.gov.it/sparql> ;
         sd:endpoint          <https://sparql-noipa.mef.gov.it/sparql> ;
-        schema:dateModified  "2024-05-19T21:06:01.723+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-19T23:06:04.006+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.agroportal.lirmm.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-28T13:07:05.090+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-19T23:07:50.482+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-04-28T13:07:05.090+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-19T23:07:50.482+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
