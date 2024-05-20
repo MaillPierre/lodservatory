@@ -2803,11 +2803,11 @@
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-13T04:08:12.791+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-20T02:18:48.094+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.nl.go.kr/sparql> ;
         sd:endpoint          <https://lod.nl.go.kr/sparql> ;
-        schema:dateModified  "2024-05-13T04:08:12.791+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-20T02:18:48.094+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.openaire.eu/sparql>
         a                    cat:DataService , sd:Service ;
