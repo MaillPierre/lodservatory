@@ -1427,11 +1427,11 @@
 
 <http://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-21T09:05:54.466+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:03.496+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.orthodb.org/sparql> ;
         sd:endpoint          <http://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-05-21T09:05:54.466+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-21T10:06:03.496+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1691,11 +1691,11 @@
 
 <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-21T08:07:07.968+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:08.279+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
         sd:endpoint          <https://api.data.muziekweb.nl/datasets/muziekweborganization/Muziekweb/services/Muziekweb/sparql> ;
-        schema:dateModified  "2024-05-21T08:07:07.968+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-21T10:06:08.279+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.finto.fi/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T10:05:57.433+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:14.558+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-16T10:05:57.433+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-21T10:06:14.558+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -2459,11 +2459,11 @@
 
 <https://hu.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-03T17:06:04.672+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:31.445+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hu.dbpedia.org/sparql> ;
         sd:endpoint          <https://hu.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-03T17:06:04.672+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-21T10:06:31.445+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hub-rnsr.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3307,11 +3307,11 @@
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-21T09:05:59.847+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:13.019+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.orthodb.org/sparql> ;
         sd:endpoint          <https://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-05-21T09:05:59.847+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-21T10:06:13.019+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3363,11 +3363,11 @@
 
 <https://ts.glycosmos.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-22T16:05:51.148+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-21T10:06:04.487+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ts.glycosmos.org/sparql> ;
         sd:endpoint          <https://ts.glycosmos.org/sparql> ;
-        schema:dateModified  "2024-04-22T16:05:51.148+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-21T10:06:04.487+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ts.opendata.inrae.fr/sparql>
         a                    cat:DataService , sd:Service ;
