@@ -503,11 +503,11 @@
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-18T19:05:46.659+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T02:16:35.608+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-04-18T19:05:46.659+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-22T02:16:35.608+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-22T01:33:01.385+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T02:19:37.762+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-05-22T01:33:01.385+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-22T02:19:37.762+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T06:07:33.079+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T02:17:07.758+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-05-17T06:07:33.079+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-22T02:17:07.758+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-22T01:30:12.231+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T02:16:31.399+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-05-22T01:30:12.231+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-22T02:16:31.399+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2523,11 +2523,11 @@
 
 <https://ideal-rdf.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-21T16:07:14.800+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T02:18:09.602+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ideal-rdf.dbcls.jp/sparql> ;
         sd:endpoint          <https://ideal-rdf.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-05-21T16:07:14.800+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-22T02:18:09.602+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://idsm.elixir-czech.cz/sparql/endpoint/idsm>
         a                    cat:DataService , sd:Service ;
