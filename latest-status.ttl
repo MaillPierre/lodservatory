@@ -999,11 +999,11 @@
 
 <http://linkedlifedata.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-15T19:05:36.232+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T13:06:56.288+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkedlifedata.com/sparql> ;
         sd:endpoint          <http://linkedlifedata.com/sparql> ;
-        schema:dateModified  "2024-05-15T19:05:36.232+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-22T13:06:56.288+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://linkedspending.aksw.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1827,11 +1827,11 @@
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T02:38:58.482+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-22T13:08:42.278+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://covidontheweb.inria.fr/sparql> ;
         sd:endpoint          <https://covidontheweb.inria.fr/sparql> ;
-        schema:dateModified  "2024-04-15T02:38:58.482+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-22T13:08:42.278+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
