@@ -559,11 +559,11 @@
 
 <http://demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-07T00:21:16.529+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-23T16:07:47.672+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-05-07T00:21:16.529+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-23T16:07:47.672+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://deploy.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-06T11:07:35.512+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-23T16:08:43.397+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-05-06T11:07:35.512+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-23T16:08:43.397+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
