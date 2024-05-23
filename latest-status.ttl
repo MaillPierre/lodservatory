@@ -311,11 +311,11 @@
 
 <http://data.bibliotheken.nl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-25T16:06:23.520+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-23T10:06:32.226+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.bibliotheken.nl/sparql> ;
         sd:endpoint          <http://data.bibliotheken.nl/sparql> ;
-        schema:dateModified  "2024-04-25T16:06:23.520+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-23T10:06:32.226+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.cervantesvirtual.com/bvmc-lod/repositories/data>
         a                    cat:DataService , sd:Service ;
@@ -3283,11 +3283,11 @@
 
 <https://sparql.nextprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-30T17:06:46.444+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-23T10:07:59.842+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.nextprot.org> ;
         sd:endpoint          <https://sparql.nextprot.org> ;
-        schema:dateModified  "2024-03-30T17:06:46.444+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-23T10:07:59.842+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
