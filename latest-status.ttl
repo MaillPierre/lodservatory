@@ -311,11 +311,11 @@
 
 <http://data.bibliotheken.nl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-23T10:06:32.226+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-23T12:08:21.445+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.bibliotheken.nl/sparql> ;
         sd:endpoint          <http://data.bibliotheken.nl/sparql> ;
-        schema:dateModified  "2024-05-23T10:06:32.226+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-23T12:08:21.445+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cervantesvirtual.com/bvmc-lod/repositories/data>
         a                    cat:DataService , sd:Service ;
