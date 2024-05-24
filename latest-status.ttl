@@ -151,11 +151,11 @@
 
 <http://caligraph.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-21T14:07:02.266+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T12:09:16.673+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://caligraph.org/sparql> ;
         sd:endpoint          <http://caligraph.org/sparql> ;
-        schema:dateModified  "2024-05-21T14:07:02.266+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-24T12:09:16.673+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://canlink.library.ualberta.ca/sparql>
         a                    cat:DataService , sd:Service ;
@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-24T11:07:29.056+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T12:09:51.405+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-05-24T11:07:29.056+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-24T12:09:51.405+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-24T08:06:44.038+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T12:07:46.370+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-05-24T08:06:44.038+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-24T12:07:46.370+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
