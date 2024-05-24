@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-23T08:07:55.312+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T10:06:45.413+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-05-23T08:07:55.312+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-24T10:06:45.413+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2387,11 +2387,11 @@
 
 <https://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-24T09:08:03.268+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T10:07:24.528+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://genome.microbedb.jp/sparql> ;
         sd:endpoint          <https://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-05-24T09:08:03.268+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-24T10:07:24.528+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
