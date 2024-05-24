@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-23T01:31:09.713+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T15:07:23.370+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-05-23T01:31:09.713+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-24T15:07:23.370+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1403,11 +1403,11 @@
 
 <http://sparql.nibb.ac.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-09T10:07:23.657+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-24T15:07:48.495+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.nibb.ac.jp/sparql> ;
         sd:endpoint          <http://sparql.nibb.ac.jp/sparql> ;
-        schema:dateModified  "2024-02-09T10:07:23.657+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-24T15:07:48.495+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.odw.tw>
         a                    cat:DataService , sd:Service ;
