@@ -503,11 +503,11 @@
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-25T15:05:35.859+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-25T16:05:53.101+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/classical/sparql> ;
         sd:endpoint          <http://dbtune.org/classical/sparql> ;
-        schema:dateModified  "2024-05-25T15:05:35.859+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-25T16:05:53.101+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/jamendo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3347,11 +3347,11 @@
 
 <https://taxref.mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-25T14:07:08.434+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-25T16:07:58.802+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://taxref.mnhn.fr/sparql> ;
         sd:endpoint          <https://taxref.mnhn.fr/sparql> ;
-        schema:dateModified  "2024-05-25T14:07:08.434+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-25T16:07:58.802+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://taxref/mnhn.fr/sparql>
         a                    cat:DataService , sd:Service ;
