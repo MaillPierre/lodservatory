@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-25T00:22:09.947+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-25T12:09:58.925+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-05-25T00:22:09.947+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-25T12:09:58.925+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
