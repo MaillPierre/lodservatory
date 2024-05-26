@@ -1731,11 +1731,11 @@
 
 <https://bgee.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-26T00:23:33.838+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-26T01:32:53.239+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bgee.org/sparql> ;
         sd:endpoint          <https://bgee.org/sparql> ;
-        schema:dateModified  "2024-05-26T00:23:33.838+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-26T01:32:53.239+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
