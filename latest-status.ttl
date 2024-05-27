@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-24T16:07:14.582+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-27T22:07:14.355+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-05-24T16:07:14.582+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-27T22:07:14.355+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-27T15:07:52.575+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-27T22:07:28.096+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-05-27T15:07:52.575+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-27T22:07:28.096+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
