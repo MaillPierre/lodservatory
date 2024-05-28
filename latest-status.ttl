@@ -3147,11 +3147,11 @@
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-24T13:06:28.870+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-28T08:07:11.107+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semantic.eea.europa.eu/sparql> ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
-        schema:dateModified  "2024-05-24T13:06:28.870+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-28T08:07:11.107+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    cat:DataService , sd:Service ;
