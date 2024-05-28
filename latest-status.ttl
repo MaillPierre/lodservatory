@@ -2587,11 +2587,11 @@
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:20.940+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-28T10:06:21.702+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://joinup.ec.europa.eu/sparql> ;
         sd:endpoint          <https://joinup.ec.europa.eu/sparql> ;
-        schema:dateModified  "2023-12-19T18:06:20.940+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-28T10:06:21.702+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://jpsearch.go.jp/rdf/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3547,11 +3547,11 @@
 
 <https://www.foodie-cloud.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-29T06:08:03.563+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-28T10:07:13.391+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.foodie-cloud.org/sparql> ;
         sd:endpoint          <https://www.foodie-cloud.org/sparql> ;
-        schema:dateModified  "2024-04-29T06:08:03.563+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-28T10:07:13.391+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
