@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T13:07:54.942+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T14:07:18.049+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-05-29T13:07:54.942+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-29T14:07:18.049+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3147,11 +3147,11 @@
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-28T08:07:11.107+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T14:06:08.117+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semantic.eea.europa.eu/sparql> ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
-        schema:dateModified  "2024-05-28T08:07:11.107+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-29T14:06:08.117+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-28T12:08:05.194+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T14:05:36.015+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-05-28T12:08:05.194+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-29T14:05:36.015+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3243,11 +3243,11 @@
 
 <https://sparql.crssnky.xyz/spql/imas/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-21T12:08:18.066+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T14:06:43.533+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.crssnky.xyz/spql/imas/query> ;
         sd:endpoint          <https://sparql.crssnky.xyz/spql/imas/query> ;
-        schema:dateModified  "2023-12-21T12:08:18.066+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-29T14:06:43.533+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.geo.admin.ch/sparql>
         a                    cat:DataService , sd:Service ;
