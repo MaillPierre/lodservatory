@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T07:06:17.895+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T08:08:19.025+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-05-29T07:06:17.895+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-29T08:08:19.025+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-06T05:05:58.647+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T08:07:42.775+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-05-06T05:05:58.647+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-29T08:07:42.775+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T07:07:33.188+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-29T08:09:18.746+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-05-29T07:07:33.188+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-29T08:09:18.746+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
