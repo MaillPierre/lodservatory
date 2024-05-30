@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T17:06:43.826+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-30T09:07:45.754+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-05-29T17:06:43.826+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-30T09:07:45.754+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3147,11 +3147,11 @@
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T15:05:58.590+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-30T09:06:50.729+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://semantic.eea.europa.eu/sparql> ;
         sd:endpoint          <https://semantic.eea.europa.eu/sparql> ;
-        schema:dateModified  "2024-05-29T15:05:58.590+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-05-30T09:06:50.729+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://semanticweb.cs.vu.nl/dss/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-30T06:06:56.696+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-05-30T09:06:22.382+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-05-30T06:06:56.696+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-05-30T09:06:22.382+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
