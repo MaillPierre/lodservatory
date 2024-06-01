@@ -3547,11 +3547,11 @@
 
 <https://www.foodie-cloud.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-28T12:10:07.692+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-01T15:07:04.187+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.foodie-cloud.org/sparql> ;
         sd:endpoint          <https://www.foodie-cloud.org/sparql> ;
-        schema:dateModified  "2024-05-28T12:10:07.692+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-01T15:07:04.187+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
