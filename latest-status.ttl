@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-01T16:05:40.727+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-01T17:05:54.772+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-01T16:05:40.727+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-01T17:05:54.772+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-01T11:06:49.634+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-01T17:06:36.499+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-06-01T11:06:49.634+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-01T17:06:36.499+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
@@ -1739,11 +1739,11 @@
 
 <https://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-01T16:07:34.419+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-01T17:07:57.402+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bio2rdf.org/sparql> ;
         sd:endpoint          <https://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-01T16:07:34.419+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-01T17:07:57.402+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://biogw-db.nt.ntnu.no:4333/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3547,11 +3547,11 @@
 
 <https://www.foodie-cloud.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-01T15:07:04.187+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-01T17:07:43.916+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.foodie-cloud.org/sparql> ;
         sd:endpoint          <https://www.foodie-cloud.org/sparql> ;
-        schema:dateModified  "2024-06-01T15:07:04.187+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-01T17:07:43.916+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
