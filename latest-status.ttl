@@ -2931,11 +2931,11 @@
 
 <https://ontology.inrae.fr/bsv/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T15:05:47.666+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-04T21:05:50.769+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/bsv/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
-        schema:dateModified  "2024-05-16T15:05:47.666+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-04T21:05:50.769+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/bsv_test/sparql>
         a                    cat:DataService , sd:Service ;
