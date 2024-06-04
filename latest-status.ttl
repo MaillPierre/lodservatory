@@ -2995,11 +2995,11 @@
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-04T10:06:28.980+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-04T11:06:45.727+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata.aragon.es/sparql> ;
         sd:endpoint          <https://opendata.aragon.es/sparql> ;
-        schema:dateModified  "2024-06-04T10:06:28.980+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-04T11:06:45.727+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://opendata.mfcr.cz/lod/sparql>
         a                    cat:DataService , sd:Service ;
