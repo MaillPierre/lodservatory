@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T14:07:37.181+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T15:07:24.581+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-06-06T14:07:37.181+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T15:07:24.581+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
