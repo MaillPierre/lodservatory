@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T06:09:24.607+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T07:08:37.614+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-06T06:09:24.607+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T07:08:37.614+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T00:22:13.456+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T07:08:16.469+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-06-06T00:22:13.456+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T07:08:16.469+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3595,11 +3595,11 @@
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-08T00:20:25.238+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T07:07:28.600+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.orkg.org/orkg/triplestore> ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2024-03-08T00:20:25.238+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T07:07:28.600+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orpha.net/sparql>
         a                    cat:DataService , sd:Service ;
