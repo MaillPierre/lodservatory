@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T09:07:48.776+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T10:06:50.508+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-06-06T09:07:48.776+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T10:06:50.508+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-28T19:07:42.545+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T10:07:38.155+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-05-28T19:07:42.545+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T10:07:38.155+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3299,11 +3299,11 @@
 
 <https://sparql.omabrowser.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-29T00:21:56.292+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T10:07:36.253+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.omabrowser.org/sparql> ;
         sd:endpoint          <https://sparql.omabrowser.org/sparql> ;
-        schema:dateModified  "2024-04-29T00:21:56.292+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T10:07:36.253+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
