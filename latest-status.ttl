@@ -319,19 +319,19 @@
 
 <http://data.cervantesvirtual.com/bvmc-lod/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T21:06:22.147+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T22:05:36.909+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/bvmc-lod/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/bvmc-lod/repositories/data> ;
-        schema:dateModified  "2024-06-06T21:06:22.147+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T22:05:36.909+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T21:07:19.857+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T22:06:41.872+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
-        schema:dateModified  "2024-06-06T21:07:19.857+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T22:06:41.872+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cnr.it/sparql-proxy>
         a                    cat:DataService , sd:Service ;
@@ -1907,11 +1907,11 @@
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T21:08:06.251+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T22:07:36.438+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cervantesvirtual.com/sparql> ;
         sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
-        schema:dateModified  "2024-06-06T21:08:06.251+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T22:07:36.438+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
