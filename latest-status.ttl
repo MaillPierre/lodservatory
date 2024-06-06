@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T18:08:21.023+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T20:09:15.103+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-06T18:08:21.023+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T20:09:15.103+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1907,11 +1907,11 @@
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T19:07:46.549+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T20:08:50.126+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cervantesvirtual.com/sparql> ;
         sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
-        schema:dateModified  "2024-06-06T19:07:46.549+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-06T20:08:50.126+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
