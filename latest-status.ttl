@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T07:08:37.614+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T17:07:29.281+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-06T07:08:37.614+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T17:07:29.281+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1907,11 +1907,11 @@
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-10T19:07:49.194+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T17:07:19.765+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cervantesvirtual.com/sparql> ;
         sd:endpoint          <https://data.cervantesvirtual.com/sparql> ;
-        schema:dateModified  "2024-04-10T19:07:49.194+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T17:07:19.765+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cinematheque.qc.ca/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T16:07:26.796+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-06T17:06:53.806+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2024-06-06T16:07:26.796+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-06T17:06:53.806+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
