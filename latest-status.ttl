@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-07T10:06:09.543+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T11:06:05.077+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-06-07T10:06:09.543+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-07T11:06:05.077+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-04T19:06:41.601+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T11:06:57.918+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-06-04T19:06:41.601+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-07T11:06:57.918+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
