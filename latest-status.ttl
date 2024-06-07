@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-07T06:08:56.833+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T07:07:19.465+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-07T06:08:56.833+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-07T07:07:19.465+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3067,11 +3067,11 @@
 
 <https://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-07T06:09:00.791+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T07:07:20.577+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <https://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2024-06-07T06:09:00.791+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-07T07:07:20.577+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://query.wikidata.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
