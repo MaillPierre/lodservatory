@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T09:06:34.834+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T09:05:29.211+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-06T09:06:34.834+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-07T09:05:29.211+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1087,11 +1087,11 @@
 
 <http://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-30T18:07:46.614+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-07T09:06:23.319+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ma-graph.org/sparql> ;
         sd:endpoint          <http://ma-graph.org/sparql> ;
-        schema:dateModified  "2024-05-30T18:07:46.614+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-07T09:06:23.319+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://mesh.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
