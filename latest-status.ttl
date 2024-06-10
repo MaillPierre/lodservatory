@@ -2123,11 +2123,11 @@
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T10:07:36.601+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-10T11:07:51.208+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos-abertos.galiciana.gal/pt/sparql> ;
         sd:endpoint          <https://datos-abertos.galiciana.gal/pt/sparql> ;
-        schema:dateModified  "2024-06-10T10:07:36.601+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-10T11:07:51.208+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
