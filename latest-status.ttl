@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T14:06:31.813+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-10T15:06:00.308+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-06-10T14:06:31.813+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-10T15:06:00.308+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T13:08:51.803+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-10T15:07:11.742+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-10T13:08:51.803+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-10T15:07:11.742+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
