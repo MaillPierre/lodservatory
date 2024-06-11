@@ -2587,11 +2587,11 @@
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T20:06:16.774+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T22:06:10.958+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://joinup.ec.europa.eu/sparql> ;
         sd:endpoint          <https://joinup.ec.europa.eu/sparql> ;
-        schema:dateModified  "2024-06-11T20:06:16.774+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T22:06:10.958+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://jpsearch.go.jp/rdf/sparql>
         a                    cat:DataService , sd:Service ;
