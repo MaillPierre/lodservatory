@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T11:08:04.874+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T13:08:57.793+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-11T11:08:04.874+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T13:08:57.793+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T12:10:12.021+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T13:09:05.865+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2024-06-11T12:10:12.021+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T13:09:05.865+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2587,11 +2587,11 @@
 
 <https://joinup.ec.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-28T10:06:21.702+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T13:08:15.867+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://joinup.ec.europa.eu/sparql> ;
         sd:endpoint          <https://joinup.ec.europa.eu/sparql> ;
-        schema:dateModified  "2024-05-28T10:06:21.702+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T13:08:15.867+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://jpsearch.go.jp/rdf/sparql>
         a                    cat:DataService , sd:Service ;
