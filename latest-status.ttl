@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T15:08:10.637+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:08:33.539+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-11T15:08:10.637+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T16:08:33.539+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T15:07:30.675+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:07:49.433+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-06-11T15:07:30.675+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T16:07:49.433+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -983,11 +983,11 @@
 
 <http://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T14:07:14.594+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:08:14.062+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <http://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-11T14:07:14.594+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T16:08:14.062+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://linkedgeodata.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T15:07:38.669+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:08:10.996+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-11T15:07:38.669+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T16:08:10.996+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2131,11 +2131,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T15:07:46.940+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:07:59.273+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-06-11T15:07:46.940+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T16:07:59.273+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T14:07:03.124+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:08:06.147+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-11T14:07:03.124+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T16:08:06.147+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3003,11 +3003,11 @@
 
 <https://opendata.mfcr.cz/lod/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-01-04T07:06:33.935+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T16:07:29.924+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata.mfcr.cz/lod/sparql> ;
         sd:endpoint          <https://opendata.mfcr.cz/lod/sparql> ;
-        schema:dateModified  "2024-01-04T07:06:33.935+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T16:07:29.924+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://opendata1.opendata.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
