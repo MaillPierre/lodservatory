@@ -415,11 +415,11 @@
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T16:06:24.387+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T08:07:29.998+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.camera.it/sparql> ;
         sd:endpoint          <http://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-06-10T16:06:24.387+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T08:07:29.998+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T07:07:00.705+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T08:09:21.146+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-11T07:07:00.705+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T08:09:21.146+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2107,11 +2107,11 @@
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T16:06:51.317+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T08:07:57.286+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.camera.it/sparql> ;
         sd:endpoint          <https://dati.camera.it/sparql> ;
-        schema:dateModified  "2024-06-10T16:06:51.317+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-11T08:07:57.286+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2691,11 +2691,11 @@
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-11T07:06:48.990+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-11T08:09:04.795+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://libris.kb.se/sparql> ;
         sd:endpoint          <https://libris.kb.se/sparql> ;
-        schema:dateModified  "2024-06-11T07:06:48.990+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-11T08:09:04.795+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lindas-data.ch/sparql-ui>
         a                    cat:DataService , sd:Service ;
