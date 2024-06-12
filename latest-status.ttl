@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-12T09:06:32.930+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-12T11:05:41.362+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-06-12T09:06:32.930+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-12T11:05:41.362+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -3563,11 +3563,11 @@
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-04T17:07:07.150+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-12T11:06:50.686+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.govdata.de/sparql> ;
         sd:endpoint          <https://www.govdata.de/sparql> ;
-        schema:dateModified  "2024-06-04T17:07:07.150+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-12T11:06:50.686+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.icane.es/opendata/sparql>
         a                    cat:DataService , sd:Service ;
