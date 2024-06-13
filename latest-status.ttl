@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-13T14:08:08.421+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:07:42.832+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-13T14:08:08.421+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-13T15:07:42.832+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-13T14:07:54.686+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:07:35.361+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-06-13T14:07:54.686+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-13T15:07:35.361+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2123,11 +2123,11 @@
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-10T11:07:51.208+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:07:18.396+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos-abertos.galiciana.gal/pt/sparql> ;
         sd:endpoint          <https://datos-abertos.galiciana.gal/pt/sparql> ;
-        schema:dateModified  "2024-06-10T11:07:51.208+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-13T15:07:18.396+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-13T13:08:50.036+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:06:53.351+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-06-13T13:08:50.036+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-13T15:06:53.351+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2707,19 +2707,19 @@
 
 <https://lingualibre.fr/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-26T03:07:28.781+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:06:56.960+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://lingualibre.fr/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2024-04-26T03:07:28.781+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-13T15:06:56.960+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lingualibre.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-07T08:07:55.113+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-13T15:06:57.425+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lingualibre.org/bigdata/namespace/wdq/sparql> ;
         sd:endpoint          <https://lingualibre.org/bigdata/namespace/wdq/sparql> ;
-        schema:dateModified  "2024-02-07T08:07:55.113+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-13T15:06:57.425+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://linked.ec-dataplatform.eu/sparql>
         a                    cat:DataService , sd:Service ;
