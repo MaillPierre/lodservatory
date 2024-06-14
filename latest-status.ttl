@@ -527,11 +527,11 @@
 
 <http://dbtune.org/musicbrainz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-14T11:06:12.312+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-14T12:09:24.760+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/musicbrainz/sparql> ;
         sd:endpoint          <http://dbtune.org/musicbrainz/sparql> ;
-        schema:dateModified  "2024-06-14T11:06:12.312+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-14T12:09:24.760+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/myspace/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2803,11 +2803,11 @@
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-13T14:07:30.875+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-14T12:10:22.541+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.nl.go.kr/sparql> ;
         sd:endpoint          <https://lod.nl.go.kr/sparql> ;
-        schema:dateModified  "2024-06-13T14:07:30.875+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-14T12:10:22.541+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.openaire.eu/sparql>
         a                    cat:DataService , sd:Service ;
