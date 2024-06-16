@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-16T18:05:49.459+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-16T19:06:08.363+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-16T18:05:49.459+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-16T19:06:08.363+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1055,11 +1055,11 @@
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-08T20:08:24.534+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-16T19:08:38.063+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.sztaki.hu/sparql> ;
         sd:endpoint          <http://lod.sztaki.hu/sparql> ;
-        schema:dateModified  "2024-06-08T20:08:24.534+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-16T19:08:38.063+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
