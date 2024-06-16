@@ -3667,11 +3667,11 @@
 
 <https://zbw.eu/beta/sparql/gnd/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-12T16:06:07.746+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-16T23:06:34.817+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/gnd/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
-        schema:dateModified  "2024-06-12T16:06:07.746+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-16T23:06:34.817+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
