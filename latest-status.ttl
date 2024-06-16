@@ -495,11 +495,11 @@
 
 <http://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-16T21:07:43.224+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-16T22:07:56.967+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbtune.org/bbc/peel/sparql> ;
         sd:endpoint          <http://dbtune.org/bbc/peel/sparql> ;
-        schema:dateModified  "2024-06-16T21:07:43.224+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-16T22:07:56.967+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbtune.org/classical/sparql>
         a                    cat:DataService , sd:Service ;
