@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T08:08:57.757+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-18T09:08:16.626+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-18T08:08:57.757+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-18T09:08:16.626+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1475,11 +1475,11 @@
 
 <http://statistics.gov.scot/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-14T00:20:52.612+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-18T09:06:14.408+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://statistics.gov.scot/sparql> ;
         sd:endpoint          <http://statistics.gov.scot/sparql> ;
-        schema:dateModified  "2024-06-14T00:20:52.612+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-18T09:06:14.408+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://taxref-graphdb.i3s.unice.fr/repositories/geco>
         a                    cat:DataService , sd:Service ;
