@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-12T07:07:22.468+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T06:08:41.233+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-12T07:07:22.468+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T06:08:41.233+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3667,11 +3667,11 @@
 
 <https://zbw.eu/beta/sparql/gnd/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-17T00:22:24.651+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T06:07:25.223+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/gnd/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
-        schema:dateModified  "2024-06-17T00:22:24.651+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-19T06:07:25.223+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
@@ -3683,11 +3683,11 @@
 
 <https://zbw.eu/beta/sparql/stw/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-12T16:06:47.495+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T06:08:05.105+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stw/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stw/query> ;
-        schema:dateModified  "2024-06-12T16:06:47.495+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-19T06:08:05.105+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://zbw.eu/beta/sparql/stwv/query>
         a                    cat:DataService , sd:Service ;
