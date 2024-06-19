@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T18:08:10.871+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T05:06:50.259+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-06-18T18:08:10.871+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T05:06:50.259+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-19T03:08:00.227+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T05:07:21.010+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-06-19T03:08:00.227+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T05:07:21.010+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T18:07:42.962+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T05:06:31.008+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-06-18T18:07:42.962+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T05:06:31.008+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
