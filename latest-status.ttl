@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T09:08:16.626+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T11:08:13.482+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-18T09:08:16.626+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-19T11:08:13.482+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-23T10:05:56.936+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T11:06:03.386+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-04-23T10:05:56.936+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-19T11:06:03.386+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
@@ -3667,19 +3667,19 @@
 
 <https://zbw.eu/beta/sparql/gnd/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-19T10:07:02.594+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T11:05:58.478+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/gnd/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/gnd/query> ;
-        schema:dateModified  "2024-06-19T10:07:02.594+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T11:05:58.478+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-19T09:08:34.398+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T11:07:22.089+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/pm20/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/pm20/query> ;
-        schema:dateModified  "2024-06-19T09:08:34.398+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T11:07:22.089+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/stw/query>
         a                    cat:DataService , sd:Service ;
@@ -3691,8 +3691,8 @@
 
 <https://zbw.eu/beta/sparql/stwv/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-19T09:07:39.863+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-19T11:06:32.510+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/stwv/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/stwv/query> ;
-        schema:dateModified  "2024-06-19T09:07:39.863+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-19T11:06:32.510+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
