@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:08:11.721+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:06:13.834+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:08:11.721+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:06:13.834+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -1071,11 +1071,11 @@
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:10:06.048+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:08:02.926+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <http://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:10:06.048+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:08:02.926+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lsr.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:08:48.236+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:06:37.410+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:08:48.236+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:06:37.410+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1875,11 +1875,11 @@
 
 <https://data.allie.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:07:23.303+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:05:28.089+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.allie.dbcls.jp/sparql> ;
         sd:endpoint          <https://data.allie.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:07:23.303+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:05:28.089+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.archiveshub.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2011,11 +2011,11 @@
 
 <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-01T19:05:47.363+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:05:34.616+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
         sd:endpoint          <https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb/sparql/Muziekweb> ;
-        schema:dateModified  "2024-04-01T19:05:47.363+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-20T17:05:34.616+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-19T21:07:24.724+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:06:20.916+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-06-19T21:07:24.724+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-20T17:06:20.916+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2523,11 +2523,11 @@
 
 <https://ideal-rdf.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:09:07.133+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:07:14.599+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ideal-rdf.dbcls.jp/sparql> ;
         sd:endpoint          <https://ideal-rdf.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:09:07.133+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:07:14.599+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://idsm.elixir-czech.cz/sparql/endpoint/idsm>
         a                    cat:DataService , sd:Service ;
@@ -2859,11 +2859,11 @@
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-20T16:08:05.061+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-20T17:05:59.173+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lsd.dbcls.jp/sparql> ;
         sd:endpoint          <https://lsd.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-20T16:08:05.061+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-20T17:05:59.173+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ma-graph.org/sparql>
         a                    cat:DataService , sd:Service ;
