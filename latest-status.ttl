@@ -63,11 +63,11 @@
 
 <http://ariadne-registry.dcu.gr:8890/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-21T12:08:27.939+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-21T14:06:07.591+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://ariadne-registry.dcu.gr:8890/sparql> ;
         sd:endpoint          <http://ariadne-registry.dcu.gr:8890/sparql> ;
-        schema:dateModified  "2024-06-21T12:08:27.939+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-21T14:06:07.591+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://babelnet.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-21T13:07:32.435+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-21T14:06:53.191+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-06-21T13:07:32.435+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-21T14:06:53.191+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
