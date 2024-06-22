@@ -1635,19 +1635,19 @@
 
 <https://agrovoc.fao.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-22T07:06:13.914+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T13:07:06.682+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.fao.org/sparql> ;
         sd:endpoint          <https://agrovoc.fao.org/sparql> ;
-        schema:dateModified  "2024-06-22T07:06:13.914+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-22T13:07:06.682+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://agrovoc.uniroma2.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-22T07:07:15.929+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T13:08:10.299+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://agrovoc.uniroma2.it/sparql> ;
         sd:endpoint          <https://agrovoc.uniroma2.it/sparql> ;
-        schema:dateModified  "2024-06-22T07:07:15.929+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-22T13:08:10.299+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://alaska.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2155,11 +2155,11 @@
 
 <https://datos.gob.es/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-22T07:08:22.264+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T13:09:26.994+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.gob.es/virtuoso/sparql> ;
         sd:endpoint          <https://datos.gob.es/virtuoso/sparql> ;
-        schema:dateModified  "2024-06-22T07:08:22.264+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-22T13:09:26.994+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://db.project-hobbit.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-22T10:05:22.488+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T13:06:42.850+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-06-22T10:05:22.488+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-22T13:06:42.850+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
