@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-22T08:08:33.614+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T10:06:42.755+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-06-22T08:08:33.614+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-22T10:06:42.755+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-21T12:07:48.508+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-22T10:05:22.488+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-06-21T12:07:48.508+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-22T10:05:22.488+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
