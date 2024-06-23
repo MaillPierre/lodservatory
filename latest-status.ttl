@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-23T13:07:11.349+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-23T14:07:35.553+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-23T13:07:11.349+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-23T14:07:35.553+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T11:06:48.905+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-23T14:07:07.856+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-06-18T11:06:48.905+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-23T14:07:07.856+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2787,11 +2787,11 @@
 
 <https://linkedwiki.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-23T13:07:10.120+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-23T14:07:54.679+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkedwiki.com/sparql> ;
         sd:endpoint          <https://linkedwiki.com/sparql> ;
-        schema:dateModified  "2024-06-23T13:07:10.120+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-23T14:07:54.679+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.abes.fr/sparql>
         a                    cat:DataService , sd:Service ;
