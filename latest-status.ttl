@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-21T08:07:59.301+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T21:06:08.862+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-21T08:07:59.301+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-24T21:06:08.862+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
