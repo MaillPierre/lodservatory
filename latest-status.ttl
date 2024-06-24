@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T06:07:03.586+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T07:07:02.727+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-24T06:07:03.586+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-24T07:07:02.727+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1739,11 +1739,11 @@
 
 <https://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T06:08:57.525+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T07:08:55.353+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bio2rdf.org/sparql> ;
         sd:endpoint          <https://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-24T06:08:57.525+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-24T07:08:55.353+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://biogw-db.nt.ntnu.no:4333/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2251,11 +2251,11 @@
 
 <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T02:22:37.806+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T07:06:52.453+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
         sd:endpoint          <https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht> ;
-        schema:dateModified  "2024-06-06T02:22:37.806+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-24T07:06:52.453+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://digital-agenda-data.eu/data/sparql>
         a                    cat:DataService , sd:Service ;
