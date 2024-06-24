@@ -1047,11 +1047,11 @@
 
 <http://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-23T06:08:15.558+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T19:06:51.918+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.openlinksw.com/sparql> ;
         sd:endpoint          <http://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-06-23T06:08:15.558+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-24T19:06:51.918+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1443,11 +1443,11 @@
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T18:07:18.153+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T19:06:09.724+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.southgreen.fr> ;
         sd:endpoint          <http://sparql.southgreen.fr> ;
-        schema:dateModified  "2024-06-24T18:07:18.153+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-24T19:06:09.724+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
@@ -2819,11 +2819,11 @@
 
 <https://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-23T06:08:38.007+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T19:07:14.012+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.openlinksw.com/sparql> ;
         sd:endpoint          <https://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-06-23T06:08:38.007+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-24T19:07:14.012+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
