@@ -1699,11 +1699,11 @@
 
 <https://api.finto.fi/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T08:08:44.847+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-24T09:08:53.978+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.finto.fi/sparql> ;
         sd:endpoint          <https://api.finto.fi/sparql> ;
-        schema:dateModified  "2024-06-24T08:08:44.847+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-24T09:08:53.978+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.nextprot.org/sparql>
         a                    cat:DataService , sd:Service ;
