@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T07:07:02.727+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T10:05:47.903+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-24T07:07:02.727+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-25T10:05:47.903+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T09:07:36.863+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T10:07:42.684+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-06-25T09:07:36.863+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-25T10:07:42.684+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
