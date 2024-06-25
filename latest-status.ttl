@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-24T04:08:12.508+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T02:19:49.581+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-06-24T04:08:12.508+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-25T02:19:49.581+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T00:21:16.709+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T02:18:46.782+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-25T00:21:16.709+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-25T02:18:46.782+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
