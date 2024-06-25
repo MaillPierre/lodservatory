@@ -2171,11 +2171,11 @@
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T08:09:36.267+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T19:07:50.556+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dba-rdf.biosciencedbc.jp/sparql> ;
         sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
-        schema:dateModified  "2024-06-25T08:09:36.267+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-25T19:07:50.556+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T18:09:00.181+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T19:07:45.368+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-06-25T18:09:00.181+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-25T19:07:45.368+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3443,11 +3443,11 @@
 
 <https://vocab.getty.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T18:09:18.012+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-25T19:07:34.832+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocab.getty.edu/sparql> ;
         sd:endpoint          <https://vocab.getty.edu/sparql> ;
-        schema:dateModified  "2024-06-25T18:09:18.012+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-25T19:07:34.832+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocab.nerc.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
