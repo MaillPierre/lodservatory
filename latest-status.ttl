@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T14:08:02.414+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:08:28.193+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-25T14:08:02.414+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-26T09:08:28.193+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T22:06:18.955+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:07:09.866+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2024-05-08T22:06:18.955+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-26T09:07:09.866+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1427,11 +1427,11 @@
 
 <http://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T08:06:55.414+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:06:27.141+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.orthodb.org/sparql> ;
         sd:endpoint          <http://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-06-26T08:06:55.414+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T09:06:27.141+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1923,11 +1923,11 @@
 
 <https://data.cssz.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T02:19:51.477+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:07:49.301+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.cssz.cz/sparql> ;
         sd:endpoint          <https://data.cssz.cz/sparql> ;
-        schema:dateModified  "2024-06-18T02:19:51.477+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-26T09:07:49.301+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.culture.fr/thesaurus/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T07:06:06.507+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:06:56.174+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-26T07:06:06.507+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T09:06:56.174+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3307,11 +3307,11 @@
 
 <https://sparql.orthodb.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T08:07:20.976+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T09:06:53.423+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.orthodb.org/sparql> ;
         sd:endpoint          <https://sparql.orthodb.org/sparql> ;
-        schema:dateModified  "2024-06-26T08:07:20.976+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T09:06:53.423+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
