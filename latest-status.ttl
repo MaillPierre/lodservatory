@@ -1571,11 +1571,11 @@
 
 <http://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T11:07:15.008+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T12:10:37.524+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <http://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-06-26T11:07:15.008+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T12:10:37.524+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://www.imagesnippets.com/sparql/images>
         a                    cat:DataService , sd:Service ;
@@ -2947,19 +2947,19 @@
 
 <https://ontology.inrae.fr/frenchcropusage/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T15:06:05.988+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T12:10:11.576+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/query> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/query> ;
-        schema:dateModified  "2024-05-16T15:06:05.988+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-26T12:10:11.576+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T15:06:57.161+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T12:10:46.013+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
-        schema:dateModified  "2024-05-16T15:06:57.161+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-26T12:10:46.013+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/ppdo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T11:05:39.806+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T12:08:50.952+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-06-26T11:05:39.806+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T12:08:50.952+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3555,11 +3555,11 @@
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T11:07:32.199+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-26T12:10:44.671+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <https://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-06-26T11:07:32.199+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-26T12:10:44.671+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
