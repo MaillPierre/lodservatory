@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T00:23:05.391+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T01:34:02.089+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-27T00:23:05.391+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-27T01:34:02.089+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T00:22:59.530+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T01:33:28.346+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-27T00:22:59.530+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-27T01:33:28.346+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
