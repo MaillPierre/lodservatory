@@ -2851,11 +2851,11 @@
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-03T09:07:10.317+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T08:07:46.528+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.okfn.org/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
-        schema:dateModified  "2024-06-03T09:07:10.317+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T08:07:46.528+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
