@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T14:05:34.586+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T20:05:43.148+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-25T14:05:34.586+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T20:05:43.148+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T18:06:58.324+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T20:06:36.416+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-27T18:06:58.324+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T20:06:36.416+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2955,11 +2955,11 @@
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T14:07:08.987+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T20:07:25.957+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
-        schema:dateModified  "2024-06-27T14:07:08.987+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T20:07:25.957+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/ppdo/sparql>
         a                    cat:DataService , sd:Service ;
