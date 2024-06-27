@@ -2171,11 +2171,11 @@
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-25T21:07:18.876+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T03:08:09.113+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dba-rdf.biosciencedbc.jp/sparql> ;
         sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
-        schema:dateModified  "2024-06-25T21:07:18.876+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T03:08:09.113+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T22:06:13.041+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T03:06:49.562+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-26T22:06:13.041+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-27T03:06:49.562+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
