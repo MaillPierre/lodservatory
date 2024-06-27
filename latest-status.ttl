@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T14:06:47.847+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T15:07:32.729+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-06-27T14:06:47.847+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-27T15:07:32.729+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2947,11 +2947,11 @@
 
 <https://ontology.inrae.fr/frenchcropusage/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T12:10:11.576+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-27T15:07:12.107+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/query> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/query> ;
-        schema:dateModified  "2024-06-26T12:10:11.576+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-27T15:07:12.107+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
