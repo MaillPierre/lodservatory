@@ -2171,11 +2171,11 @@
 
 <https://dba-rdf.biosciencedbc.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T14:07:16.653+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-28T22:07:15.861+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dba-rdf.biosciencedbc.jp/sparql> ;
         sd:endpoint          <https://dba-rdf.biosciencedbc.jp/sparql> ;
-        schema:dateModified  "2024-06-27T14:07:16.653+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-28T22:07:15.861+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
