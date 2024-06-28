@@ -175,11 +175,11 @@
 
 <http://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T23:06:28.429+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-28T10:06:34.598+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://colil.dbcls.jp/sparql> ;
         sd:endpoint          <http://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-26T23:06:28.429+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-28T10:06:34.598+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://colinda.org/endpoint.php>
         a                    cat:DataService , sd:Service ;
@@ -351,11 +351,11 @@
 
 <http://data.doremus.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-04T10:06:22.092+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-28T10:06:28.038+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.doremus.org/sparql> ;
         sd:endpoint          <http://data.doremus.org/sparql> ;
-        schema:dateModified  "2024-06-04T10:06:22.092+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-28T10:06:28.038+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.legilux.public.lu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1819,11 +1819,11 @@
 
 <https://colil.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-21T02:18:59.012+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-28T10:06:56.637+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://colil.dbcls.jp/sparql> ;
         sd:endpoint          <https://colil.dbcls.jp/sparql> ;
-        schema:dateModified  "2024-06-21T02:18:59.012+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-28T10:06:56.637+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
