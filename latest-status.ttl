@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-15T13:06:19.248+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-29T07:06:53.286+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-06-15T13:06:19.248+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-29T07:06:53.286+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-29T02:17:48.219+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-29T07:06:28.709+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-06-29T02:17:48.219+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-29T07:06:28.709+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
