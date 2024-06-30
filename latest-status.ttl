@@ -1211,11 +1211,11 @@
 
 <http://opendatacommunities.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T18:06:32.593+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-30T04:07:14.316+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://opendatacommunities.org/sparql> ;
         sd:endpoint          <http://opendatacommunities.org/sparql> ;
-        schema:dateModified  "2023-12-19T18:06:32.593+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-30T04:07:14.316+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://orphanet.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-30T03:06:02.800+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-30T04:06:28.332+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-06-30T03:06:02.800+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-30T04:06:28.332+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
