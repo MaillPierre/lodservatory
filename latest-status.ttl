@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-28T14:05:32.214+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-30T14:05:38.162+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-06-28T14:05:32.214+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-30T14:05:38.162+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-30T13:07:38.971+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-30T14:07:28.596+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-30T13:07:38.971+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-06-30T14:07:28.596+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-29T15:06:28.500+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-06-30T14:06:46.480+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-06-29T15:06:28.500+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-06-30T14:06:46.480+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
