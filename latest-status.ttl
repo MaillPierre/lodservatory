@@ -2747,11 +2747,11 @@
 
 <https://linkeddata.uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-30T23:07:37.797+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-01T00:26:08.852+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://linkeddata.uriburner.com/sparql> ;
         sd:endpoint          <https://linkeddata.uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-30T23:07:37.797+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-01T00:26:08.852+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://linkeddata1.calcul.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
