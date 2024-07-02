@@ -31,11 +31,11 @@
 
 <http://aemet.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T00:21:16.048+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:05:43.866+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://aemet.linkeddata.es/sparql> ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-02T00:21:16.048+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-02T07:05:43.866+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -247,11 +247,11 @@
 
 <http://cultura.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T00:22:52.191+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:06:52.330+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://cultura.linkeddata.es/sparql> ;
         sd:endpoint          <http://cultura.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-02T00:22:52.191+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-02T07:06:52.330+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://curriculum.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -751,11 +751,11 @@
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-13T03:05:07.394+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:05:45.050+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geo.linkeddata.es/sparql> ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-04-13T03:05:07.394+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-02T07:05:45.050+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2627,11 +2627,11 @@
 
 <https://landportal.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T06:08:55.567+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:06:26.880+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://landportal.org/sparql> ;
         sd:endpoint          <https://landportal.org/sparql> ;
-        schema:dateModified  "2024-07-02T06:08:55.567+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-02T07:06:26.880+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://landregistry.data.gov.uk/landregistry/query>
         a                    cat:DataService , sd:Service ;
@@ -2883,11 +2883,11 @@
 
 <https://metadb.riken.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T06:09:56.071+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:07:22.845+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://metadb.riken.jp/sparql> ;
         sd:endpoint          <https://metadb.riken.jp/sparql> ;
-        schema:dateModified  "2024-07-02T06:09:56.071+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-02T07:07:22.845+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://montana.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T01:32:19.620+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-02T07:06:06.417+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-02T01:32:19.620+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-02T07:06:06.417+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
