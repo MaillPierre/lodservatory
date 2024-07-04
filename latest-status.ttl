@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T09:07:58.615+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T10:06:34.732+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-05-17T09:07:58.615+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T10:06:34.732+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-03T13:07:54.291+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T10:06:02.635+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-03T13:07:54.291+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T10:06:02.635+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
