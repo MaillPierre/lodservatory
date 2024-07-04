@@ -1203,11 +1203,11 @@
 
 <http://opencitations.net/index/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-01T14:07:07.102+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T20:07:36.258+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://opencitations.net/index/sparql> ;
         sd:endpoint          <http://opencitations.net/index/sparql> ;
-        schema:dateModified  "2024-07-01T14:07:07.102+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T20:07:36.258+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://opendatacommunities.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,19 +2411,19 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-03T03:06:58.340+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T20:06:59.725+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-03T03:06:58.340+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T20:06:59.725+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-01T08:09:02.138+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T20:07:06.449+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-01T08:09:02.138+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T20:07:06.449+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2987,11 +2987,11 @@
 
 <https://opencitations.net/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-01T14:06:58.699+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T20:07:21.513+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opencitations.net/sparql> ;
         sd:endpoint          <https://opencitations.net/sparql> ;
-        schema:dateModified  "2024-07-01T14:06:58.699+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T20:07:21.513+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
