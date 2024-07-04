@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-04T06:08:36.422+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T07:07:51.536+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-04T06:08:36.422+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-04T07:07:51.536+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1515,11 +1515,11 @@
 
 <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-08T18:07:39.203+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-04T07:07:42.435+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
         sd:endpoint          <http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1> ;
-        schema:dateModified  "2024-05-08T18:07:39.203+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-04T07:07:42.435+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ardc.edu.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_geologic-time-scale-2020>
         a                    cat:DataService , sd:Service ;
