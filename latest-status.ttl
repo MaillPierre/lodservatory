@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T10:08:04.643+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T11:07:14.881+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-07-05T10:08:04.643+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T11:07:14.881+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2019,11 +2019,11 @@
 
 <https://data.nationallibrary.fi/bib/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-18T02:19:54.031+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T11:07:12.728+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.nationallibrary.fi/bib/sparql> ;
         sd:endpoint          <https://data.nationallibrary.fi/bib/sparql> ;
-        schema:dateModified  "2024-06-18T02:19:54.031+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-05T11:07:12.728+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.nobelprize.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3107,11 +3107,11 @@
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T06:08:52.200+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T11:06:50.312+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.metanetx.org/sparql> ;
         sd:endpoint          <https://rdf.metanetx.org/sparql> ;
-        schema:dateModified  "2024-06-27T06:08:52.200+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-05T11:06:50.312+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.muninn-project.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T08:06:43.246+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T11:05:23.490+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-07-05T08:06:43.246+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-05T11:05:23.490+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T10:06:53.393+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T11:05:58.135+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-05T10:06:53.393+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T11:05:58.135+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
