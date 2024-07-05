@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T03:08:28.951+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T04:09:45.774+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-07-05T03:08:28.951+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T04:09:45.774+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2083,11 +2083,11 @@
 
 <https://data.persee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-13T15:06:32.847+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T04:08:26.457+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.persee.fr/sparql> ;
         sd:endpoint          <https://data.persee.fr/sparql> ;
-        schema:dateModified  "2024-05-13T15:06:32.847+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-05T04:08:26.457+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.wu.ac.at/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-04T23:06:06.377+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T04:07:53.731+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-04T23:06:06.377+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-05T04:07:53.731+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
