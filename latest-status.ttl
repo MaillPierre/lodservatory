@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-04T18:08:21.683+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T05:06:53.727+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-07-04T18:08:21.683+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T05:06:53.727+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2083,11 +2083,11 @@
 
 <https://data.persee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T04:08:26.457+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T05:06:39.135+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.persee.fr/sparql> ;
         sd:endpoint          <https://data.persee.fr/sparql> ;
-        schema:dateModified  "2024-07-05T04:08:26.457+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T05:06:39.135+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.wu.ac.at/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-04T18:07:41.731+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T05:06:23.136+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-07-04T18:07:41.731+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T05:06:23.136+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-05T04:07:53.731+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-05T05:06:06.816+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-05T04:07:53.731+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-05T05:06:06.816+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
