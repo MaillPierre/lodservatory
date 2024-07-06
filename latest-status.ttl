@@ -1715,11 +1715,11 @@
 
 <https://api.parliament.uk/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T02:19:29.182+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-06T03:08:56.683+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.parliament.uk/sparql> ;
         sd:endpoint          <https://api.parliament.uk/sparql> ;
-        schema:dateModified  "2024-07-06T02:19:29.182+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-06T03:08:56.683+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://apps.morelab.deusto.es/labman/sparql>
         a                    cat:DataService , sd:Service ;
