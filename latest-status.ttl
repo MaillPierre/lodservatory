@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T16:06:09.318+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-06T17:05:43.241+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-07-06T16:06:09.318+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-06T17:05:43.241+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
@@ -1491,11 +1491,11 @@
 
 <http://uriburner.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-30T14:07:28.596+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-06T17:07:26.763+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://uriburner.com/sparql> ;
         sd:endpoint          <http://uriburner.com/sparql> ;
-        schema:dateModified  "2024-06-30T14:07:28.596+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-06T17:07:26.763+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for>
         a                    cat:DataService , sd:Service ;
