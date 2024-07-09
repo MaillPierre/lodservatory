@@ -3331,11 +3331,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-09T07:07:25.429+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-09T08:07:57.996+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2024-07-09T07:07:25.429+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-09T08:07:57.996+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3443,11 +3443,11 @@
 
 <https://vocab.getty.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-09T06:09:34.644+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-09T08:08:02.346+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocab.getty.edu/sparql> ;
         sd:endpoint          <https://vocab.getty.edu/sparql> ;
-        schema:dateModified  "2024-07-09T06:09:34.644+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-09T08:08:02.346+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://vocab.nerc.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
