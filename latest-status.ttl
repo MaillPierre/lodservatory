@@ -479,11 +479,11 @@
 
 <http://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-09T03:07:07.738+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-09T04:06:37.731+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbpedia.org/sparql> ;
         sd:endpoint          <http://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-07-09T03:07:07.738+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-09T04:06:37.731+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dbsnp.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2203,11 +2203,11 @@
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-09T03:06:54.995+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-09T04:06:32.160+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia.org/sparql> ;
         sd:endpoint          <https://dbpedia.org/sparql> ;
-        schema:dateModified  "2024-07-09T03:06:54.995+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-09T04:06:32.160+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dbtune.org/bbc/peel/sparql>
         a                    cat:DataService , sd:Service ;
