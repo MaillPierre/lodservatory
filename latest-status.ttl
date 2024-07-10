@@ -31,11 +31,11 @@
 
 <http://aemet.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T07:05:43.866+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:05:49.976+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://aemet.linkeddata.es/sparql> ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-02T07:05:43.866+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T07:05:49.976+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -751,11 +751,11 @@
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-02T07:05:45.050+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:05:50.631+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geo.linkeddata.es/sparql> ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-02T07:05:45.050+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T07:05:50.631+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1571,11 +1571,11 @@
 
 <http://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T06:08:34.486+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:07:07.631+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <http://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-07-10T06:08:34.486+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T07:07:07.631+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://www.imagesnippets.com/sparql/images>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T05:07:29.505+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:07:24.210+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-07-10T05:07:29.505+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T07:07:24.210+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1963,11 +1963,11 @@
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T06:07:52.056+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:07:25.555+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gesis.org/claimskg/sparql> ;
         sd:endpoint          <https://data.gesis.org/claimskg/sparql> ;
-        schema:dateModified  "2024-07-06T06:07:52.056+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T07:07:25.555+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T06:08:42.700+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:07:24.401+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-10T06:08:42.700+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T07:07:24.401+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2995,11 +2995,11 @@
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T06:08:04.932+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:06:41.361+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata.aragon.es/sparql> ;
         sd:endpoint          <https://opendata.aragon.es/sparql> ;
-        schema:dateModified  "2024-07-10T06:08:04.932+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T07:06:41.361+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://opendata.mfcr.cz/lod/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3555,11 +3555,11 @@
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T06:08:50.325+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T07:07:28.352+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <https://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-07-10T06:08:50.325+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T07:07:28.352+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
