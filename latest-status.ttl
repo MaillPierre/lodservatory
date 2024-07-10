@@ -31,11 +31,11 @@
 
 <http://aemet.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T07:05:49.976+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T08:08:34.848+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://aemet.linkeddata.es/sparql> ;
         sd:endpoint          <http://aemet.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-10T07:05:49.976+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T08:08:34.848+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T06:07:12.186+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T08:08:29.609+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-07-10T06:07:12.186+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T08:08:29.609+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -751,11 +751,11 @@
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T07:05:50.631+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T08:08:35.549+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geo.linkeddata.es/sparql> ;
         sd:endpoint          <http://geo.linkeddata.es/sparql> ;
-        schema:dateModified  "2024-07-10T07:05:50.631+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T08:08:35.549+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1963,11 +1963,11 @@
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T07:07:25.555+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T08:09:52.675+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gesis.org/claimskg/sparql> ;
         sd:endpoint          <https://data.gesis.org/claimskg/sparql> ;
-        schema:dateModified  "2024-07-10T07:07:25.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T08:09:52.675+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
