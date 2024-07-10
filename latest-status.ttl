@@ -1963,11 +1963,11 @@
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T09:06:51.043+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T10:07:09.224+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gesis.org/claimskg/sparql> ;
         sd:endpoint          <https://data.gesis.org/claimskg/sparql> ;
-        schema:dateModified  "2024-07-10T09:06:51.043+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T10:07:09.224+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T07:07:24.401+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T10:07:07.950+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-10T07:07:24.401+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T10:07:07.950+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2691,11 +2691,11 @@
 
 <https://libris.kb.se/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T09:07:02.152+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T10:07:15.990+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://libris.kb.se/sparql> ;
         sd:endpoint          <https://libris.kb.se/sparql> ;
-        schema:dateModified  "2024-07-10T09:07:02.152+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T10:07:15.990+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lindas-data.ch/sparql-ui>
         a                    cat:DataService , sd:Service ;
@@ -2843,11 +2843,11 @@
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T07:07:43.708+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T10:08:00.410+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.linkeddata.es/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
-        schema:dateModified  "2024-07-06T07:07:43.708+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-10T10:08:00.410+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
