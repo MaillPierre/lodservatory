@@ -2843,11 +2843,11 @@
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T10:08:00.410+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-10T11:07:39.607+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.linkeddata.es/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
-        schema:dateModified  "2024-07-10T10:08:00.410+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-10T11:07:39.607+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
