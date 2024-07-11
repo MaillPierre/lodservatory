@@ -1963,11 +1963,11 @@
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T14:07:15.980+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T15:06:47.350+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gesis.org/claimskg/sparql> ;
         sd:endpoint          <https://data.gesis.org/claimskg/sparql> ;
-        schema:dateModified  "2024-07-11T14:07:15.980+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T15:06:47.350+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T14:07:12.068+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T15:06:51.825+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-07-11T14:07:12.068+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T15:06:51.825+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
