@@ -327,11 +327,11 @@
 
 <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T08:08:05.611+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:07:06.417+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
         sd:endpoint          <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> ;
-        schema:dateModified  "2024-07-11T08:08:05.611+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T09:07:06.417+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://data.cnr.it/sparql-proxy>
         a                    cat:DataService , sd:Service ;
@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T00:21:46.534+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:06:53.454+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-07-06T00:21:46.534+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T09:06:53.454+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1899,11 +1899,11 @@
 
 <https://data.bnf.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-13T15:07:35.361+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:07:47.107+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.bnf.fr/sparql> ;
         sd:endpoint          <https://data.bnf.fr/sparql> ;
-        schema:dateModified  "2024-06-13T15:07:35.361+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T09:07:47.107+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.cervantesvirtual.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2195,11 +2195,11 @@
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T12:10:47.099+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:08:07.394+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia-ca.upf.edu/sparql> ;
         sd:endpoint          <https://dbpedia-ca.upf.edu/sparql> ;
-        schema:dateModified  "2024-07-10T12:10:47.099+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T09:08:07.394+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T07:06:59.234+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:06:52.091+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-11T07:06:59.234+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T09:06:52.091+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T23:06:08.005+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T09:06:11.295+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-10T23:06:08.005+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T09:06:11.295+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
