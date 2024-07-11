@@ -1435,11 +1435,11 @@
 
 <http://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T05:06:35.733+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T06:07:56.539+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.proconsortium.org/virtuoso/sparql> ;
         sd:endpoint          <http://sparql.proconsortium.org/virtuoso/sparql> ;
-        schema:dateModified  "2024-07-11T05:06:35.733+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T06:07:56.539+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.southgreen.fr>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T05:07:09.348+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T06:08:35.131+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-11T05:07:09.348+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T06:08:35.131+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3315,11 +3315,11 @@
 
 <https://sparql.proconsortium.org/virtuoso/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T05:06:34.755+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T06:07:57.863+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.proconsortium.org/virtuoso/sparql> ;
         sd:endpoint          <https://sparql.proconsortium.org/virtuoso/sparql> ;
-        schema:dateModified  "2024-07-11T05:06:34.755+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T06:07:57.863+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
