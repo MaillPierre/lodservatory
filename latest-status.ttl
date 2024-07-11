@@ -1371,11 +1371,11 @@
 
 <http://sparql.europeana.eu>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-17T19:05:49.829+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T03:08:08.783+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.europeana.eu> ;
         sd:endpoint          <http://sparql.europeana.eu> ;
-        schema:dateModified  "2024-05-17T19:05:49.829+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-11T03:08:08.783+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T02:20:10.972+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T03:07:36.366+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-07-11T02:20:10.972+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T03:07:36.366+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-10T22:06:55.892+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T03:08:31.204+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-10T22:06:55.892+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T03:08:31.204+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3331,11 +3331,11 @@
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T01:33:31.912+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-11T03:08:39.468+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.uniprot.org/sparql> ;
         sd:endpoint          <https://sparql.uniprot.org/sparql> ;
-        schema:dateModified  "2024-07-11T01:33:31.912+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-11T03:08:39.468+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.wikipathways.org/sparql>
         a                    cat:DataService , sd:Service ;
