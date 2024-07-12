@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T15:06:44.296+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T16:07:21.273+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-07-12T15:06:44.296+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T16:07:21.273+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T15:07:17.727+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T16:07:48.152+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-12T15:07:17.727+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T16:07:48.152+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T15:07:23.262+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T16:07:50.547+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-07-12T15:07:23.262+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T16:07:50.547+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
