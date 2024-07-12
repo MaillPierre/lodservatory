@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T20:07:24.827+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T21:07:23.862+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-07-12T20:07:24.827+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T21:07:23.862+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2347,11 +2347,11 @@
 
 <https://forum.semantic-metabolomics.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T15:07:24.581+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T21:07:11.610+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://forum.semantic-metabolomics.fr/sparql> ;
         sd:endpoint          <https://forum.semantic-metabolomics.fr/sparql> ;
-        schema:dateModified  "2024-06-06T15:07:24.581+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-12T21:07:11.610+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2803,11 +2803,11 @@
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T20:07:31.903+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T21:07:28.516+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.nl.go.kr/sparql> ;
         sd:endpoint          <https://lod.nl.go.kr/sparql> ;
-        schema:dateModified  "2024-07-12T20:07:31.903+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T21:07:28.516+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.openaire.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2955,11 +2955,11 @@
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T21:06:48.666+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T21:07:04.241+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
-        schema:dateModified  "2024-06-27T21:06:48.666+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-12T21:07:04.241+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/ppdo/sparql>
         a                    cat:DataService , sd:Service ;
