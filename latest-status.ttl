@@ -1987,11 +1987,11 @@
 
 <https://data.idref.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T14:06:41.131+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:06:44.296+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.idref.fr/sparql> ;
         sd:endpoint          <https://data.idref.fr/sparql> ;
-        schema:dateModified  "2024-07-11T14:06:41.131+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-12T15:06:44.296+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2115,11 +2115,11 @@
 
 <https://dati.isprambiente.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T14:07:13.867+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:07:17.962+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.isprambiente.it/sparql> ;
         sd:endpoint          <https://dati.isprambiente.it/sparql> ;
-        schema:dateModified  "2024-07-12T14:07:13.867+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T15:07:17.962+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos-abertos.galiciana.gal/pt/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T14:07:03.528+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:07:17.727+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-12T14:07:03.528+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-12T15:07:17.727+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2843,19 +2843,19 @@
 
 <https://lov.linkeddata.es/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T10:07:49.754+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:08:20.053+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.linkeddata.es/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.linkeddata.es/dataset/lov/sparql> ;
-        schema:dateModified  "2024-07-12T10:07:49.754+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T15:08:20.053+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T10:06:39.665+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:07:04.261+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.okfn.org/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
-        schema:dateModified  "2024-07-12T10:06:39.665+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T15:07:04.261+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T12:08:50.499+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:05:41.959+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-07-12T12:08:50.499+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-12T15:05:41.959+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3459,11 +3459,11 @@
 
 <https://vocabularies.unesco.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-07T18:07:51.544+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-12T15:07:23.262+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocabularies.unesco.org/sparql> ;
         sd:endpoint          <https://vocabularies.unesco.org/sparql> ;
-        schema:dateModified  "2024-05-07T18:07:51.544+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-12T15:07:23.262+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://vocabularies.unesco.org/sparql-form>
         a                    cat:DataService , sd:Service ;
