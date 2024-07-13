@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-13T09:05:53.216+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-13T10:05:48.817+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-07-13T09:05:53.216+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-13T10:05:48.817+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -2507,11 +2507,11 @@
 
 <https://id.nlm.nih.gov/mesh/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-01T11:06:20.768+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-13T10:06:11.963+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://id.nlm.nih.gov/mesh/sparql> ;
         sd:endpoint          <https://id.nlm.nih.gov/mesh/sparql> ;
-        schema:dateModified  "2024-07-01T11:06:20.768+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-13T10:06:11.963+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
