@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-13T18:07:03.386+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:08:23.446+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-07-13T18:07:03.386+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:08:23.446+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1203,11 +1203,11 @@
 
 <http://opencitations.net/index/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-14T04:08:36.667+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:08:49.913+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://opencitations.net/index/sparql> ;
         sd:endpoint          <http://opencitations.net/index/sparql> ;
-        schema:dateModified  "2024-07-14T04:08:36.667+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:08:49.913+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://opendatacommunities.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-13T18:06:28.752+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:07:51.445+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-07-13T18:06:28.752+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:07:51.445+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-14T04:08:14.753+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:08:24.221+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-14T04:08:14.753+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:08:24.221+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2803,11 +2803,11 @@
 
 <https://lod.nl.go.kr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-14T04:08:49.588+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:09:10.105+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.nl.go.kr/sparql> ;
         sd:endpoint          <https://lod.nl.go.kr/sparql> ;
-        schema:dateModified  "2024-07-14T04:08:49.588+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:09:10.105+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.openaire.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2987,11 +2987,11 @@
 
 <https://opencitations.net/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-14T04:08:23.320+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-14T05:08:37.810+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opencitations.net/sparql> ;
         sd:endpoint          <https://opencitations.net/sparql> ;
-        schema:dateModified  "2024-07-14T04:08:23.320+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-14T05:08:37.810+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
