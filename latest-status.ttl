@@ -367,11 +367,11 @@
 
 <http://data.logainm.ie/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-26T10:07:05.206+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-15T01:33:52.066+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://data.logainm.ie/sparql> ;
         sd:endpoint          <http://data.logainm.ie/sparql> ;
-        schema:dateModified  "2024-06-26T10:07:05.206+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-15T01:33:52.066+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://data.organic-edunet.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3587,11 +3587,11 @@
 
 <https://www.nakala.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-15T00:23:13.078+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-15T01:33:22.472+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.nakala.fr/sparql> ;
         sd:endpoint          <https://www.nakala.fr/sparql> ;
-        schema:dateModified  "2024-07-15T00:23:13.078+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-15T01:33:22.472+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
