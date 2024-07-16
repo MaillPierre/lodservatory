@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-16T17:06:39.735+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:07:32.999+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-16T17:06:39.735+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-16T19:07:32.999+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2931,11 +2931,11 @@
 
 <https://ontology.inrae.fr/bsv/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-04T22:05:46.889+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:06:07.361+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/bsv/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/bsv/sparql> ;
-        schema:dateModified  "2024-06-04T22:05:46.889+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T19:06:07.361+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/bsv_test/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2947,19 +2947,19 @@
 
 <https://ontology.inrae.fr/frenchcropusage/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-27T15:07:12.107+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:06:51.250+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/query> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/query> ;
-        schema:dateModified  "2024-06-27T15:07:12.107+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T19:06:51.250+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/frenchcropusage/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T22:07:09.341+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:07:29.659+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/frenchcropusage/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/frenchcropusage/sparql> ;
-        schema:dateModified  "2024-07-12T22:07:09.341+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T19:07:29.659+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.inrae.fr/ppdo/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2971,11 +2971,11 @@
 
 <https://ontology.inrae.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-16T15:06:13.599+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:07:09.761+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ontology.inrae.fr/weather/sparql> ;
         sd:endpoint          <https://ontology.inrae.fr/weather/sparql> ;
-        schema:dateModified  "2024-05-16T15:06:13.599+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T19:07:09.761+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ontology.irstea.fr/weather/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2987,11 +2987,11 @@
 
 <https://opencitations.net/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-15T16:07:43.321+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T19:07:42.265+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opencitations.net/sparql> ;
         sd:endpoint          <https://opencitations.net/sparql> ;
-        schema:dateModified  "2024-07-15T16:07:43.321+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T19:07:42.265+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
