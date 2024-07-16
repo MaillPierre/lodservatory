@@ -455,11 +455,11 @@
 
 <http://dbkwik.webdatacommons.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-09T06:09:25.434+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T03:08:46.903+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dbkwik.webdatacommons.org/sparql> ;
         sd:endpoint          <http://dbkwik.webdatacommons.org/sparql> ;
-        schema:dateModified  "2024-07-09T06:09:25.434+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T03:08:46.903+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dblp.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-16T01:33:37.093+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T03:08:14.993+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-16T01:33:37.093+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-16T03:08:14.993+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
