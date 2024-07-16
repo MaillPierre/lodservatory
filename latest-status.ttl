@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-12T18:07:27.810+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T22:07:10.019+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-12T18:07:27.810+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T22:07:10.019+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2195,11 +2195,11 @@
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T09:08:07.394+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T22:08:27.018+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia-ca.upf.edu/sparql> ;
         sd:endpoint          <https://dbpedia-ca.upf.edu/sparql> ;
-        schema:dateModified  "2024-07-11T09:08:07.394+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T22:08:27.018+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3011,11 +3011,11 @@
 
 <https://opendata1.opendata.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-19T14:07:02.926+00:00"^^xsd:dateTime , "2023-12-19T17:06:34.060+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-16T22:06:52.019+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata1.opendata.u-psud.fr/sparql> ;
         sd:endpoint          <https://opendata1.opendata.u-psud.fr/sparql> ;
-        schema:dateModified  "2023-12-19T14:07:02.926+00:00"^^xsd:dateTime , "2023-12-19T17:06:34.060+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-16T22:06:52.019+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://openpark.jp/sparql>
         a                    cat:DataService , sd:Service ;
