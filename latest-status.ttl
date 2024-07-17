@@ -3011,11 +3011,11 @@
 
 <https://opendata1.opendata.u-psud.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-17T01:33:22.214+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T02:20:29.477+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata1.opendata.u-psud.fr/sparql> ;
         sd:endpoint          <https://opendata1.opendata.u-psud.fr/sparql> ;
-        schema:dateModified  "2024-07-17T01:33:22.214+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-17T02:20:29.477+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://openpark.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-17T00:23:20.400+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T02:20:42.547+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-07-17T00:23:20.400+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-17T02:20:42.547+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
