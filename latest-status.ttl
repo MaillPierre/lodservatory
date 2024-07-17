@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-11T10:06:55.014+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T21:06:38.062+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-07-11T10:06:55.014+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-17T21:06:38.062+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-17T08:07:56.529+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T21:06:27.971+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-07-17T08:07:56.529+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-17T21:06:27.971+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2131,11 +2131,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-06T00:21:57.555+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T21:06:47.953+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-07-06T00:21:57.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-17T21:06:47.953+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3267,11 +3267,11 @@
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-05-29T12:09:37.241+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-17T21:06:45.697+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.hegroup.org/sparql> ;
         sd:endpoint          <https://sparql.hegroup.org/sparql> ;
-        schema:dateModified  "2024-05-29T12:09:37.241+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-17T21:06:45.697+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.lri.fr/sparql>
         a                    cat:DataService , sd:Service ;
