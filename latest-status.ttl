@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T21:07:06.609+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T22:07:02.014+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-07-20T21:07:06.609+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T22:07:02.014+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T20:06:56.945+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T22:06:36.137+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-20T20:06:56.945+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T22:06:36.137+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3067,11 +3067,11 @@
 
 <https://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T21:06:53.166+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T22:06:55.232+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <https://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2024-07-20T21:06:53.166+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T22:06:55.232+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://query.wikidata.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3323,11 +3323,11 @@
 
 <https://sparql.rhea-db.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T12:09:18.905+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T22:07:02.338+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.rhea-db.org/sparql> ;
         sd:endpoint          <https://sparql.rhea-db.org/sparql> ;
-        schema:dateModified  "2024-07-20T12:09:18.905+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-20T22:07:02.338+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.uniprot.org/sparql>
         a                    cat:DataService , sd:Service ;
