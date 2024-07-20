@@ -1451,11 +1451,11 @@
 
 <http://sparql.uniprot.org>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-16T08:08:18.887+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T20:06:10.257+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.uniprot.org> ;
         sd:endpoint          <http://sparql.uniprot.org> ;
-        schema:dateModified  "2024-07-16T08:08:18.887+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-20T20:06:10.257+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://sparql.wikipathways.org>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T19:07:07.998+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T20:07:34.390+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-07-20T19:07:07.998+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T20:07:34.390+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2411,11 +2411,11 @@
 
 <https://glyconnect.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-18T04:07:43.266+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T20:06:56.945+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://glyconnect.expasy.org/sparql> ;
         sd:endpoint          <https://glyconnect.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-18T04:07:43.266+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-20T20:06:56.945+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3259,11 +3259,11 @@
 
 <https://sparql.glycoinfo.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:36.236+00:00"^^xsd:dateTime , "2023-12-19T17:07:14.087+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T20:07:12.123+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.glycoinfo.org/sparql> ;
         sd:endpoint          <https://sparql.glycoinfo.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:36.236+00:00"^^xsd:dateTime , "2023-12-19T17:07:14.087+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-20T20:07:12.123+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
