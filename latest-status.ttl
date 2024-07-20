@@ -1363,11 +1363,11 @@
 
 <http://sparql.datao.net/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-16T16:07:26.806+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T03:07:29.777+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://sparql.datao.net/sparql> ;
         sd:endpoint          <http://sparql.datao.net/sparql> ;
-        schema:dateModified  "2024-07-16T16:07:26.806+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T03:07:29.777+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://sparql.europeana.eu>
         a                    cat:DataService , sd:Service ;
@@ -1715,11 +1715,11 @@
 
 <https://api.parliament.uk/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T02:20:08.471+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T03:08:19.869+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.parliament.uk/sparql> ;
         sd:endpoint          <https://api.parliament.uk/sparql> ;
-        schema:dateModified  "2024-07-20T02:20:08.471+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T03:08:19.869+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://apps.morelab.deusto.es/labman/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T02:19:16.043+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T03:07:28.037+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-07-20T02:19:16.043+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T03:07:28.037+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T02:18:54.917+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-20T03:07:13.641+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-20T02:18:54.917+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-20T03:07:13.641+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
