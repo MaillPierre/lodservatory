@@ -2195,11 +2195,11 @@
 
 <https://dbpedia-ca.upf.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-16T23:07:51.899+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-21T04:08:52.792+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dbpedia-ca.upf.edu/sparql> ;
         sd:endpoint          <https://dbpedia-ca.upf.edu/sparql> ;
-        schema:dateModified  "2024-07-16T23:07:51.899+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-21T04:08:52.792+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-21T03:05:51.341+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-21T04:06:09.023+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-07-21T03:05:51.341+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-21T04:06:09.023+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3259,11 +3259,11 @@
 
 <https://sparql.glycoinfo.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T20:07:12.123+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-21T04:07:50.935+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.glycoinfo.org/sparql> ;
         sd:endpoint          <https://sparql.glycoinfo.org/sparql> ;
-        schema:dateModified  "2024-07-20T20:07:12.123+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-21T04:07:50.935+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
