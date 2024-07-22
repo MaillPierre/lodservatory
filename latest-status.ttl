@@ -3259,11 +3259,11 @@
 
 <https://sparql.glycoinfo.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-21T04:07:50.935+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-22T09:08:19.584+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sparql.glycoinfo.org/sparql> ;
         sd:endpoint          <https://sparql.glycoinfo.org/sparql> ;
-        schema:dateModified  "2024-07-21T04:07:50.935+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-22T09:08:19.584+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql.hegroup.org/sparql>
         a                    cat:DataService , sd:Service ;
