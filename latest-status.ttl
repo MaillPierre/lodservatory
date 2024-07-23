@@ -759,11 +759,11 @@
 
 <http://geosparql.demo.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-23T09:07:55.626+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-23T10:08:06.097+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://geosparql.demo.openlinksw.com/sparql> ;
         sd:endpoint          <http://geosparql.demo.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-07-23T09:07:55.626+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-23T10:08:06.097+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://goa.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
