@@ -1675,11 +1675,11 @@
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-15T10:05:32.907+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-24T21:06:35.854+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.aucklandmuseum.com/sparql> ;
         sd:endpoint          <https://api.aucklandmuseum.com/sparql> ;
-        schema:dateModified  "2024-04-15T10:05:32.907+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-24T21:06:35.854+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://api.cooperationdatabank.org/datasets/coda/databank/services/databank/sparql>
         a                    cat:DataService , sd:Service ;
