@@ -2851,11 +2851,11 @@
 
 <https://lov.okfn.org/dataset/lov/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-24T13:08:51.546+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-24T14:07:25.040+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lov.okfn.org/dataset/lov/sparql> ;
         sd:endpoint          <https://lov.okfn.org/dataset/lov/sparql> ;
-        schema:dateModified  "2024-07-24T13:08:51.546+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-24T14:07:25.040+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3107,11 +3107,11 @@
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-18T14:07:16.190+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-24T14:07:18.618+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.metanetx.org/sparql> ;
         sd:endpoint          <https://rdf.metanetx.org/sparql> ;
-        schema:dateModified  "2024-07-18T14:07:16.190+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-24T14:07:18.618+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.muninn-project.org/sparql>
         a                    cat:DataService , sd:Service ;
