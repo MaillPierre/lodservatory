@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-25T13:08:46.395+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-25T14:06:56.914+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-25T13:08:46.395+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-25T14:06:56.914+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1755,11 +1755,11 @@
 
 <https://bmrbpub.pdbj.org/search/rdf>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-23T21:07:47.251+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-25T14:07:17.245+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://bmrbpub.pdbj.org/search/rdf> ;
         sd:endpoint          <https://bmrbpub.pdbj.org/search/rdf> ;
-        schema:dateModified  "2024-07-23T21:07:47.251+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-25T14:07:17.245+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://bnb.data.bl.uk/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2995,11 +2995,11 @@
 
 <https://opendata.aragon.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-25T13:08:20.612+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-25T14:06:30.686+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://opendata.aragon.es/sparql> ;
         sd:endpoint          <https://opendata.aragon.es/sparql> ;
-        schema:dateModified  "2024-07-25T13:08:20.612+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-25T14:06:30.686+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://opendata.mfcr.cz/lod/sparql>
         a                    cat:DataService , sd:Service ;
