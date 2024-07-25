@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-24T23:07:58.823+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-25T00:22:43.020+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-24T23:07:58.823+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-25T00:22:43.020+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1675,11 +1675,11 @@
 
 <https://api.aucklandmuseum.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-24T21:06:35.854+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-25T00:21:38.996+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://api.aucklandmuseum.com/sparql> ;
         sd:endpoint          <https://api.aucklandmuseum.com/sparql> ;
-        schema:dateModified  "2024-07-24T21:06:35.854+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-25T00:21:38.996+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://api.cooperationdatabank.org/datasets/coda/databank/services/databank/sparql>
         a                    cat:DataService , sd:Service ;
