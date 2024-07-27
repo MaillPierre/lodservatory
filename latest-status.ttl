@@ -431,11 +431,11 @@
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-17T22:07:34.037+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T14:07:01.420+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://datos.bcn.cl/sparql> ;
         sd:endpoint          <http://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-07-17T22:07:34.037+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-27T14:07:01.420+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T13:07:53.870+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T14:07:10.619+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-27T13:07:53.870+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-27T14:07:10.619+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1963,11 +1963,11 @@
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T13:08:03.570+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T14:07:21.342+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.gesis.org/claimskg/sparql> ;
         sd:endpoint          <https://data.gesis.org/claimskg/sparql> ;
-        schema:dateModified  "2024-07-27T13:08:03.570+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-27T14:07:21.342+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://data.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
