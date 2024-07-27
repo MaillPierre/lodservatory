@@ -1571,11 +1571,11 @@
 
 <http://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T01:33:21.829+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T02:19:30.589+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <http://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-07-27T01:33:21.829+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-27T02:19:30.589+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://www.imagesnippets.com/sparql/images>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T01:33:33.372+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T02:19:40.075+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-27T01:33:33.372+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-27T02:19:40.075+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3555,11 +3555,11 @@
 
 <https://www.genome.jp/sparql/linkdb>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T01:33:42.231+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-27T02:19:54.197+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.genome.jp/sparql/linkdb> ;
         sd:endpoint          <https://www.genome.jp/sparql/linkdb> ;
-        schema:dateModified  "2024-07-27T01:33:42.231+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-27T02:19:54.197+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://www.govdata.de/sparql>
         a                    cat:DataService , sd:Service ;
