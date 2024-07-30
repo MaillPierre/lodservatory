@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-30T07:08:08.914+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-30T13:09:52.739+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-07-30T07:08:08.914+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-30T13:09:52.739+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-30T12:09:29.841+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-30T13:08:53.335+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-07-30T12:09:29.841+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-07-30T13:08:53.335+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2419,11 +2419,11 @@
 
 <https://hamap.expasy.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-30T11:06:52.899+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-30T13:09:03.720+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://hamap.expasy.org/sparql> ;
         sd:endpoint          <https://hamap.expasy.org/sparql> ;
-        schema:dateModified  "2024-07-30T11:06:52.899+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-30T13:09:03.720+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://harvard.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-30T02:19:05.425+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-30T13:07:28.445+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-07-30T02:19:05.425+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-30T13:07:28.445+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
