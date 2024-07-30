@@ -1955,11 +1955,11 @@
 
 <https://data.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-13T09:05:21.809+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-07-30T21:05:28.433+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://data.europa.eu/sparql> ;
         sd:endpoint          <https://data.europa.eu/sparql> ;
-        schema:dateModified  "2024-07-13T09:05:21.809+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-07-30T21:05:28.433+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://data.gesis.org/claimskg/sparql>
         a                    cat:DataService , sd:Service ;
