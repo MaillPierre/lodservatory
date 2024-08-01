@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T11:07:22.069+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T12:10:02.626+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-08-01T11:07:22.069+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-01T12:10:02.626+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3443,11 +3443,11 @@
 
 <https://vocab.getty.edu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-18T09:07:27.589+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T12:10:19.976+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://vocab.getty.edu/sparql> ;
         sd:endpoint          <https://vocab.getty.edu/sparql> ;
-        schema:dateModified  "2024-07-18T09:07:27.589+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-01T12:10:19.976+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://vocab.nerc.ac.uk/sparql>
         a                    cat:DataService , sd:Service ;
