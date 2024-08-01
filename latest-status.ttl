@@ -79,11 +79,11 @@
 
 <http://bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T08:07:17.902+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T09:05:28.999+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://bio2rdf.org/sparql> ;
         sd:endpoint          <http://bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-08-01T08:07:17.902+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-01T09:05:28.999+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://biolit.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-27T23:06:28.963+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T09:06:00.587+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-07-27T23:06:28.963+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-01T09:06:00.587+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
@@ -3035,11 +3035,11 @@
 
 <https://pgxlod.loria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-02-12T09:06:48.406+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T09:06:27.270+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://pgxlod.loria.fr/sparql> ;
         sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
-        schema:dateModified  "2024-02-12T09:06:48.406+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-01T09:06:27.270+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
