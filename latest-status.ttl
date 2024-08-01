@@ -423,11 +423,11 @@
 
 <http://dati.senato.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T02:25:10.622+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T10:07:27.925+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.senato.it/sparql> ;
         sd:endpoint          <http://dati.senato.it/sparql> ;
-        schema:dateModified  "2024-08-01T02:25:10.622+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-01T10:07:27.925+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1063,11 +1063,11 @@
 
 <http://lod.xdams.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2023-12-12T16:07:32.295+00:00"^^xsd:dateTime , "2023-12-19T17:06:16.147+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T10:05:45.787+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.xdams.org/sparql> ;
         sd:endpoint          <http://lod.xdams.org/sparql> ;
-        schema:dateModified  "2023-12-12T16:07:32.295+00:00"^^xsd:dateTime , "2023-12-19T17:06:16.147+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-01T10:05:45.787+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://lsd.dbcls.jp/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3035,11 +3035,11 @@
 
 <https://pgxlod.loria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T09:06:27.270+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-01T10:06:37.556+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://pgxlod.loria.fr/sparql> ;
         sd:endpoint          <https://pgxlod.loria.fr/sparql> ;
-        schema:dateModified  "2024-08-01T09:06:27.270+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-01T10:06:37.556+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://premon.fbk.eu/sparql>
         a                    cat:DataService , sd:Service ;
