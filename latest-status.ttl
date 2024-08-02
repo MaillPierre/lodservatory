@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T18:07:31.992+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-02T05:06:41.223+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-08-01T18:07:31.992+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-02T05:06:41.223+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -815,11 +815,11 @@
 
 <http://id.sgcb.mcu.es/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-02T02:20:40.044+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-02T05:06:48.501+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://id.sgcb.mcu.es/sparql> ;
         sd:endpoint          <http://id.sgcb.mcu.es/sparql> ;
-        schema:dateModified  "2024-08-02T02:20:40.044+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-02T05:06:48.501+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://ieee.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T18:07:05.754+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-02T05:06:16.221+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-08-01T18:07:05.754+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-02T05:06:16.221+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3099,11 +3099,11 @@
 
 <https://rdf.insee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T06:08:56.052+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-02T05:07:04.555+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.insee.fr/sparql> ;
         sd:endpoint          <https://rdf.insee.fr/sparql> ;
-        schema:dateModified  "2024-08-01T06:08:56.052+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-02T05:07:04.555+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3139,11 +3139,11 @@
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-06T22:06:05.164+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-02T05:06:28.912+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ruian.linked.opendata.cz/sparql> ;
         sd:endpoint          <https://ruian.linked.opendata.cz/sparql> ;
-        schema:dateModified  "2024-04-06T22:06:05.164+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-02T05:06:28.912+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://semantic.eea.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
