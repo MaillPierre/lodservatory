@@ -2131,11 +2131,11 @@
 
 <https://datos.bcn.cl/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-03T08:08:02.507+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-03T09:08:06.773+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://datos.bcn.cl/sparql> ;
         sd:endpoint          <https://datos.bcn.cl/sparql> ;
-        schema:dateModified  "2024-08-03T08:08:02.507+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-03T09:08:06.773+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://datos.bne.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2531,11 +2531,11 @@
 
 <https://idsm.elixir-czech.cz/sparql/endpoint/idsm>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T02:17:54.520+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-03T09:06:39.233+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://idsm.elixir-czech.cz/sparql/endpoint/idsm> ;
         sd:endpoint          <https://idsm.elixir-czech.cz/sparql/endpoint/idsm> ;
-        schema:dateModified  "2024-07-20T02:17:54.520+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-03T09:06:39.233+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://imagesnippets.com/sparql/images>
         a                    cat:DataService , sd:Service ;
