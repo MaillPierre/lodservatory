@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T06:08:43.075+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T07:08:04.177+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-08-04T06:08:43.075+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T07:08:04.177+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1827,11 +1827,11 @@
 
 <https://covidontheweb.inria.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-17T17:07:18.208+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T07:07:46.179+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://covidontheweb.inria.fr/sparql> ;
         sd:endpoint          <https://covidontheweb.inria.fr/sparql> ;
-        schema:dateModified  "2024-06-17T17:07:18.208+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T07:07:46.179+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2355,11 +2355,11 @@
 
 <https://fr.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-01T11:06:31.862+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T07:06:22.083+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://fr.dbpedia.org/sparql> ;
         sd:endpoint          <https://fr.dbpedia.org/sparql> ;
-        schema:dateModified  "2024-08-01T11:06:31.862+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T07:06:22.083+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://fuseki.gwascentral.org/gc/query>
         a                    cat:DataService , sd:Service ;
