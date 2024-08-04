@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T17:07:59.479+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:08:20.405+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-08-04T17:07:59.479+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T18:08:20.405+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -407,11 +407,11 @@
 
 <http://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T05:06:41.429+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:07:10.987+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://dati.beniculturali.it/sparql> ;
         sd:endpoint          <http://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-08-04T05:06:41.429+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T18:07:10.987+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -743,11 +743,11 @@
 
 <http://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T17:06:42.488+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:07:01.432+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://genome.microbedb.jp/sparql> ;
         sd:endpoint          <http://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-08-04T17:06:42.488+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T18:07:01.432+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -1047,11 +1047,11 @@
 
 <http://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T17:06:57.153+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:07:16.335+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://lod.openlinksw.com/sparql> ;
         sd:endpoint          <http://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-08-04T17:06:57.153+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T18:07:16.335+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2099,11 +2099,11 @@
 
 <https://dati.beniculturali.it/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T05:06:13.555+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:06:39.448+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://dati.beniculturali.it/sparql> ;
         sd:endpoint          <https://dati.beniculturali.it/sparql> ;
-        schema:dateModified  "2024-08-04T05:06:13.555+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T18:06:39.448+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://dati.camera.it/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2387,11 +2387,11 @@
 
 <https://genome.microbedb.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T17:07:03.967+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:07:17.587+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://genome.microbedb.jp/sparql> ;
         sd:endpoint          <https://genome.microbedb.jp/sparql> ;
-        schema:dateModified  "2024-08-04T17:07:03.967+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T18:07:17.587+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://geo.linkeddata.es/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2819,11 +2819,11 @@
 
 <https://lod.openlinksw.com/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-04T17:07:18.851+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T18:07:37.921+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://lod.openlinksw.com/sparql> ;
         sd:endpoint          <https://lod.openlinksw.com/sparql> ;
-        schema:dateModified  "2024-08-04T17:07:18.851+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-04T18:07:37.921+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://lod.sztaki.hu/sparql>
         a                    cat:DataService , sd:Service ;
