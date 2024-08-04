@@ -3595,11 +3595,11 @@
 
 <https://www.orkg.org/orkg/triplestore>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-06-06T08:08:00.461+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T16:06:14.382+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://www.orkg.org/orkg/triplestore> ;
         sd:endpoint          <https://www.orkg.org/orkg/triplestore> ;
-        schema:dateModified  "2024-06-06T08:08:00.461+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T16:06:14.382+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://www.orpha.net/sparql>
         a                    cat:DataService , sd:Service ;
