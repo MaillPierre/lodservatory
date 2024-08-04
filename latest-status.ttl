@@ -39,11 +39,11 @@
 
 <http://affymetrix.bio2rdf.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-03T17:07:33.792+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T00:26:16.313+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://affymetrix.bio2rdf.org/sparql> ;
         sd:endpoint          <http://affymetrix.bio2rdf.org/sparql> ;
-        schema:dateModified  "2024-08-03T17:07:33.792+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T00:26:16.313+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <http://agrovoc.uniroma2.it:3030/agrovoc/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3067,11 +3067,11 @@
 
 <https://publications.europa.eu/webapi/rdf/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-20T22:06:55.232+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-04T00:25:37.978+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://publications.europa.eu/webapi/rdf/sparql> ;
         sd:endpoint          <https://publications.europa.eu/webapi/rdf/sparql> ;
-        schema:dateModified  "2024-07-20T22:06:55.232+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-04T00:25:37.978+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://query.wikidata.org/bigdata/namespace/wdq/sparql>
         a                    cat:DataService , sd:Service ;
