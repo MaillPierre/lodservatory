@@ -1835,11 +1835,11 @@
 
 <https://cr.eionet.europa.eu/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-05T02:22:15.340+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-05T04:08:30.224+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://cr.eionet.europa.eu/sparql> ;
         sd:endpoint          <https://cr.eionet.europa.eu/sparql> ;
-        schema:dateModified  "2024-08-05T02:22:15.340+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-05T04:08:30.224+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://cs.dbpedia.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -2643,11 +2643,11 @@
 
 <https://ld.cultural.jp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-07-26T00:21:54.414+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-05T04:07:30.970+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://ld.cultural.jp/sparql> ;
         sd:endpoint          <https://ld.cultural.jp/sparql> ;
-        schema:dateModified  "2024-07-26T00:21:54.414+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-05T04:07:30.970+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://ldf.fi/folklore/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3211,11 +3211,11 @@
 
 <https://sophox.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-05T03:06:03.426+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-05T04:06:45.518+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://sophox.org/sparql> ;
         sd:endpoint          <https://sophox.org/sparql> ;
-        schema:dateModified  "2024-08-05T03:06:03.426+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-05T04:06:45.518+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://sparql-noipa.mef.gov.it/sparql>
         a                    cat:DataService , sd:Service ;
