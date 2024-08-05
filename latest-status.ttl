@@ -3099,11 +3099,11 @@
 
 <https://rdf.insee.fr/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-05T05:08:42.215+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-05T06:08:57.559+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rdf.insee.fr/sparql> ;
         sd:endpoint          <https://rdf.insee.fr/sparql> ;
-        schema:dateModified  "2024-08-05T05:08:42.215+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-05T06:08:57.559+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://rdf.metanetx.org/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3675,11 +3675,11 @@
 
 <https://zbw.eu/beta/sparql/pm20/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-05T05:08:42.885+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-05T06:08:58.186+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://zbw.eu/beta/sparql/pm20/query> ;
         sd:endpoint          <https://zbw.eu/beta/sparql/pm20/query> ;
-        schema:dateModified  "2024-08-05T05:08:42.885+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-05T06:08:58.186+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://zbw.eu/beta/sparql/stw/query>
         a                    cat:DataService , sd:Service ;
