@@ -2627,11 +2627,11 @@
 
 <https://landportal.org/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-06T15:06:53.816+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-06T17:06:43.451+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://landportal.org/sparql> ;
         sd:endpoint          <https://landportal.org/sparql> ;
-        schema:dateModified  "2024-08-06T15:06:53.816+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-06T17:06:43.451+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <https://landregistry.data.gov.uk/landregistry/query>
         a                    cat:DataService , sd:Service ;
@@ -3131,11 +3131,11 @@
 
 <https://rpp-opendata.egon.gov.cz/odrpp/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-03-11T05:07:15.258+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-06T17:07:45.765+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
         sd:endpoint          <https://rpp-opendata.egon.gov.cz/odrpp/sparql> ;
-        schema:dateModified  "2024-03-11T05:07:15.258+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-06T17:07:45.765+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://ruian.linked.opendata.cz/sparql>
         a                    cat:DataService , sd:Service ;
