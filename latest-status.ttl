@@ -615,11 +615,11 @@
 
 <http://environment.data.gov.uk/sparql/bwq/query>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-08-06T20:06:21.228+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-06T22:06:35.364+00:00"^^xsd:dateTime ;
         cat:endpointURL      <http://environment.data.gov.uk/sparql/bwq/query> ;
         sd:endpoint          <http://environment.data.gov.uk/sparql/bwq/query> ;
-        schema:dateModified  "2024-08-06T20:06:21.228+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:OfflineTemporarily .
+        schema:dateModified  "2024-08-06T22:06:35.364+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:Online .
 
 <http://eprints.rkbexplorer.com/sparql>
         a                    cat:DataService , sd:Service ;
@@ -3627,11 +3627,11 @@
 
 <https://xn--slovnk-7va.gov.cz/sparql>
         a                    cat:DataService , sd:Service ;
-        dcterms:available    "2024-04-07T05:07:43.161+00:00"^^xsd:dateTime ;
+        dcterms:available    "2024-08-06T22:07:13.380+00:00"^^xsd:dateTime ;
         cat:endpointURL      <https://xn--slovnk-7va.gov.cz/sparql> ;
         sd:endpoint          <https://xn--slovnk-7va.gov.cz/sparql> ;
-        schema:dateModified  "2024-04-07T05:07:43.161+00:00"^^xsd:dateTime ;
-        schema:serverStatus  schema:Online .
+        schema:dateModified  "2024-08-06T22:07:13.380+00:00"^^xsd:dateTime ;
+        schema:serverStatus  schema:OfflineTemporarily .
 
 <https://xula.eagle-i.net/sparqler/sparql>
         a                    cat:DataService , sd:Service ;
